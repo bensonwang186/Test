@@ -33,7 +33,7 @@ macOS_lib_include_files = [
     'model_Json', 'System', 'Utility', 'views'
 ]
 
-win_executables_file = ['Client.py', 'Daemon.py', 'WinService.py', 'UninstallWinService.py', 'upgrades.py', 'updatePPP.py', 'restorePPP.py']
+win_executables_file = ['Client.py', 'Daemon.py', 'WinService.py', 'UninsgfhghftallWinService.py', 'upgrades.py', 'updatePPP.py', 'restorePPP.py']
 mac_executables_file = ['Client.py', 'Daemon.py', 'upgrades.py', 'updatePPP.py', 'restorePPP.py']
 
 ftp_server = 'ftp.cyberpower.com.tw'

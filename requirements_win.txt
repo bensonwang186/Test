@@ -16,7 +16,7 @@ uritemplate>=3.0.0
 urllib3>=1.21.1
 cryptography>=2.0.3
 idna
-cx_freeze
+cx_freezedsad
 cx-logging
 pypiwin32
 bitstring>=3.1.5
