@@ -1,7 +1,0 @@
-# {0} is an application name
-PrepareInstaller={0} bereitet den Installationsassistenten vor, der Sie durch die restliche Installation leitet.
-WizardCaption=PowerPanel Person Install Wizard
-FinishScreenCloudStep1=Schritte zum Verbinden von PowerPanel Cloud
-FinishScreenCloudStep2=1. Gehen Sie zu Advanced
-FinishScreenCloudStep3=2. USV zu PowerPanel Cloud hinzufügen
-InstallingScreenCloudDescription=Sie können die Stromversorgung jederzeit und überall überwachen

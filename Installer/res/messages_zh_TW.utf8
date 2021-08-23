@@ -1,7 +1,0 @@
-# {0} is an application name
-PrepareInstaller={0} 正在準備安裝精靈，它將引導您完成剩餘的安裝流程。
-WizardCaption=PowerPanel Personal 安裝精靈
-FinishScreenCloudStep1=連接PowerPanel Cloud的步驟
-FinishScreenCloudStep2=1. 前往"進階"
-FinishScreenCloudStep3=2. 連接UPS與PowerPanel Cloud
-InstallingScreenCloudDescription=您可以在任何時間及地點監控電源設備

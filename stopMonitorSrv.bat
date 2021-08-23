@@ -1,1 +1,0 @@
-net stop "PowerPanel Personal Service Monitor"

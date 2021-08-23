@@ -1,7 +1,0 @@
-# {0} is an application name
-PrepareInstaller={0} is preparing the Installer Wizard that will guide you through the rest of the setup process.
-WizardCaption=PowerPanel Personal Installation Wizard
-FinishScreenCloudStep1=连接PowerPanel Cloud的步骤
-FinishScreenCloudStep2=1. 前往"高级"
-FinishScreenCloudStep3=2. 连接UPS与PowerPanel Cloud
-InstallingScreenCloudDescription=您可以在任何时间及地点监控电源设备

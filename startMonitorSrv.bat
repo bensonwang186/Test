@@ -1,1 +1,0 @@
-net start "PowerPanel Personal Service Monitor"
