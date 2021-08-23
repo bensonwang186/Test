@@ -1,0 +1,1226 @@
+# Copyright (C) CyberPower Systems, Inc. ALL RIGHTS RESERVED.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-06-05 11:32+0800\n"
+"PO-Revision-Date: 2017-06-05 11:34+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#----------------------About----------------------
+
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+msgid "version"
+msgstr "versione"
+
+msgid "Hardware Information"
+msgstr "Informazioni sull'hardware"
+
+msgid "Model Name"
+msgstr "Nome modello"
+
+msgid "Firmware Version"
+msgstr "Versione dei firmware"
+
+msgid "Power Ratting"
+msgstr "Potenza nominale"
+
+msgid "Web Support Information"
+msgstr "Informazioni sull'assistenza Web"
+
+msgid "website"
+msgstr "Website"
+
+msgid "Products"
+msgstr "Products"
+
+msgid "Contacts"
+msgstr "Contacts"
+
+msgid "Click here to get the technical support information on the Web"
+msgstr "Fare clic qui per ottenere informazioni sull'assistenza tecnica sul Web"
+
+msgid "Click here to get other products on the Web"
+msgstr "Fare clic qui per ottenere altri prodotti sul Web"
+
+msgid "Click here to get contact information on the Web"
+msgstr "Fare clic qui per ottenere le informazioni di contatto sul Web"
+
+msgid "Watts"
+msgstr "Watt"
+
+#----------------------Advanced----------------------
+
+msgid "UPS Name"
+msgstr "UPS Name"
+
+msgid "Please download PowerPanel APP and create an account from the APP."
+msgstr "Please download PowerPanel APP and create an account from the APP."
+
+msgid "Advanced"
+msgstr "Avanzate"
+
+msgid "Input Voltage Sensitivity"
+msgstr "Sensibilità tensione d'ingresso"
+
+msgid "You can select an adequate sensitivity according to the equipment and the power."
+msgstr "Si può selezionare una sensibilità adeguata in base alla qualità della potenza ed ai requisiti dell'attrezzatura."
+
+msgid "Controls the power quality according to xxxx sensitivity."
+msgstr "Controlla la qualità della potenza in base alla sensibilità xxxx ."
+
+msgid "Shutdown Type"
+msgstr "Shutdown Type"
+
+msgid "You can specify the manner in which the computer is shutdown."
+msgstr "You can specify the manner in which the computer is shutdown."
+
+msgid "Low"
+msgstr "Bassa"
+
+msgid "Medium"
+msgstr "Media"
+
+msgid "High"
+msgstr "Alta"
+
+msgid "Shutdown"
+msgstr "Shutdown"
+
+msgid "Hibernation"
+msgstr "Hibernation"
+
+msgid "Please input UPS name."
+msgstr "Please input UPS name."
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "I agree to the xxxx0 | xxxx1."
+msgstr "I agree to the xxxx0 | xxxx1."
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#----------------------AppTray----------------------
+
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+msgid "UPS no longer receiving AC utility power"
+msgstr "L'UPS non riceve più alimentazione dalla rete elettrica"
+
+msgid "Your UPS is now supplying battery power to your equipment."
+msgstr "Adesso l'UPS sta erogando corrente all'attrezzatura."
+
+msgid "Unable to communicate with UPS"
+msgstr "Impossibile comunicare con l'UPS"
+
+msgid "Please make sure the USB or serial cable is connected between the UPS and computer."
+msgstr "Assicurarsi che il cavo USB o seriale sia collegato alla UPS ed al computer."
+
+msgid "Communication with UPS is restored"
+msgstr "Comunicazione con l'UPS ripristinata"
+
+msgid "Your UPS is correctly connected to your computer."
+msgstr "L'UPS è collegata in modo corretto al computer."
+
+msgid "PowerPanel Personal Service is not running"
+msgstr "PowerPanel Personal Service is not running"
+
+msgid "Your computer will be shutdown immediately!"
+msgstr "Il computer si disattiverà immediatamente!"
+
+msgid "Your computer will enter hibernate immediately!"
+msgstr "Il computer si ibernerà immediatamente!"
+
+msgid "Your computer will be shutdown in xxxx seconds!"
+msgstr "Il computer si disattiverà entro xxxx secondi!"
+
+msgid "Your computer will enter hibernate in xxxx seconds!"
+msgstr "Il computer si ibernerà entro xxxx secondi!"
+
+msgid "Utility power restored to UPS"
+msgstr "Alimentazione della rete elettrica ripristinata alla UPS"
+
+msgid "Your equipment is now running on AC utility power."
+msgstr "L'attrezzatura adesso riceve la corrente dalla rete elettrica."
+
+msgid "the shutdown process has been aborted."
+msgstr "the shutdown process has been aborted."
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Summary"
+msgstr "Riepilogo"
+
+msgid "Configure"
+msgstr "Configura"
+
+msgid "Change Language"
+msgstr "Cambia Lingua"
+
+#----------------------ConfigrationMain----------------------
+
+msgid "Configure your UPS"
+msgstr "Configurazione UPS"
+
+#----------------------CurrentStatus----------------------
+
+msgid "You can configure the settings of application_short_name to ensure optimum performance of the UPS."
+msgstr "Si possono configurare le impostazioni di application_short_name per assicurare le prestazioni ottimali dell'UPS."
+
+msgid "AC Utility Power"
+msgstr "Corrente elettrica"
+
+msgid "Battery"
+msgstr "Batteria"
+
+msgid "Discharging"
+msgstr "Scaricamento"
+
+msgid "Fully Charged"
+msgstr "Completamente carica"
+
+msgid "Charging"
+msgstr "Caricamento"
+
+msgid "Overload"
+msgstr "Sovraccarico"
+
+msgid "Power Outage"
+msgstr "Ammanco di corrente"
+
+msgid "Under Voltage"
+msgstr "Tensione insufficiente"
+
+msgid "Over Voltage"
+msgstr "Sovratensione"
+
+msgid "Frequency Failure"
+msgstr "La mancata frequenza"
+
+msgid "Voltage Boost"
+msgstr "Aumento tensione"
+
+msgid "Voltage Buck"
+msgstr "Riduzione tensione"
+
+msgid "Normal"
+msgstr "Normale"
+
+msgid "volts"
+msgstr "volt"
+
+msgid "minutes"
+msgstr "minuti"
+
+msgid "watts"
+msgstr "watt"
+
+msgid "Current Status"
+msgstr "Stato attuale"
+
+msgid "Electrical power supplied by"
+msgstr "Fornitura corrente elettrica"
+
+msgid "Voltage supplied"
+msgstr "Tensione fornita"
+
+msgid "Power condition"
+msgstr "Condizioni tensione"
+
+msgid "Remaining battery capacity"
+msgstr "Capacità autonomia della batteria"
+
+msgid "Battery status"
+msgstr "Stato batteria"
+
+msgid "Remaining battery runtime"
+msgstr "Autonomia rimanente"
+
+msgid "Hardware status"
+msgstr "Hardware status"
+
+#----------------------EmailSender----------------------
+
+msgid "UPS load"
+msgstr "Carico UPS"
+
+msgid "Event Notification"
+msgstr "Event Notification"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "power_event_notify"
+msgstr "Power Event Notification"
+
+#----------------------EnergyReporting----------------------
+
+msgid "Energy Reporting"
+msgstr "Energy Reporting"
+
+msgid "Statistic"
+msgstr "Statistic"
+
+msgid "From"
+msgstr "From"
+
+msgid "To"
+msgstr "To"
+
+msgid "Average Energy Consumption"
+msgstr "Average Energy Consumption"
+
+msgid "Cumulative Energy Consumption"
+msgstr "Cumulative Energy Consumption"
+
+msgid "Cumulative Cost"
+msgstr "Cumulative Cost"
+
+#----------------------EnergySettings----------------------
+
+msgid "CO2"
+msgstr "CO2"
+
+msgid "Show energy cost history"
+msgstr "Show energy cost history"
+
+msgid "Today"
+msgstr "Oggi"
+
+msgid "Change Country"
+msgstr "Change Country"
+
+msgid "Hide energy cost history"
+msgstr "Hide energy cost history"
+
+msgid "Edit record"
+msgstr "Edit record"
+
+msgid "Delete record"
+msgstr "Delete record"
+
+msgid "Cost value should be within range 0~100000."
+msgstr "Cost value should be within range 0~100000."
+
+msgid "Apply Success"
+msgstr "Apply Success"
+
+msgid "Apply Error"
+msgstr "Apply Error"
+
+msgid "Energy Settings"
+msgstr "Energy Settings"
+
+msgid "Country Selection"
+msgstr "Country Selection"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Energy Cost"
+msgstr "Energy Cost"
+
+msgid "Cost per kWh"
+msgstr "Cost per kWh"
+
+msgid "CO2 Emissions"
+msgstr "CO2 Emissions"
+
+msgid "CO2 Emitted per kWh"
+msgstr "CO2 Emitted per kWh"
+
+msgid "Unit of Measurement"
+msgstr "Unit of Measurement"
+
+msgid "Kilograms(kg)"
+msgstr "Kilograms(kg)"
+
+msgid "Pounds(lb)"
+msgstr "Pounds(lb)"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Start Date"
+msgstr "Start Date"
+
+msgid "End Date"
+msgstr "End Date"
+
+msgid "Are you sure to remove this record?"
+msgstr "Are you sure to remove this record?"
+
+msgid "No"
+msgstr "No"
+
+msgid "Yes"
+msgstr "Sì"
+
+msgid "Changing the country will reset the energy settings."
+msgstr "Changing the country will reset the energy settings."
+
+msgid "Are you sure to continue?"
+msgstr "Are you sure to continue?"
+
+#----------------------MasterPage----------------------
+
+msgid "PowerPanel Personal Service is not ready."
+msgstr "PowerPanel Personal Service is not ready."
+
+msgid "Unable to establish communication with UPS."
+msgstr "Impossibile stabilire la comunicazione con l'UPS."
+
+msgid "The UPS is working normally."
+msgstr "L'UPS funziona normalmente."
+
+msgid "min."
+msgstr "min."
+
+msgid "AC Utility"
+msgstr "Rete elettrica"
+
+msgid "Power Source"
+msgstr "Alimentazione"
+
+msgid "Battery Capacity"
+msgstr "Capacità batteria"
+
+msgid "Estimated Runtime"
+msgstr "Autonomia stimata"
+
+msgid "Schedule"
+msgstr "Pianificazione"
+
+msgid "Notification"
+msgstr "Notifica"
+
+msgid "Runtime"
+msgstr "Autonomia"
+
+msgid "Voltage"
+msgstr "Tensione"
+
+msgid "Self-Test"
+msgstr "Diagnostica"
+
+msgid "About"
+msgstr "Informazioni su"
+
+#----------------------Notification----------------------
+
+msgid "Verifying..."
+msgstr "Verifying..."
+
+msgid "Testing..."
+msgstr "Testing..."
+
+msgid "Exchange Success."
+msgstr "Exchange Success."
+
+msgid "Exchange Failure."
+msgstr "Exchange Failure."
+
+msgid "Test Send Success."
+msgstr "Test Send Success."
+
+msgid "Test Send Failure."
+msgstr "Test Send Failure."
+
+msgid "SMTP Address Invalid"
+msgstr "SMTP Address Invalid"
+
+msgid "Email Format error"
+msgstr "Email Format error"
+
+msgid "Account cannot be empty, when auth active."
+msgstr "Account cannot be empty, when auth active."
+
+msgid "Verify Success."
+msgstr "Verify Success."
+
+msgid "Verify Failure."
+msgstr "Verify Failure."
+
+msgid "Enter the authorization code here."
+msgstr "Enter the authorization code here."
+
+msgid "Software Sounds"
+msgstr "Suoni del software"
+
+msgid "application_short_name generates audible sounds to notify you of power events."
+msgstr "application_short_name genera avvisi sonori per notificare gli eventi"
+
+msgid "Enable application_short_name notification sounds"
+msgstr "Abilita suoni di notifica di application_short_name"
+
+msgid "UPS Alarms"
+msgstr "Allarmi UPS"
+
+msgid "The UPS generates audible alarms during power events."
+msgstr "L'UPS genera avvisi sonori durante gli eventi."
+
+msgid "Enable alarms at all times"
+msgstr "Abilita sempre gli allarmi"
+
+msgid "Disable alarms at all times"
+msgstr "Disabilita sempre gli allarmi"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Activate"
+msgstr "Activate"
+
+msgid "Service Provider"
+msgstr "Service Provider"
+
+msgid "other"
+msgstr "other"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Request"
+msgstr "Request"
+
+msgid "Change"
+msgstr "Change"
+
+msgid "SMTP server address"
+msgstr "SMTP server address"
+
+msgid "Secure connection"
+msgstr "Secure connection"
+
+msgid "Service port"
+msgstr "Service port"
+
+msgid "Sender name"
+msgstr "Sender name"
+
+msgid "Sender E-mail address"
+msgstr "Sender E-mail address"
+
+msgid "Authentication"
+msgstr "Authentication"
+
+msgid "Receiver E-mail address"
+msgstr "Receiver E-mail address"
+
+msgid "Test"
+msgstr "Test"
+
+#----------------------Runtime----------------------
+
+msgid "Verify"
+msgstr "Verify"
+
+msgid "Runtime Configuration"
+msgstr "Configurazione autonomia"
+
+msgid "You can change the length of time that application_short_name allows your UPS to run on battery power."
+msgstr "Si può cambiare la durata di tempo che application_short_name consente alla UPS di funzionare autonomamente."
+
+msgid "Keep Computer Running"
+msgstr "Mantieni il computer in funzione"
+
+msgid "Shutdown this computer when remaining battery runtime is only xxxx minutes."
+msgstr "Spegni questo computer quando l'autonomia rimanente della batteria è di soli xxxx minuti."
+
+msgid "Use this Option to extend operating time while on battery power."
+msgstr "Per allungare la durata operativa quando si usa la batteria."
+
+msgid "Preserve Battery Power"
+msgstr "Conserva la carica della batteria"
+
+msgid "Shutdown this computer after UPS runs on battery power for xxxx minutes."
+msgstr "Spegni questo computer quando l'UPS ha funzionato autonomamente per xxxx minuti."
+
+#----------------------Schedule----------------------
+
+msgid "Use this option to save battery power for successive power outages."
+msgstr "Per conservare la carica di batteria per i futuri ammanchi di corrente."
+
+msgid "Your computer will be shut down at xxxx0 on xxxx1 xxxx2."
+msgstr "Il computer si spegnerò alle xxxx0 il xxxx1 xxxx2."
+
+msgid "Your computer will be shut down at xxxx0 on xxxx1 xxxx2 and restart at xxxx3 on xxxx4 xxxx5."
+msgstr "Il computer si spegnerò alle xxxx0 il xxxx1 xxxx2 e si riavvierà alle xxxx3 il xxxx4 xxxx5."
+
+msgid "Monday"
+msgstr "Lunedì"
+
+msgid "Tuesday"
+msgstr "Martedì"
+
+msgid "Wednesday"
+msgstr "Mercoledì"
+
+msgid "Thursday"
+msgstr "Giovedì"
+
+msgid "Friday"
+msgstr "Venerdì"
+
+msgid "Saturday"
+msgstr "Sabato"
+
+msgid "Sunday"
+msgstr "Domenica"
+
+msgid "You can decide when time your computer and equipment will turn ON and OFF."
+msgstr "Si può decidere a che ora l'attrezzatura ed il computer si spegneranno e si riaccenderanno."
+
+msgid "Days"
+msgstr "Giorni"
+
+msgid "ON"
+msgstr "ATTIVA"
+
+msgid "Act."
+msgstr "Attività"
+
+msgid "OFF"
+msgstr "DISATTIVA"
+
+msgid "N.R"
+msgstr "N.R."
+
+#----------------------SelfTest----------------------
+
+msgid "Self-test helps ensure your UPS is working correctly."
+msgstr "La diagnostica aiuta ad accertarsi che l'UPS funzioni correttamente."
+
+msgid "Date of last self-test"
+msgstr "Data dell'ultima diagnostica"
+
+msgid "Never"
+msgstr "Mai"
+
+msgid "Result of last self-test"
+msgstr "Risultati dell'ultima diagnostica"
+
+msgid "Click button to initiate a self-test to ensure UPS working correctly."
+msgstr "Are clic sul pulsante per iniziare una diagnostica ed accertarsi che l'UPS funzioni correttamente."
+
+msgid "Self-test is in progress, please wait..."
+msgstr "Diagnostica in corso, attendere"
+
+msgid "Passed"
+msgstr "Approvato"
+
+msgid "Not passed"
+msgstr "Not passed"
+
+msgid "None"
+msgstr "Nessuno"
+
+msgid "Initiate self-test"
+msgstr "Inizia diagnostica"
+
+#----------------------Summary----------------------
+
+msgid "time"
+msgstr "Orario"
+
+msgid "times"
+msgstr "Volte"
+
+msgid "hours"
+msgstr "ore"
+
+msgid "seconds"
+msgstr "secondi"
+
+msgid "AC utility power lost, use battery power at xxxx."
+msgstr "Perdita potenza rete elettrica, usa potenza batteria a xxxx."
+
+msgid "AC utility power is too low, use battery power at xxxx."
+msgstr "Potenza rete elettrica troppo bassa, usa potenza batteria a xxxx."
+
+msgid "AC utility power is too high, use battery power at xxxx."
+msgstr "Potenza rete elettrica troppo alta, usa potenza batteria a xxxx."
+
+msgid "AC utility frequency failure, use battery power at xxxx."
+msgstr "Potenza rete La mancata frequenza, usa potenza batteria a xxxx."
+
+msgid "Power Problem Summary"
+msgstr "Riepilogo problemi elettrici"
+
+msgid "Last Power Event"
+msgstr "Ultimo evento"
+
+msgid "Power Condition Summary"
+msgstr "Riepilogo condizioni potenza"
+
+msgid "Display period"
+msgstr "Durata"
+
+msgid "Last"
+msgstr "Ultimo"
+
+msgid "week"
+msgstr "settimana"
+
+msgid "weeks"
+msgstr "settimane"
+
+msgid "Power problem"
+msgstr "Problemi elettrici"
+
+msgid "Number of times"
+msgstr "Numero di volte"
+
+msgid "Amount of time"
+msgstr "Durata"
+
+msgid "Power outage"
+msgstr "Ammanco di corrente"
+
+msgid "Invert total"
+msgstr "Totale inversione"
+
+msgid "Voltage regulation"
+msgstr "egolazione tensione"
+
+msgid "Boost"
+msgstr "Boost"
+
+msgid "Buck"
+msgstr "Buck"
+
+#----------------------Voltage----------------------
+
+msgid "Regular total"
+msgstr "Totale regolare"
+
+msgid "The UPS will intervene when the AC utility voltage falls below xxxx volts or rises above xxxx volts."
+msgstr "L'UPS interverrà quando la tensione della rete elettrica cade sotto i xxxx Volt oppure supera i xxxx Volt."
+
+msgid "The current voltage is xxxx volts."
+msgstr "La tensione attuale è di xxxx Volt."
+
+msgid "You can change the point of transfer in the below section."
+msgstr "Nella sezione che segue s può cambiare il punto di trasferimento."
+
+msgid "UPS will intervene"
+msgstr "L'UPS interverrà"
+
+msgid "When AC utility voltage goes above xxxx volts."
+msgstr "Quando la rete elettrica sale sopra i xxxx Volt."
+
+#----------------------WebAppController----------------------
+
+msgid "When AC utility voltage goes below xxxx volts."
+msgstr "Quando la rete elettrica scende sotto i xxxx Volt."
+
+msgid "Login failed. Please wait for UPS connection and try again."
+msgstr "Login failed. Please wait for UPS connection and try again."
+
+msgid "An error occurred. Please try again."
+msgstr "An error occurred. Please try again."
+
+msgid "Update Success."
+msgstr "Update Success."
+
+msgid "Update Failed."
+msgstr "Update Failed."
+
+msgid "Duplicate device name."
+msgstr "Duplicate device name."
+
+#----------------------EventLogs----------------------
+
+msgid "Event Logs"
+msgstr "Event Logs"
+
+msgid "All"
+msgstr "All"
+
+msgid "Critical"
+msgstr "Critical"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "No result found"
+msgstr "No result found"
+
+msgid "eventId_0"
+msgstr "Utility power failed, transfer to backup mode"
+
+msgid "eventId_1"
+msgstr "Utility power restored, return from backup mode"
+
+msgid "eventId_2"
+msgstr "The UPS has enabled boost, low utility voltage"
+
+msgid "eventId_3"
+msgstr "The UPS has enabled buck, high utility voltage"
+
+msgid "eventId_4"
+msgstr "Output voltage is normal and the voltage boost will stop."
+
+msgid "eventId_5"
+msgstr "Output voltage is normal and the voltage buck will stop."
+
+msgid "eventId_6"
+msgstr "Utility power has higher been transfer, battery power will be supplied."
+
+msgid "eventId_7"
+msgstr "Utility power has been restored; the battery power has stopped supplying power."
+
+msgid "eventId_8"
+msgstr "Utility power has lower been transfer, battery power will be supplied."
+
+msgid "eventId_9"
+msgstr "Utility power has been restored; the battery power has stopped supplying power."
+
+msgid "eventId_16"
+msgstr "The UPS has been turned off"
+
+msgid "eventId_17"
+msgstr "The UPS has been turned on"
+
+msgid "eventId_18"
+msgstr "The UPS entered sleep mode. Output power will not be provided"
+
+msgid "eventId_19"
+msgstr "The UPS woke up from sleep mode. Output power is being provided"
+
+msgid "eventId_20"
+msgstr "The UPS enters Bypass Mode"
+
+msgid "eventId_21"
+msgstr "The UPS leaves Bypass Mode"
+
+msgid "eventId_22"
+msgstr "The UPS bypass overload"
+
+msgid "eventId_23"
+msgstr "The UPS bypass overload has been cleared"
+
+msgid "eventId_24"
+msgstr "Non-Critical bank has been turned on"
+
+msgid "eventId_25"
+msgstr "Non-Critical bank has been turned off"
+
+msgid "eventId_26"
+msgstr "Enters ECO mode"
+
+msgid "eventId_27"
+msgstr "Leave ECO mode"
+
+msgid "eventId_28"
+msgstr "Output is no longer overloaded"
+
+msgid "eventId_29"
+msgstr "The output power is going to stop soon"
+
+msgid "eventId_32"
+msgstr "The UPS has sensed an overload condition"
+
+msgid "eventId_33"
+msgstr "The UPS has returned from an overload condition"
+
+msgid "eventId_34"
+msgstr "The UPS inner temperature is too high"
+
+msgid "eventId_35"
+msgstr "The UPS over temperature condition cleared"
+
+msgid "eventId_36"
+msgstr "The UPS hardware fault"
+
+msgid "eventId_37"
+msgstr "The UPS enters ECO mode"
+
+msgid "eventId_38"
+msgstr "The UPS leaves ECO mode"
+
+msgid "eventId_39"
+msgstr "The UPS wiring fault has been detected"
+
+msgid "eventId_40"
+msgstr "The UPS wiring fault has been cleared"
+
+msgid "eventId_41"
+msgstr "UPS firmware starts to update"
+
+msgid "eventId_42"
+msgstr "UPS firmware update is over"
+
+msgid "eventId_43"
+msgstr "High power consumption"
+
+msgid "eventId_44"
+msgstr "High power consumption restore"
+
+msgid "eventId_45"
+msgstr "Low power consumption"
+
+msgid "eventId_46"
+msgstr "Low power consumption restore"
+
+msgid "eventId_47"
+msgstr "Hardware Status"
+
+msgid "eventId_48"
+msgstr "The UPS battery capacity is low than threshold, soon to be exhausted"
+
+msgid "eventId_49"
+msgstr "The UPS has returned from a low battery condition"
+
+msgid "eventId_50"
+msgstr "The battery charger is abnormal"
+
+msgid "eventId_51"
+msgstr "Battery is not present"
+
+msgid "eventId_52"
+msgstr "The battery may not work well anymore"
+
+msgid "eventId_53"
+msgstr "The battery has been replaced"
+
+msgid "eventId_54"
+msgstr "Battery is charging"
+
+msgid "eventId_55"
+msgstr "Battery stopped charging"
+
+msgid "eventId_56"
+msgstr "Battery is discharging"
+
+msgid "eventId_57"
+msgstr "Battery stopped discharging"
+
+msgid "eventId_58"
+msgstr "Available runtime is insufficient"
+
+msgid "eventId_59"
+msgstr "Battery is fully charged"
+
+msgid "eventId_60"
+msgstr "Remaining runtime will be exhausted"
+
+msgid "eventId_61"
+msgstr "Batteries have been installed"
+
+msgid "eventId_62"
+msgstr "Battery capacity is normal"
+
+msgid "eventId_63"
+msgstr "Available runtime become sufficient"
+
+msgid "eventId_64"
+msgstr "The UPS has started a battery test process"
+
+msgid "eventId_65"
+msgstr "The UPS battery test passed"
+
+msgid "eventId_66"
+msgstr "The UPS battery test failed"
+
+msgid "eventId_67"
+msgstr "The UPS has started a runtime calibration process"
+
+msgid "eventId_68"
+msgstr "The UPS runtime calibration completed"
+
+msgid "eventId_69"
+msgstr "The UPS runtime calibration aborted"
+
+msgid "eventId_70"
+msgstr "Battery test incomplete"
+
+msgid "eventId_71"
+msgstr "Calibration incomplete"
+
+msgid "eventId_80"
+msgstr "Communication with the UPS has been lost"
+
+msgid "eventId_81"
+msgstr "Communication with the UPS has been established"
+
+msgid "eventId_82"
+msgstr "Device is offline."
+
+msgid "eventId_83"
+msgstr "Device is online."
+
+msgid "eventId_84"
+msgstr "Communication cannot establish"
+
+msgid "eventId_85"
+msgstr "Local communication lost"
+
+msgid "eventId_86"
+msgstr "Local communication lost in a power event"
+
+msgid "eventId_87"
+msgstr "Cannot establish network communication with Power Device"
+
+msgid "eventId_88"
+msgstr "Network communication lost with UPS in a power event"
+
+msgid "eventId_89"
+msgstr "Network communication lost"
+
+msgid "eventId_90"
+msgstr "Communication is established"
+
+msgid "eventId_91"
+msgstr "Local communication has resumed"
+
+msgid "eventId_92"
+msgstr "Network communication established with UPS"
+
+msgid "eventId_93"
+msgstr "Network communication is restored"
+
+msgid "eventId_94"
+msgstr "Network communication established with Power Device"
+
+msgid "eventId_96"
+msgstr "Outlet high power consumption"
+
+msgid "eventId_97"
+msgstr "Outlet high power consumption restore"
+
+msgid "eventId_98"
+msgstr "Outlet low power consumption"
+
+msgid "eventId_99"
+msgstr "Outlet low power consumption restore"
+
+msgid "eventId_112"
+msgstr "Remaining runtime is no longer exhausted"
+
+msgid "eventId_113"
+msgstr "Battery capacity is critically low"
+
+msgid "eventId_114"
+msgstr "Battery replacement recommended"
+
+msgid "eventId_128"
+msgstr "System is overheated"
+
+msgid "eventId_129"
+msgstr "Output circuit-short"
+
+msgid "eventId_130"
+msgstr "Output is no longer circuit-shorted"
+
+msgid "eventId_131"
+msgstr "Site wiring fault"
+
+msgid "eventId_132"
+msgstr "UPS is no longer faulty"
+
+msgid "eventId_133"
+msgstr "System is overheated restore"
+
+msgid "eventId_134"
+msgstr "Hardware status restore"
+
+msgid "eventId_144"
+msgstr "A schedule has been initiated, the system will be shutdown."
+
+msgid "eventId_145"
+msgstr "Shutdown initiated"
+
+msgid "eventId_146"
+msgstr "UPS is being monitored"
+
+msgid "eventId_147"
+msgstr "UPS monitoring is stopped"
+
+msgid "eventId_148"
+msgstr "Shutdown time is insufficient"
+
+msgid "eventId_149"
+msgstr "System shutdown by user"
+
+msgid "eventId_150"
+msgstr "System restart by user"
+
+msgid "eventId_151"
+msgstr "remote operation by user"
+
+msgid "eventId_152"
+msgstr "Shutdown is canceled"
+
+msgid "eventId_153"
+msgstr "Shutdown time is sufficient"
+
+#----------------------P66EventCode----------------------
+
+msgid "eventCode_01"
+msgstr "Battery Over Charge "
+
+msgid "eventCode_02"
+msgstr "Charger Fail to charge Battery"
+
+msgid "eventCode_04"
+msgstr "Battery Low"
+
+msgid "eventCode_05"
+msgstr "Battery (test) Failure"
+
+msgid "eventCode_06"
+msgstr "Battery Disconnected"
+
+msgid "eventCode_07"
+msgstr "Service Battery (=Replace Battery)"
+
+msgid "eventCode_08"
+msgstr "Cold start Battery voltage over"
+
+msgid "eventCode_12"
+msgstr "Load Over Setting %"
+
+msgid "eventCode_20"
+msgstr "Cold start output short"
+
+msgid "eventCode_21"
+msgstr "Output Short "
+
+msgid "eventCode_22"
+msgstr "Output Overload "
+
+msgid "eventCode_23"
+msgstr "Over temperature (AVR Transformer)"
+
+msgid "eventCode_25"
+msgstr "EPO Off"
+
+msgid "eventCode_26"
+msgstr "OCP (Output Current Protect)"
+
+msgid "eventCode_27"
+msgstr "ROO Off"
+
+msgid "eventCode_29"
+msgstr "AVR fault"
+
+msgid "eventCode_2A"
+msgstr "Vout AD fail "
+
+msgid "eventCode_30"
+msgstr "Inverter Fault"
+
+msgid "eventCode_31"
+msgstr "High Output V"
+
+msgid "eventCode_32"
+msgstr "Low Output V"
+
+msgid "eventCode_33"
+msgstr "Over Temperature (Heat-Sink)"
+
+msgid "eventCode_34"
+msgstr "Fan Error"
+
+msgid "eventCode_35"
+msgstr "Fan Error (Rear) "
+
+msgid "eventCode_36"
+msgstr "Fan Error (Middle)"
+
+msgid "eventCode_37"
+msgstr "Fan Error (Front) "
+
+msgid "eventCode_40"
+msgstr "Bus Fault"
+
+msgid "eventCode_41"
+msgstr "Bus Fault +High"
+
+msgid "eventCode_42"
+msgstr "Bus Fault +Low"
+
+msgid "eventCode_43"
+msgstr "Bus Fault -High"
+
+msgid "eventCode_44"
+msgstr "Bus Fault -Low"
+
+msgid "eventCode_50"
+msgstr "Input Power Fail"
+
+msgid "eventCode_51"
+msgstr "Input V+Hz out of range"
+
+msgid "eventCode_52"
+msgstr "Input    V    out of range"
+
+msgid "eventCode_53"
+msgstr "Input    Hz   out of range"
+
+msgid "eventCode_54"
+msgstr "Line Abnormal (Auto-restart)"
+
+msgid "eventCode_55"
+msgstr "Wiring Fault"
+
+msgid "eventCode_56"
+msgstr "ICP (Input Current Protect)"
+
+msgid "eventCode_57"
+msgstr "Manual Bypass Forbidden (For OL6~10K)"
+
+msgid "Fault"
+msgstr "Fault"
+
+msgid "Warning"
+msgstr "Warning"
+
+msgid "Click button to clear all event logs."
+msgstr "Click button to clear all event logs."
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Notice"
+msgstr "Notice"
+
+msgid "Input page number is out of range."
+msgstr "Input page number is out of range."
+
+msgid "Are you sure to delete all event logs?"
+msgstr "Are you sure to delete all event logs?"
+
+
+
+
+

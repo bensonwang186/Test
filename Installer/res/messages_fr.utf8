@@ -1,0 +1,7 @@
+# {0} is an application name
+PrepareInstaller={0} prépare l'assistant d'installation qui vous guidera tout au long du processus de configuration.
+WizardCaption=Assistant d'installation  PowerPanel Personal
+FinishScreenCloudStep1=Etapes de connexion au PowerPanel Cloud
+FinishScreenCloudStep2=1. Aller dans paramètres avancés
+FinishScreenCloudStep3=2. Raccordez l'onduleur au PowerPanel Cloud
+InstallingScreenCloudDescription=Vous pouvez surveiller l'alimentation à tout moment et de n'importe où

@@ -1,0 +1,1 @@
+sc start "PowerPanel Personal Service"

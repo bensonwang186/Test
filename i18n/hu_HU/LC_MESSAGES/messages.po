@@ -1,0 +1,1226 @@
+# Copyright (C) CyberPower Systems, Inc. ALL RIGHTS RESERVED.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-06-05 11:32+0800\n"
+"PO-Revision-Date: 2017-06-05 11:34+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#----------------------About----------------------
+
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+msgid "version"
+msgstr "verzió"
+
+msgid "Hardware Information"
+msgstr "Hardver Információ"
+
+msgid "Model Name"
+msgstr "Modellszám"
+
+msgid "Firmware Version"
+msgstr "Firmware Verzió"
+
+msgid "Power Ratting"
+msgstr "Teljesítmény"
+
+msgid "Web Support Information"
+msgstr "Webtámogatás Információ"
+
+msgid "website"
+msgstr "Website"
+
+msgid "Products"
+msgstr "Products"
+
+msgid "Contacts"
+msgstr "Contacts"
+
+msgid "Click here to get the technical support information on the Web"
+msgstr "Kattintson ide webes technikai támogatásért"
+
+msgid "Click here to get other products on the Web"
+msgstr "Kattintson ide más termékekért"
+
+msgid "Click here to get contact information on the Web"
+msgstr "Kattintson ide kapcsolatfelvételi információkért"
+
+msgid "Watts"
+msgstr "Watt"
+
+#----------------------Advanced----------------------
+
+msgid "UPS Name"
+msgstr "UPS Name"
+
+msgid "Please download PowerPanel APP and create an account from the APP."
+msgstr "Please download PowerPanel APP and create an account from the APP."
+
+msgid "Advanced"
+msgstr "Haladó"
+
+msgid "Input Voltage Sensitivity"
+msgstr "Bemeneti Feszültség Érzékenység"
+
+msgid "You can select an adequate sensitivity according to the equipment and the power."
+msgstr "Kiválaszthatja a megfelelő érzékenységet a készülékhez és az áramellátáshoz igazodva."
+
+msgid "Controls the power quality according to xxxx sensitivity."
+msgstr "Az energiaellátás minőségét vezérli xxxx érzékenységhez igazodva."
+
+msgid "Shutdown Type"
+msgstr "Shutdown Type"
+
+msgid "You can specify the manner in which the computer is shutdown."
+msgstr "You can specify the manner in which the computer is shutdown."
+
+msgid "Low"
+msgstr "Alacsony"
+
+msgid "Medium"
+msgstr "Közepes"
+
+msgid "High"
+msgstr "Magas"
+
+msgid "Shutdown"
+msgstr "Shutdown"
+
+msgid "Hibernation"
+msgstr "Hibernation"
+
+msgid "Please input UPS name."
+msgstr "Please input UPS name."
+
+msgid "Cancel"
+msgstr "Mégsem"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "I agree to the xxxx0 | xxxx1."
+msgstr "I agree to the xxxx0 | xxxx1."
+
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#----------------------AppTray----------------------
+
+msgid "Terms & Conditions"
+msgstr "Terms & Conditions"
+
+msgid "UPS no longer receiving AC utility power"
+msgstr "A UPS már nem kap energiát az AC hálózatról"
+
+msgid "Your UPS is now supplying battery power to your equipment."
+msgstr "A szünetmentese akkumulátorról látja el a berendezését."
+
+msgid "Unable to communicate with UPS"
+msgstr "Képtelen kommunikálni a szünetmentessel"
+
+msgid "Please make sure the USB or serial cable is connected between the UPS and computer."
+msgstr "Kérem bizonyosodjon meg róla, hogy a UPS és a számítógép össze van kötve USB vagy soroskábellel."
+
+msgid "Communication with UPS is restored"
+msgstr "A szünetmentessel folytatott kommunikáció helyreállt"
+
+msgid "Your UPS is correctly connected to your computer."
+msgstr "A szünetmentese megfelelően csatlakozik a számítógépéhez."
+
+msgid "PowerPanel Personal Service is not running"
+msgstr "PowerPanel Personal Service is not running"
+
+msgid "Your computer will be shutdown immediately!"
+msgstr "A számítógépe most leáll!"
+
+msgid "Your computer will enter hibernate immediately!"
+msgstr "A számítógépe most hibernált üzemmódba lép!"
+
+msgid "Your computer will be shutdown in xxxx seconds!"
+msgstr "A számítógépe xxxx másodperc múlva leáll!"
+
+msgid "Your computer will enter hibernate in xxxx seconds!"
+msgstr "A számítógépe xxxx másodpercen belül hibernált üzemmódba lép!"
+
+msgid "Utility power restored to UPS"
+msgstr "A UPS hálózati energiája helyreállt"
+
+msgid "Your equipment is now running on AC utility power."
+msgstr "A berendezése most AC hálózati áramforrásról fut."
+
+msgid "the shutdown process has been aborted."
+msgstr "the shutdown process has been aborted."
+
+msgid "Open"
+msgstr "Open"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Summary"
+msgstr "Összegzés"
+
+msgid "Configure"
+msgstr "Konfiguráció"
+
+msgid "Change Language"
+msgstr "Nyelvválasztás"
+
+#----------------------ConfigrationMain----------------------
+
+msgid "Configure your UPS"
+msgstr "Konfigurálja UPS-ét"
+
+#----------------------CurrentStatus----------------------
+
+msgid "You can configure the settings of application_short_name to ensure optimum performance of the UPS."
+msgstr "Itt konfigurálhatja a PowerPanel beállításait a szünetmentes optimális teljesítményének elérése érdekében."
+
+msgid "AC Utility Power"
+msgstr "AC hálózati áram"
+
+msgid "Battery"
+msgstr "Akkumulátor"
+
+msgid "Discharging"
+msgstr "Merül"
+
+msgid "Fully Charged"
+msgstr "Teljes Töltöttség"
+
+msgid "Charging"
+msgstr "Töltés folyamatban"
+
+msgid "Overload"
+msgstr "Túlterhelés"
+
+msgid "Power Outage"
+msgstr "Áramszünet"
+
+msgid "Under Voltage"
+msgstr "Alacsony feszültség"
+
+msgid "Over Voltage"
+msgstr "Túlfeszültség"
+
+msgid "Frequency Failure"
+msgstr "Frekvenciahiba"
+
+msgid "Voltage Boost"
+msgstr "Feszültség növekedés"
+
+msgid "Voltage Buck"
+msgstr "Feszültség esés"
+
+msgid "Normal"
+msgstr "Normál"
+
+msgid "volts"
+msgstr "Volt"
+
+msgid "minutes"
+msgstr "perc"
+
+msgid "watts"
+msgstr "Watt"
+
+msgid "Current Status"
+msgstr "Jelen Státusz"
+
+msgid "Electrical power supplied by"
+msgstr "Az elektromos áramot biztosítja"
+
+msgid "Voltage supplied"
+msgstr "Feszültség"
+
+msgid "Power condition"
+msgstr "Energiaállapot"
+
+msgid "Remaining battery capacity"
+msgstr "Fennmaradó akkumulátor kapacitás"
+
+msgid "Battery status"
+msgstr "Akkumulátor állapot"
+
+msgid "Remaining battery runtime"
+msgstr "Fennmaradó akkumulátor futásidő"
+
+msgid "Hardware status"
+msgstr "Hardware status"
+
+#----------------------EmailSender----------------------
+
+msgid "UPS load"
+msgstr "UPS terhelés"
+
+msgid "Event Notification"
+msgstr "Event Notification"
+
+msgid "Time"
+msgstr "Time"
+
+msgid "power_event_notify"
+msgstr "Power Event Notification"
+
+#----------------------EnergyReporting----------------------
+
+msgid "Energy Reporting"
+msgstr "Energy Reporting"
+
+msgid "Statistic"
+msgstr "Statistic"
+
+msgid "From"
+msgstr "From"
+
+msgid "To"
+msgstr "To"
+
+msgid "Average Energy Consumption"
+msgstr "Average Energy Consumption"
+
+msgid "Cumulative Energy Consumption"
+msgstr "Cumulative Energy Consumption"
+
+msgid "Cumulative Cost"
+msgstr "Cumulative Cost"
+
+#----------------------EnergySettings----------------------
+
+msgid "CO2"
+msgstr "CO2"
+
+msgid "Show energy cost history"
+msgstr "Show energy cost history"
+
+msgid "Today"
+msgstr "Ma"
+
+msgid "Change Country"
+msgstr "Change Country"
+
+msgid "Hide energy cost history"
+msgstr "Hide energy cost history"
+
+msgid "Edit record"
+msgstr "Edit record"
+
+msgid "Delete record"
+msgstr "Delete record"
+
+msgid "Cost value should be within range 0~100000."
+msgstr "Cost value should be within range 0~100000."
+
+msgid "Apply Success"
+msgstr "Apply Success"
+
+msgid "Apply Error"
+msgstr "Apply Error"
+
+msgid "Energy Settings"
+msgstr "Energy Settings"
+
+msgid "Country Selection"
+msgstr "Country Selection"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Energy Cost"
+msgstr "Energy Cost"
+
+msgid "Cost per kWh"
+msgstr "Cost per kWh"
+
+msgid "CO2 Emissions"
+msgstr "CO2 Emissions"
+
+msgid "CO2 Emitted per kWh"
+msgstr "CO2 Emitted per kWh"
+
+msgid "Unit of Measurement"
+msgstr "Unit of Measurement"
+
+msgid "Kilograms(kg)"
+msgstr "Kilograms(kg)"
+
+msgid "Pounds(lb)"
+msgstr "Pounds(lb)"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Apply"
+msgstr "Apply"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Start Date"
+msgstr "Start Date"
+
+msgid "End Date"
+msgstr "End Date"
+
+msgid "Are you sure to remove this record?"
+msgstr "Are you sure to remove this record?"
+
+msgid "No"
+msgstr "Nem"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "Changing the country will reset the energy settings."
+msgstr "Changing the country will reset the energy settings."
+
+msgid "Are you sure to continue?"
+msgstr "Are you sure to continue?"
+
+#----------------------MasterPage----------------------
+
+msgid "PowerPanel Personal Service is not ready."
+msgstr "PowerPanel Personal Service is not ready."
+
+msgid "Unable to establish communication with UPS."
+msgstr "Nem képes kommunikálni a szünetmentessel."
+
+msgid "The UPS is working normally."
+msgstr "A UPS megfelelően működik."
+
+msgid "min."
+msgstr "perc"
+
+msgid "AC Utility"
+msgstr "AC Hálózat"
+
+msgid "Power Source"
+msgstr "Áramforrás"
+
+msgid "Battery Capacity"
+msgstr "Akkumulátor Kapacitás"
+
+msgid "Estimated Runtime"
+msgstr "Becsült Futásidő"
+
+msgid "Schedule"
+msgstr "Ütemezés"
+
+msgid "Notification"
+msgstr "Értesítések"
+
+msgid "Runtime"
+msgstr "Futásidő"
+
+msgid "Voltage"
+msgstr "Feszültség"
+
+msgid "Self-Test"
+msgstr "Önteszt"
+
+msgid "About"
+msgstr "A programról"
+
+#----------------------Notification----------------------
+
+msgid "Verifying..."
+msgstr "Verifying..."
+
+msgid "Testing..."
+msgstr "Testing..."
+
+msgid "Exchange Success."
+msgstr "Exchange Success."
+
+msgid "Exchange Failure."
+msgstr "Exchange Failure."
+
+msgid "Test Send Success."
+msgstr "Test Send Success."
+
+msgid "Test Send Failure."
+msgstr "Test Send Failure."
+
+msgid "SMTP Address Invalid"
+msgstr "SMTP Address Invalid"
+
+msgid "Email Format error"
+msgstr "Email Format error"
+
+msgid "Account cannot be empty, when auth active."
+msgstr "Account cannot be empty, when auth active."
+
+msgid "Verify Success."
+msgstr "Verify Success."
+
+msgid "Verify Failure."
+msgstr "Verify Failure."
+
+msgid "Enter the authorization code here."
+msgstr "Enter the authorization code here."
+
+msgid "Software Sounds"
+msgstr "Szoftverhangok"
+
+msgid "application_short_name generates audible sounds to notify you of power events."
+msgstr "A PowerPanel Personal Edition értesítési hangokat generál események bekövetkezésekor."
+
+msgid "Enable application_short_name notification sounds"
+msgstr "PowerPanel értesítési hangok engedélyezése"
+
+msgid "UPS Alarms"
+msgstr "UPS Riasztások"
+
+msgid "The UPS generates audible alarms during power events."
+msgstr "A UPS riasztást generál események bekövetkezésekor."
+
+msgid "Enable alarms at all times"
+msgstr "Riasztások engedélyezése"
+
+msgid "Disable alarms at all times"
+msgstr "Riasztások letiltása"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Activate"
+msgstr "Activate"
+
+msgid "Service Provider"
+msgstr "Service Provider"
+
+msgid "other"
+msgstr "other"
+
+msgid "Account"
+msgstr "Account"
+
+msgid "Request"
+msgstr "Request"
+
+msgid "Change"
+msgstr "Change"
+
+msgid "SMTP server address"
+msgstr "SMTP server address"
+
+msgid "Secure connection"
+msgstr "Secure connection"
+
+msgid "Service port"
+msgstr "Service port"
+
+msgid "Sender name"
+msgstr "Sender name"
+
+msgid "Sender E-mail address"
+msgstr "Sender E-mail address"
+
+msgid "Authentication"
+msgstr "Authentication"
+
+msgid "Receiver E-mail address"
+msgstr "Receiver E-mail address"
+
+msgid "Test"
+msgstr "Test"
+
+#----------------------Runtime----------------------
+
+msgid "Verify"
+msgstr "Verify"
+
+msgid "Runtime Configuration"
+msgstr "Futásidő Konfiguráció"
+
+msgid "You can change the length of time that application_short_name allows your UPS to run on battery power."
+msgstr "Megváltoztathatja a application_short_name által a UPS számára engedélyezett időtartamot, amíg akkumulátorról futhat."
+
+msgid "Keep Computer Running"
+msgstr "Számítógép bekapcsolva tartása"
+
+msgid "Shutdown this computer when remaining battery runtime is only xxxx minutes."
+msgstr "Számítógép kikapcsolása, ha a fennmaradó akkumulátor futásidő xxxx perc."
+
+msgid "Use this Option to extend operating time while on battery power."
+msgstr "Használja ezt a funkciót, hogy meghosszabbítsa az akkumulátorról működtetés időtartamát."
+
+msgid "Preserve Battery Power"
+msgstr "Akkumulátor-feszültség Megőrzése"
+
+msgid "Shutdown this computer after UPS runs on battery power for xxxx minutes."
+msgstr "Számítógép kikapcsolása miután a UPS xxxx percig működött akkumulátorról."
+
+#----------------------Schedule----------------------
+
+msgid "Use this option to save battery power for successive power outages."
+msgstr "Használja ezt a funkciót, hogy sikeresen hidalhassa át az áramszüneteket, a tárolt energiával."
+
+msgid "Your computer will be shut down at xxxx0 on xxxx1 xxxx2."
+msgstr "A számítógépe a következő időpontban fog leállni:xxxx0 xxxx1 xxxx2."
+
+msgid "Your computer will be shut down at xxxx0 on xxxx1 xxxx2 and restart at xxxx3 on xxxx4 xxxx5."
+msgstr "A számítógépe a következő időpontban fog leállni: xxxx0 xxxx1 xxxx2; és újraindulni: xxxx3 xxxx4 xxxx5."
+
+msgid "Monday"
+msgstr "Hétfő"
+
+msgid "Tuesday"
+msgstr "Kedd"
+
+msgid "Wednesday"
+msgstr "Szerda"
+
+msgid "Thursday"
+msgstr "Csütörtök"
+
+msgid "Friday"
+msgstr "Péntek"
+
+msgid "Saturday"
+msgstr "Szombat"
+
+msgid "Sunday"
+msgstr "Vasárnap"
+
+msgid "You can decide when time your computer and equipment will turn ON and OFF."
+msgstr "Eldöntheti, hogy mikor kapcsoljon BE vagy KI számítógépe és a készülék."
+
+msgid "Days"
+msgstr "Nap"
+
+msgid "ON"
+msgstr "BE"
+
+msgid "Act."
+msgstr "Akt."
+
+msgid "OFF"
+msgstr "KI"
+
+msgid "N.R"
+msgstr "N.Ú"
+
+#----------------------SelfTest----------------------
+
+msgid "Self-test helps ensure your UPS is working correctly."
+msgstr "Az Önteszt segít a UPS helyes működésének biztosításában."
+
+msgid "Date of last self-test"
+msgstr "Legutóbbi Önteszt dátuma"
+
+msgid "Never"
+msgstr "Soha"
+
+msgid "Result of last self-test"
+msgstr "Legutóbbi Önteszt eredménye"
+
+msgid "Click button to initiate a self-test to ensure UPS working correctly."
+msgstr "Kattintson a gombra, hogy elindítsa az Öntesztet."
+
+msgid "Self-test is in progress, please wait..."
+msgstr "Önteszt folyamatban, kérem várjon..."
+
+msgid "Passed"
+msgstr "Átment"
+
+msgid "Not passed"
+msgstr "Not passed"
+
+msgid "None"
+msgstr "Nincs"
+
+msgid "Initiate self-test"
+msgstr "Önteszt indítása"
+
+#----------------------Summary----------------------
+
+msgid "time"
+msgstr "alkalom"
+
+msgid "times"
+msgstr "alkalom"
+
+msgid "hours"
+msgstr "óra"
+
+msgid "seconds"
+msgstr "másodperc"
+
+msgid "AC utility power lost, use battery power at xxxx."
+msgstr "Nem volt hálózati feszültség, akkumulátor használata xxxx-kor."
+
+msgid "AC utility power is too low, use battery power at xxxx."
+msgstr "Túl alacsony hálózati energia, akkumulátor használata xxxx-kor."
+
+msgid "AC utility power is too high, use battery power at xxxx."
+msgstr "Túl magas hálózati energia, akkumulátor használata xxxx-kor."
+
+msgid "AC utility frequency failure, use battery power at xxxx."
+msgstr "AC hálózati frekvencia hiba, akkumulátor használata xxxx-kor.AC utility frequency failure, use battery power at xxxx."
+
+msgid "Power Problem Summary"
+msgstr "Áramellátási Problémák Összegzése"
+
+msgid "Last Power Event"
+msgstr "Legutóbbi Esemény"
+
+msgid "Power Condition Summary"
+msgstr "Energiaállapot Összegzés"
+
+msgid "Display period"
+msgstr "Kijelzett időszak"
+
+msgid "Last"
+msgstr "Múlt"
+
+msgid "week"
+msgstr "hét"
+
+msgid "weeks"
+msgstr "hét"
+
+msgid "Power problem"
+msgstr "Probléma"
+
+msgid "Number of times"
+msgstr "Előfordulások száma"
+
+msgid "Amount of time"
+msgstr "Becsült Időtartam"
+
+msgid "Power outage"
+msgstr "Áramszünet"
+
+msgid "Invert total"
+msgstr "Összes előfordulás"
+
+msgid "Voltage regulation"
+msgstr "Feszültségszabályozás"
+
+msgid "Boost"
+msgstr "Növekedés"
+
+msgid "Buck"
+msgstr "Esés"
+
+#----------------------Voltage----------------------
+
+msgid "Regular total"
+msgstr "Összesen"
+
+msgid "The UPS will intervene when the AC utility voltage falls below xxxx volts or rises above xxxx volts."
+msgstr "A UPS közbeavatkozik, ha az AC feszültség xxxx Volt alá csökken vagy xxxx Volt felé emelkedik."
+
+msgid "The current voltage is xxxx volts."
+msgstr "A jelenlegi feszültség xxxx Volt."
+
+msgid "You can change the point of transfer in the below section."
+msgstr "Megváltoztathatja az átvitel pontját az alsó szekcióban."
+
+msgid "UPS will intervene"
+msgstr "A UPS közbe fog lépni"
+
+msgid "When AC utility voltage goes above xxxx volts."
+msgstr "Ha az AC feszültség xxxx Volt felé emelkedik."
+
+#----------------------WebAppController----------------------
+
+msgid "When AC utility voltage goes below xxxx volts."
+msgstr "Ha az AC feszültség xxxx Volt alá esik."
+
+msgid "Login failed. Please wait for UPS connection and try again."
+msgstr "Login failed. Please wait for UPS connection and try again."
+
+msgid "An error occurred. Please try again."
+msgstr "An error occurred. Please try again."
+
+msgid "Update Success."
+msgstr "Update Success."
+
+msgid "Update Failed."
+msgstr "Update Failed."
+
+msgid "Duplicate device name."
+msgstr "Duplicate device name."
+
+#----------------------EventLogs----------------------
+
+msgid "Event Logs"
+msgstr "Event Logs"
+
+msgid "All"
+msgstr "All"
+
+msgid "Critical"
+msgstr "Critical"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Events"
+msgstr "Events"
+
+msgid "No result found"
+msgstr "No result found"
+
+msgid "eventId_0"
+msgstr "Utility power failed, transfer to backup mode"
+
+msgid "eventId_1"
+msgstr "Utility power restored, return from backup mode"
+
+msgid "eventId_2"
+msgstr "The UPS has enabled boost, low utility voltage"
+
+msgid "eventId_3"
+msgstr "The UPS has enabled buck, high utility voltage"
+
+msgid "eventId_4"
+msgstr "Output voltage is normal and the voltage boost will stop."
+
+msgid "eventId_5"
+msgstr "Output voltage is normal and the voltage buck will stop."
+
+msgid "eventId_6"
+msgstr "Utility power has higher been transfer, battery power will be supplied."
+
+msgid "eventId_7"
+msgstr "Utility power has been restored; the battery power has stopped supplying power."
+
+msgid "eventId_8"
+msgstr "Utility power has lower been transfer, battery power will be supplied."
+
+msgid "eventId_9"
+msgstr "Utility power has been restored; the battery power has stopped supplying power."
+
+msgid "eventId_16"
+msgstr "The UPS has been turned off"
+
+msgid "eventId_17"
+msgstr "The UPS has been turned on"
+
+msgid "eventId_18"
+msgstr "The UPS entered sleep mode. Output power will not be provided"
+
+msgid "eventId_19"
+msgstr "The UPS woke up from sleep mode. Output power is being provided"
+
+msgid "eventId_20"
+msgstr "The UPS enters Bypass Mode"
+
+msgid "eventId_21"
+msgstr "The UPS leaves Bypass Mode"
+
+msgid "eventId_22"
+msgstr "The UPS bypass overload"
+
+msgid "eventId_23"
+msgstr "The UPS bypass overload has been cleared"
+
+msgid "eventId_24"
+msgstr "Non-Critical bank has been turned on"
+
+msgid "eventId_25"
+msgstr "Non-Critical bank has been turned off"
+
+msgid "eventId_26"
+msgstr "Enters ECO mode"
+
+msgid "eventId_27"
+msgstr "Leave ECO mode"
+
+msgid "eventId_28"
+msgstr "Output is no longer overloaded"
+
+msgid "eventId_29"
+msgstr "The output power is going to stop soon"
+
+msgid "eventId_32"
+msgstr "The UPS has sensed an overload condition"
+
+msgid "eventId_33"
+msgstr "The UPS has returned from an overload condition"
+
+msgid "eventId_34"
+msgstr "The UPS inner temperature is too high"
+
+msgid "eventId_35"
+msgstr "The UPS over temperature condition cleared"
+
+msgid "eventId_36"
+msgstr "The UPS hardware fault"
+
+msgid "eventId_37"
+msgstr "The UPS enters ECO mode"
+
+msgid "eventId_38"
+msgstr "The UPS leaves ECO mode"
+
+msgid "eventId_39"
+msgstr "The UPS wiring fault has been detected"
+
+msgid "eventId_40"
+msgstr "The UPS wiring fault has been cleared"
+
+msgid "eventId_41"
+msgstr "UPS firmware starts to update"
+
+msgid "eventId_42"
+msgstr "UPS firmware update is over"
+
+msgid "eventId_43"
+msgstr "High power consumption"
+
+msgid "eventId_44"
+msgstr "High power consumption restore"
+
+msgid "eventId_45"
+msgstr "Low power consumption"
+
+msgid "eventId_46"
+msgstr "Low power consumption restore"
+
+msgid "eventId_47"
+msgstr "Hardware Status"
+
+msgid "eventId_48"
+msgstr "The UPS battery capacity is low than threshold, soon to be exhausted"
+
+msgid "eventId_49"
+msgstr "The UPS has returned from a low battery condition"
+
+msgid "eventId_50"
+msgstr "The battery charger is abnormal"
+
+msgid "eventId_51"
+msgstr "Battery is not present"
+
+msgid "eventId_52"
+msgstr "The battery may not work well anymore"
+
+msgid "eventId_53"
+msgstr "The battery has been replaced"
+
+msgid "eventId_54"
+msgstr "Battery is charging"
+
+msgid "eventId_55"
+msgstr "Battery stopped charging"
+
+msgid "eventId_56"
+msgstr "Battery is discharging"
+
+msgid "eventId_57"
+msgstr "Battery stopped discharging"
+
+msgid "eventId_58"
+msgstr "Available runtime is insufficient"
+
+msgid "eventId_59"
+msgstr "Battery is fully charged"
+
+msgid "eventId_60"
+msgstr "Remaining runtime will be exhausted"
+
+msgid "eventId_61"
+msgstr "Batteries have been installed"
+
+msgid "eventId_62"
+msgstr "Battery capacity is normal"
+
+msgid "eventId_63"
+msgstr "Available runtime become sufficient"
+
+msgid "eventId_64"
+msgstr "The UPS has started a battery test process"
+
+msgid "eventId_65"
+msgstr "The UPS battery test passed"
+
+msgid "eventId_66"
+msgstr "The UPS battery test failed"
+
+msgid "eventId_67"
+msgstr "The UPS has started a runtime calibration process"
+
+msgid "eventId_68"
+msgstr "The UPS runtime calibration completed"
+
+msgid "eventId_69"
+msgstr "The UPS runtime calibration aborted"
+
+msgid "eventId_70"
+msgstr "Battery test incomplete"
+
+msgid "eventId_71"
+msgstr "Calibration incomplete"
+
+msgid "eventId_80"
+msgstr "Communication with the UPS has been lost"
+
+msgid "eventId_81"
+msgstr "Communication with the UPS has been established"
+
+msgid "eventId_82"
+msgstr "Device is offline."
+
+msgid "eventId_83"
+msgstr "Device is online."
+
+msgid "eventId_84"
+msgstr "Communication cannot establish"
+
+msgid "eventId_85"
+msgstr "Local communication lost"
+
+msgid "eventId_86"
+msgstr "Local communication lost in a power event"
+
+msgid "eventId_87"
+msgstr "Cannot establish network communication with Power Device"
+
+msgid "eventId_88"
+msgstr "Network communication lost with UPS in a power event"
+
+msgid "eventId_89"
+msgstr "Network communication lost"
+
+msgid "eventId_90"
+msgstr "Communication is established"
+
+msgid "eventId_91"
+msgstr "Local communication has resumed"
+
+msgid "eventId_92"
+msgstr "Network communication established with UPS"
+
+msgid "eventId_93"
+msgstr "Network communication is restored"
+
+msgid "eventId_94"
+msgstr "Network communication established with Power Device"
+
+msgid "eventId_96"
+msgstr "Outlet high power consumption"
+
+msgid "eventId_97"
+msgstr "Outlet high power consumption restore"
+
+msgid "eventId_98"
+msgstr "Outlet low power consumption"
+
+msgid "eventId_99"
+msgstr "Outlet low power consumption restore"
+
+msgid "eventId_112"
+msgstr "Remaining runtime is no longer exhausted"
+
+msgid "eventId_113"
+msgstr "Battery capacity is critically low"
+
+msgid "eventId_114"
+msgstr "Battery replacement recommended"
+
+msgid "eventId_128"
+msgstr "System is overheated"
+
+msgid "eventId_129"
+msgstr "Output circuit-short"
+
+msgid "eventId_130"
+msgstr "Output is no longer circuit-shorted"
+
+msgid "eventId_131"
+msgstr "Site wiring fault"
+
+msgid "eventId_132"
+msgstr "UPS is no longer faulty"
+
+msgid "eventId_133"
+msgstr "System is overheated restore"
+
+msgid "eventId_134"
+msgstr "Hardware status restore"
+
+msgid "eventId_144"
+msgstr "A schedule has been initiated, the system will be shutdown."
+
+msgid "eventId_145"
+msgstr "Shutdown initiated"
+
+msgid "eventId_146"
+msgstr "UPS is being monitored"
+
+msgid "eventId_147"
+msgstr "UPS monitoring is stopped"
+
+msgid "eventId_148"
+msgstr "Shutdown time is insufficient"
+
+msgid "eventId_149"
+msgstr "System shutdown by user"
+
+msgid "eventId_150"
+msgstr "System restart by user"
+
+msgid "eventId_151"
+msgstr "remote operation by user"
+
+msgid "eventId_152"
+msgstr "Shutdown is canceled"
+
+msgid "eventId_153"
+msgstr "Shutdown time is sufficient"
+
+#----------------------P66EventCode----------------------
+
+msgid "eventCode_01"
+msgstr "Battery Over Charge "
+
+msgid "eventCode_02"
+msgstr "Charger Fail to charge Battery"
+
+msgid "eventCode_04"
+msgstr "Battery Low"
+
+msgid "eventCode_05"
+msgstr "Battery (test) Failure"
+
+msgid "eventCode_06"
+msgstr "Battery Disconnected"
+
+msgid "eventCode_07"
+msgstr "Service Battery (=Replace Battery)"
+
+msgid "eventCode_08"
+msgstr "Cold start Battery voltage over"
+
+msgid "eventCode_12"
+msgstr "Load Over Setting %"
+
+msgid "eventCode_20"
+msgstr "Cold start output short"
+
+msgid "eventCode_21"
+msgstr "Output Short "
+
+msgid "eventCode_22"
+msgstr "Output Overload "
+
+msgid "eventCode_23"
+msgstr "Over temperature (AVR Transformer)"
+
+msgid "eventCode_25"
+msgstr "EPO Off"
+
+msgid "eventCode_26"
+msgstr "OCP (Output Current Protect)"
+
+msgid "eventCode_27"
+msgstr "ROO Off"
+
+msgid "eventCode_29"
+msgstr "AVR fault"
+
+msgid "eventCode_2A"
+msgstr "Vout AD fail "
+
+msgid "eventCode_30"
+msgstr "Inverter Fault"
+
+msgid "eventCode_31"
+msgstr "High Output V"
+
+msgid "eventCode_32"
+msgstr "Low Output V"
+
+msgid "eventCode_33"
+msgstr "Over Temperature (Heat-Sink)"
+
+msgid "eventCode_34"
+msgstr "Fan Error"
+
+msgid "eventCode_35"
+msgstr "Fan Error (Rear) "
+
+msgid "eventCode_36"
+msgstr "Fan Error (Middle)"
+
+msgid "eventCode_37"
+msgstr "Fan Error (Front) "
+
+msgid "eventCode_40"
+msgstr "Bus Fault"
+
+msgid "eventCode_41"
+msgstr "Bus Fault +High"
+
+msgid "eventCode_42"
+msgstr "Bus Fault +Low"
+
+msgid "eventCode_43"
+msgstr "Bus Fault -High"
+
+msgid "eventCode_44"
+msgstr "Bus Fault -Low"
+
+msgid "eventCode_50"
+msgstr "Input Power Fail"
+
+msgid "eventCode_51"
+msgstr "Input V+Hz out of range"
+
+msgid "eventCode_52"
+msgstr "Input    V    out of range"
+
+msgid "eventCode_53"
+msgstr "Input    Hz   out of range"
+
+msgid "eventCode_54"
+msgstr "Line Abnormal (Auto-restart)"
+
+msgid "eventCode_55"
+msgstr "Wiring Fault"
+
+msgid "eventCode_56"
+msgstr "ICP (Input Current Protect)"
+
+msgid "eventCode_57"
+msgstr "Manual Bypass Forbidden (For OL6~10K)"
+
+msgid "Fault"
+msgstr "Fault"
+
+msgid "Warning"
+msgstr "Warning"
+
+msgid "Click button to clear all event logs."
+msgstr "Click button to clear all event logs."
+
+msgid "Clear"
+msgstr "Clear"
+
+msgid "Notice"
+msgstr "Notice"
+
+msgid "Input page number is out of range."
+msgstr "Input page number is out of range."
+
+msgid "Are you sure to delete all event logs?"
+msgstr "Are you sure to delete all event logs?"
+
+
+
+
+

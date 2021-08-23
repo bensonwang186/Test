@@ -1,0 +1,7 @@
+# {0} is an application name
+PrepareInstaller={0} is preparing the Installer Wizard which will guide you through the rest of the setup process.
+WizardCaption=PowerPanel Personal Install Wizard
+FinishScreenCloudStep1=PowerPanel Cloud Connecting Steps
+FinishScreenCloudStep2=1. Go to Advanced
+FinishScreenCloudStep3=2. Connect UPS to PowerPanel Cloud
+InstallingScreenCloudDescription=You can monitor power devices anywhere, anytime.

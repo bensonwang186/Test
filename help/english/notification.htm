@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PowerPanel Personal - Notification</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../resources/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../resources/css/style.css">
+    <link rel="stylesheet" href="../resources/css/animate.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+</head>
+
+<body>
+    <header>
+        <div class="headerBox">
+            <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.htm">POWERPANEL</a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="interface.htm">Interface</a></li>
+                            <li><a href="features.htm">Features</a></li>
+                            <li><a href="conditions.htm">Conditions</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="page-header">
+            <div class="container">
+                <h1>Notification</h1>
+            </div>
+        </div>
+        <ul class="nav_linkBox">
+            <li><a href="schedule.htm">Schedule</a></li>
+            <li><a href="notification.htm" class="active">Notification</a></li>
+            <li><a href="runtime.htm">Runtime</a></li>
+            <li><a href="voltage.htm">Voltage</a></li>
+            <li><a href="selftest.htm">Self-Test</a></li>
+            <li><a href="advanced.htm">Advanced</a></li>
+        </ul>
+        <div class="container containerBox">
+            <div class="col-md-12">
+                <ol class="breadcrumb">
+                    <li><a href="index.htm">Help</a></li>
+                    <li><a href="features.htm">Features</a></li>
+                    <li><a href="configuration.htm">Configuration</a></li>
+                    <li class="active">Notification</li>
+                </ol>
+                <p>When a power event occurs, PowerPanel<sup>&reg;</sup> Personal provides two ways to warn users:
+                </p>
+                <span class="style5"><a name="sounds" class="h4">Software Sounds</a></span>
+                <p>If Enable PowerPanel<sup>&reg;</sup> notification sounds is selected PowerPanel<sup>&reg;</sup> Personal will generate audible sounds to warn users when a power event occurs.</p>
+                <span class="style5"><a name="alarms" class="h4">UPS Alarms*</a></span>The UPS will provide an audible alarm.
+                <br>
+                <ul>
+                    <li>
+                        <p><strong><a name="enable" class="strong">Enable alarms at all times</a></strong>
+                            <br> When a power event occurs the UPS will beep.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="disable" class="strong">Disable alarms at all times</a></strong>
+                            <br> When a power event occurs the UPS will not beep.</p>
+                    </li>
+                </ul>
+                <span class="style5"><a name="email" class="h4">Email Notification</a></span>
+                <ul>
+                    <li>
+                        <p><strong><a name="gamil" class="strong">Service provider is Gmail</a></strong>
+                            <br> Select Gmail option in the Service Provider field. Click Request to ask Google to grant the Gmail account authorization to send a mail notification. Enter the sender name and click Apply to save the settings.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="other" class="strong">Service provider is Other</a></strong>
+                            <br> Select Other option in the Service Provider field and enter the information of the E-mail account.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="activate" class="strong">Activate</a></strong>
+                            <br> Specify whether the Agent/Client can use E-mail to send a notification to recipients.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="provider" class="strong">Service Provider</a></strong>
+                            <br> Select the service provider of E-mail account.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="server" class="strong">SMTP server address</a></strong>
+                            <br> Configure the SMTP server used to send E-mail to a recipient.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="secure" class="strong">Secure connection</a></strong>
+                            <br> Set secure connection for the SMTP service to send the E-mail.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="port" class="strong">Service port</a></strong>
+                            <br> Set the port number for the SMTP service.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="sender" class="strong">Sender name & Sender E-mail address</a></strong>
+                            <br> Enter the sender information for the E-mail.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="authentication" class="strong">Authentication</a></strong>
+                            <br> Configure whether the SMTP server requires authentication or not. If authentication is required, enter the necessary account and password.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="account" class="strong">Account</a></strong>
+                            <br> Set the account to access the SMTP server.</p>
+                    </li>
+                    <li>
+                        <p><strong><a name="password" class="strong">Password</a></strong>
+                            <br> Set the password for the account.</p>
+                    </li>
+                </ul>
+                <p></p>
+                <p>*Note : This is not available for all UPS models.</p>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>© 2018-2020 CyberPower Systems, Inc. All rights reserved.</p>
+    </footer>
+    <!-- jQuery -->
+    <script src="../resources/js/jquery-1.11.1.min.js"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="../resources/js/bootstrap.min.js"></script>
+    <!-- sticky -->
+    <script src="../resources/js/jquery.sticky.js"></script>
+    <!-- common -->
+    <script src="../resources/js/common.js"></script>
+</body>
+
+</html>

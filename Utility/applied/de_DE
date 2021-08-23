@@ -1,0 +1,1331 @@
+# Copyright (C) CyberPower Systems, Inc. ALL RIGHTS RESERVED.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-06-05 11:32+0800\n"
+"PO-Revision-Date: 2017-06-05 11:34+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#----------------------About----------------------
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "version"
+msgstr "Version"
+
+msgid "Hardware Information"
+msgstr "Hardware-Informationen"
+
+msgid "Model Name"
+msgstr "Modellbezeichnung"
+
+msgid "Serial Number"
+msgstr "Seriennummer"
+
+msgid "Firmware Version"
+msgstr "Firmware-Version"
+
+msgid "Power Ratting"
+msgstr "Nennleistung"
+
+msgid "Web Support Information"
+msgstr "Internet-Support-Informationen"
+
+msgid "website"
+msgstr "Webseite"
+
+msgid "Products"
+msgstr "Produkten"
+
+msgid "Contacts"
+msgstr "Kontaktinformationen"
+
+msgid "Click here to get the technical support information on the Web"
+msgstr "Klicken Sie hier, um zum Internet-Support zu gelangen"
+
+msgid "Click here to get other products on the Web"
+msgstr "Klicken Sie hier, um zu anderen Produkten im Internet zu gelangen"
+
+msgid "Click here to get contact information on the Web"
+msgstr "Klicken Sie hier, um zu Kontaktinformationen im Internet zu gelangen"
+
+msgid "Watts"
+msgstr "Watt"
+
+msgid "Please check your internet connection and try again."
+msgstr "Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut."
+
+msgid "Please wait for a few minutes while PowerPanel Personal is updating."
+msgstr "Bitte warten Sie ein paar Minuten, während PowerPanel Personal aktualisiert wird."
+
+msgid "Check for Updates"
+msgstr "Auf Updates prüfen"
+
+msgid "A new version of PowerPanel {0} is now available"
+msgstr "Eine neue Version von PowerPanel {0} ist jetzt verfügbar"
+
+msgid "Update Now"
+msgstr "Jetzt aktualisieren"
+
+msgid "NEW SOFTWARE VERSION DETECTED"
+msgstr "NEUE SOFTWAREVERSION ERKANNT"
+
+msgid "View more information about this update"
+msgstr "Weitere Informationen zu diesem Update anzeigen"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Restore to the previous software version"
+msgstr "Wiederherstellung auf die vorherige Softwareversion"
+
+msgid "Restoration"
+msgstr "Wiederherstellung"
+
+msgid "Updated Successfully"
+msgstr "Erfolgreich aktualisiert"
+
+msgid "Software Version Update"
+msgstr "Software-Version aktualisieren"
+
+msgid "YOUR SOFTWARE IS UP TO DATE"
+msgstr "IHRE SOFTWARE IST AUF DEM NEUESTEN STAND"
+
+msgid "An error occurred while downloading the updates.xxx1 Please try again later."
+msgstr "Beim Herunterladen der Updates ist ein Fehler aufgetreten.xxx1 Bitte versuchen Sie es später noch einmal."
+
+msgid "An error occurred while updating.xxx1 Please try again later."
+msgstr "Beim Aktualisieren ist ein Fehler aufgetreten.xxx1 Bitte versuchen Sie es später noch einmal."
+
+#----------------------Advanced----------------------
+
+msgid "UPS Name"
+msgstr "USV Name"
+
+msgid "Enter the UPS name here."
+msgstr "Geben Sie hier den Namen der USV ein."
+
+msgid "Please download PowerPanel APP and create an account from the APP."
+msgstr "Bitte laden Sie die PowerPanel APP herunter und erstellen Sie ein Konto in der APP."
+
+msgid "Advanced"
+msgstr "Experte"
+
+msgid "Input Voltage Sensitivity"
+msgstr "Empfindlichkeit Eingangsspannung"
+
+msgid "You can select an adequate sensitivity according to the equipment and the power."
+msgstr "Sie können die Empfindlichkeit Ihres Gerätes in Bezug auf die Eingangsspannung festlegen."
+
+msgid "Controls the power quality according to xxxx sensitivity."
+msgstr "Die Versorgungsqualität wird geregelt nach Empfindlichkeit xxxx ."
+
+msgid "Shutdown Type"
+msgstr "Art des Herunterfahrens"
+
+msgid "You can specify the manner in which the computer is shutdown."
+msgstr "Sie können festlegen, auf welche Weise der Computer heruntergefahren wird."
+
+msgid "Low"
+msgstr "Niedrig"
+
+msgid "Medium"
+msgstr "Mittel"
+
+msgid "High"
+msgstr "Hoch"
+
+msgid "Shutdown"
+msgstr "Herunterfahren"
+
+msgid "Hibernation"
+msgstr "Ruheszustand"
+
+msgid "Mobile Solution"
+msgstr "Mobile Lösung"
+
+msgid "Activate mobile solution to monitor UPS status and get event notification in your mobile phone."
+msgstr "Aktivieren Sie die mobile Applikation um den USV-Status zu überwachen und eine Ereignisbenachrichtigung in Ihrem Mobiltelefon zu erhalten."
+
+msgid "Save"
+msgstr "Sichern"
+
+msgid "Login"
+msgstr "Anmeldung"
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Please input UPS name."
+msgstr "Bitte geben Sie den Namen der USV ein."
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Account (E-mail)"
+msgstr "Konto (E-Mail)"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "I agree to the xxxx0 | xxxx1."
+msgstr "Ich stimme den xxxx0 | xxxx1 zu."
+
+msgid "Your input is empty. Please try again."
+msgstr "Ihre Eingabe ist leer. Bitte versuchen Sie# es erneut."
+
+msgid "Privacy Policy"
+msgstr "Datenschutz-Bestimmungen"
+
+msgid "PowerPanel Cloud Solution"
+msgstr "PowerPanel Cloud-Lösung"
+
+msgid "Activate to Get Free Trial"
+msgstr "Aktivieren, um eine kostenlose Testversion zu erhalten"
+
+msgid "PowerPanel Cloud"
+msgstr "PowerPanel Cloud-Lösung"
+
+msgid "PowerPanel App"
+msgstr "PowerPanel Anwendung"
+
+msgid "Connect"
+msgstr "Verbinden"
+
+msgid "Verified Successfully"
+msgstr "Erfolgreich verifiziert"
+
+msgid "Applied Successfully"
+msgstr "Erfolgreich angewendet"
+
+msgid "Incorrect Account or Password"
+msgstr "Falsches Konto oder Passwort"
+
+msgid "An Error Occurred"
+msgstr "Ein Fehler ist aufgetreten"
+
+#----------------------AppTray----------------------
+
+msgid "Terms & Conditions"
+msgstr "AGB & Bedingungen"
+
+msgid "UPS no longer receiving AC utility power"
+msgstr "Die USV wird nicht mehr über das Stromnetz versorgt"
+
+msgid "Your UPS is now supplying battery power to your equipment."
+msgstr "Ihre USV versorgt Ihr System nun mit Batteriestrom."
+
+msgid "Unable to communicate with UPS"
+msgstr "Eine Kommunikation mit der USV ist nicht möglich"
+
+msgid "Please make sure the USB or serial cable is connected between the UPS and computer."
+msgstr "Prüfen Sie, ob die USV mit einem Seriellen- oder USB-Kabel mit dem Rechner verbunden ist."
+
+msgid "Communication with UPS is restored"
+msgstr "Kommunikation mit der USV wiederhergestellt"
+
+msgid "Your UPS is correctly connected to your computer."
+msgstr "Ihre USV ist korrekt an Ihren Rechner angeschlossen."
+
+msgid "PowerPanel Personal Service is not running"
+msgstr "PowerPanel Personal Dienst nicht verfügbar"
+
+msgid "Your computer will be shutdown immediately!"
+msgstr "Ihr Rechner fährt sofort herunter!"
+
+msgid "Your computer will enter hibernate immediately!"
+msgstr "Ihr Rechner fährt sofort in den Schlummermodus!"
+
+msgid "Your computer will be shutdown in xxxx seconds!"
+msgstr "Ihr Rechner fährt in xxxx Minuten herunter!"
+
+msgid "Your computer will enter hibernate in xxxx seconds!"
+msgstr "Ihr Rechner wechselt in xxxx Minuten in den Schlummermodus!"
+
+msgid "Utility power restored to UPS"
+msgstr "Die USV wird wieder mit Netzstrom versorgt"
+
+msgid "Your equipment is now running on AC utility power."
+msgstr "Ihr System läuft jetzt über mit Netzstrom."
+
+msgid "the shutdown process has been aborted."
+msgstr "der Shutdown-Prozess wurde gestoppt."
+
+msgid "Open"
+msgstr "Öffnen"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+msgid "Configure"
+msgstr "Konfigurieren"
+
+msgid "Change Language"
+msgstr "Sprache Ändern"
+
+#----------------------ConfigrationMain----------------------
+
+msgid "Configure your UPS"
+msgstr "USV konfigurieren"
+
+#----------------------CurrentStatus----------------------
+
+msgid "You can configure the settings of application_short_name to ensure optimum performance of the UPS."
+msgstr "Sie können die Einstellungen von application_short_name so konfigurieren, dass eine optimale Leistung der USV erreicht wird"
+
+msgid "AC Utility Power"
+msgstr "Wechselstromversorgung"
+
+msgid "Battery"
+msgstr "Batterie"
+
+msgid "Discharging"
+msgstr "Entladen"
+
+msgid "Fully Charged"
+msgstr "Voll geladen"
+
+msgid "Charging"
+msgstr "Laden"
+
+msgid "Overload"
+msgstr "Überlastung"
+
+msgid "Power Outage"
+msgstr "Stromausfall"
+
+msgid "Under Voltage"
+msgstr "Unterspannung"
+
+msgid "Over Voltage"
+msgstr "Überspannung"
+
+msgid "Frequency Failure"
+msgstr "Frequenz-Ausfall"
+
+msgid "Voltage Boost"
+msgstr "Spannungserhöhung"
+
+msgid "Voltage Buck"
+msgstr "Spannungssenkung"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "volts"
+msgstr "Volt"
+
+msgid "minutes"
+msgstr "Minuten"
+
+msgid "watts"
+msgstr "Watt"
+
+msgid "Current Status"
+msgstr "Aktueller Status"
+
+msgid "Electrical power supplied by"
+msgstr "Versorgung erfolgt über"
+
+msgid "Voltage supplied"
+msgstr "Ausgangsspannung"
+
+msgid "Power condition"
+msgstr "Versorgungsspannung"
+
+msgid "Remaining battery capacity"
+msgstr "Verbleibende Batterieleistung"
+
+msgid "Battery status"
+msgstr "Batteriestatus"
+
+msgid "Remaining battery runtime"
+msgstr "Batterie-Restlaufzeit"
+
+msgid "Hardware status"
+msgstr "Hardware-Status"
+
+msgid "No Output"
+msgstr "Keine Versorgung"
+
+#----------------------EmailSender----------------------
+
+msgid "UPS load"
+msgstr "USV Belastung"
+
+msgid "Event Notification"
+msgstr "Ereignisbenachrichtigung"
+
+msgid "Time"
+msgstr "Zeit"
+
+msgid "power_event_notify"
+msgstr "Benachrichtigung über Energieereignisse"
+
+#----------------------EnergyReporting----------------------
+
+msgid "Energy Reporting"
+msgstr "Energieberichterstattung"
+
+msgid "Statistic"
+msgstr "Statistik"
+
+msgid "From"
+msgstr "Von"
+
+msgid "To"
+msgstr "Bis"
+
+msgid "Average Energy Consumption"
+msgstr "Durchschnittlicher Energieverbrauch"
+
+msgid "Cumulative Energy Consumption"
+msgstr "Gesamter Energieverbrauch"
+
+msgid "Cumulative Cost"
+msgstr "Gesamte Kosten"
+
+#----------------------EnergySettings----------------------
+
+msgid "CO2"
+msgstr "CO2"
+
+msgid "Show energy cost history"
+msgstr "Energiekostenverlauf anzeigen"
+
+msgid "Today"
+msgstr "Heute"
+
+msgid "Change Country"
+msgstr "Land ändern"
+
+msgid "Hide energy cost history"
+msgstr "Energiekostenverlauf ausblenden"
+
+msgid "Edit record"
+msgstr "Aufzeichnung bearbeiten"
+
+msgid "Delete record"
+msgstr "Aufzeichnung löschen"
+
+msgid "Cost value should be within range 0~100000."
+msgstr "Der Kostenwert sollte zwischen 0 und 100000 liegen."
+
+msgid "Apply Success"
+msgstr "Erfolgreich übernommen."
+
+msgid "Apply Error"
+msgstr "Fehler bei Übernahme."
+
+msgid "Energy Settings"
+msgstr "Energieeinstellungen"
+
+msgid "Country Selection"
+msgstr "Landauswahl"
+
+msgid "Country"
+msgstr "Land"
+
+msgid "Energy Cost"
+msgstr "Energiekosten"
+
+msgid "Cost per kWh"
+msgstr "Kosten pro kWh"
+
+msgid "CO2 Emissions"
+msgstr "CO2 Emissionen"
+
+msgid "CO2 Emitted per kWh"
+msgstr "CO2-Ausstoß pro kWh"
+
+msgid "Unit of Measurement"
+msgstr "Maßeinheit"
+
+msgid "Kilograms(kg)"
+msgstr "Kilogramm(kg)"
+
+msgid "Pounds(lb)"
+msgstr "Pfund(lb)"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Apply"
+msgstr "Übernehmen"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Start Date"
+msgstr "Startdatum"
+
+msgid "End Date"
+msgstr "Enddatum"
+
+msgid "Are you sure to remove this record?"
+msgstr "Möchten Sie diese Aufzeichnung wirklich entfernen?"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Changing the country will reset the energy settings."
+msgstr "Durch Änderung des Landes werden die Energieeinstellungen rückgesetzt."
+
+msgid "Are you sure to continue?"
+msgstr "Sind Sie sicher fortzufahren?"
+
+#----------------------MasterPage----------------------
+
+msgid "PowerPanel Personal Service is not ready."
+msgstr "PowerPanel Personal ist nicht bereit."
+
+msgid "Unable to establish communication with UPS."
+msgstr "Kann Kommunikation mit der USV nicht aufbauen."
+
+msgid "The UPS is working normally."
+msgstr "Die USV arbeitet normal."
+
+msgid "min."
+msgstr "Min."
+
+msgid "AC Utility"
+msgstr "Wechselstrom"
+
+msgid "Power Source"
+msgstr "Stromversorgung"
+
+msgid "Battery Capacity"
+msgstr "Batteriekapazität"
+
+msgid "Estimated Runtime"
+msgstr "Voraussichtliche Laufzeit"
+
+msgid "Schedule"
+msgstr "Zeitplan"
+
+msgid "Notification"
+msgstr "Benachrichtigung"
+
+msgid "Runtime"
+msgstr "Laufzeit"
+
+msgid "Voltage"
+msgstr "Spannung"
+
+msgid "Self-Test"
+msgstr "Selbsttest"
+
+msgid "About"
+msgstr "Über"
+
+#----------------------Notification----------------------
+
+msgid "Verifying..."
+msgstr "Überprüfen ..."
+
+msgid "Testing..."
+msgstr "Testen..."
+
+msgid "Exchange Success."
+msgstr "Exchange erfolgreich."
+
+msgid "Exchange Failure."
+msgstr "Exchange Fehler."
+
+msgid "Test Send Success."
+msgstr "Sende-Test erfolgreich."
+
+msgid "Test Send Failure."
+msgstr "Fehler bei Sende-Test."
+
+msgid "SMTP Address Invalid"
+msgstr "SMTP-Adresse ungültig"
+
+msgid "Email Format error"
+msgstr "E-Mail-Formatfehler"
+
+msgid "Account cannot be empty, when auth active."
+msgstr "Das Konto darf nicht leer sein, wenn auth aktiviert ist."
+
+msgid "Verify Success."
+msgstr "Verifizierung erfolgreich."
+
+msgid "Verify Failure."
+msgstr "Fehler bei Verifizierung."
+
+msgid "Enter the authorization code here."
+msgstr "Geben Sie hier den Authentifizierungscode ein."
+
+msgid "Software Sounds"
+msgstr "Software-Warnsignal"
+
+msgid "application_short_name generates audible sounds to notify you of power events."
+msgstr "application_short_name erzeugt ein Warnsignal, um Sie über eine Störung zu informieren."
+
+msgid "Enable application_short_name notification sounds"
+msgstr "Warnsignale für application_short_name aktivieren"
+
+msgid "UPS Alarms"
+msgstr "USV-Alarme"
+
+msgid "The UPS generates audible alarms during power events."
+msgstr "Die USV sendet bei Störungen ein Warnsignal."
+
+msgid "Enable alarms at all times"
+msgstr "Alarmton immer aktiv"
+
+msgid "Disable alarms at all times"
+msgstr "Alarmton nie aktiv"
+
+msgid "E-mail"
+msgstr "E-Mail"
+
+msgid "Activate"
+msgstr "Aktivieren"
+
+msgid "Service Provider"
+msgstr "Dienstleister"
+
+msgid "other"
+msgstr "sonstiges"
+
+msgid "Account"
+msgstr "Konto"
+
+msgid "Request"
+msgstr "Anfordern"
+
+msgid "Change"
+msgstr "Ändern"
+
+msgid "SMTP server address"
+msgstr "SMTP-Server Adresse"
+
+msgid "Secure connection"
+msgstr "Sichere Verbindung"
+
+msgid "Service port"
+msgstr "Service-Port"
+
+msgid "Sender name"
+msgstr "Absender Name"
+
+msgid "Sender E-mail address"
+msgstr "Absender E-Mail Adresse"
+
+msgid "Authentication"
+msgstr "Authentifizierung"
+
+msgid "Receiver E-mail address"
+msgstr "Empfänger E-Mail-Adresse"
+
+msgid "Test"
+msgstr "Test"
+
+#----------------------Runtime----------------------
+
+msgid "Verify"
+msgstr "Überprüfen"
+
+msgid "Runtime Configuration"
+msgstr "Laufzeit-Konfiguration"
+
+msgid "You can change the length of time that application_short_name allows your UPS to run on battery power."
+msgstr "Sie können für application_short_name die Zeit ändern, für die Ihre USV auf Batterieversorgung läuft."
+
+msgid "Keep Computer Running"
+msgstr "Rechner arbeitet weiter"
+
+msgid "Shutdown this computer when remaining battery runtime is only xxxx minutes."
+msgstr "Rechner herunterfahren wenn die Batterie-Restlaufzeit nur noch xxxx Minuten beträgt."
+
+msgid "Use this Option to extend operating time while on battery power."
+msgstr "Verwenden Sie diese Option, um die Laufzeit im Batteriebetrieb zu verlängern."
+
+msgid "Preserve Battery Power"
+msgstr "Batterieladung erhalten"
+
+msgid "Shutdown this computer after UPS runs on battery power for xxxx minutes."
+msgstr "Diesen Rechner herunterfahren, wenn die USV xxxx Minuten im Batteriebetrieb arbeitet."
+
+#----------------------Schedule----------------------
+
+msgid "Use this option to save battery power for successive power outages."
+msgstr "Verwenden Sie diese Option, um bei langen Stromausfällen Batterieleistung zu sparen."
+
+msgid "Your computer will be shut down at xxxx0 on xxxx1 xxxx2."
+msgstr "Der Rechner fährt am xxxx1 xxxx2 um xxxx0 herunter."
+
+msgid "Your computer will be shut down at xxxx0 on xxxx1 xxxx2 and restart at xxxx3 on xxxx4 xxxx5."
+msgstr "Der Rechner fährt am xxxx1 xxxx2 um xxxx0 herunter und startet am xxxx4 xxxx5 um xxxx3 neu."
+
+msgid "Monday"
+msgstr "Montag"
+
+msgid "Tuesday"
+msgstr "Dienstag"
+
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+msgid "Thursday"
+msgstr "Donnerstag"
+
+msgid "Friday"
+msgstr "Freitag"
+
+msgid "Saturday"
+msgstr "Samstag"
+
+msgid "Sunday"
+msgstr "Sonntag"
+
+msgid "You can decide when time your computer and equipment will turn ON and OFF."
+msgstr "Legen Sie fest, wann Rechner und Geräte aus- und wieder einschalten."
+
+msgid "Days"
+msgstr "Tage"
+
+msgid "ON"
+msgstr "EIN"
+
+msgid "Act."
+msgstr "Akt."
+
+msgid "OFF"
+msgstr "AUS"
+
+msgid "N.R"
+msgstr "N.R"
+
+#----------------------SelfTest----------------------
+
+msgid "Self-test helps ensure your UPS is working correctly."
+msgstr "Der Selbsttest hilft bei der Prüfung, ob die USV korrekt arbeitet."
+
+msgid "Date of last self-test"
+msgstr "Letzter Selbsttest am"
+
+msgid "Never"
+msgstr "Nie"
+
+msgid "Result of last self-test"
+msgstr "Selbsttest Ergebnis"
+
+msgid "Click button to initiate a self-test to ensure UPS working correctly."
+msgstr "Schaltfläche anklicken, um den Selbsttest der USV zu starten."
+
+msgid "Self-test is in progress, please wait..."
+msgstr "Selbsttest läuft, bitte warten..."
+
+msgid "Passed"
+msgstr "Bestanden"
+
+msgid "Not passed"
+msgstr "Nicht bestanden"
+
+msgid "None"
+msgstr "Keine"
+
+msgid "Initiate self-test"
+msgstr "Selbsttest starten"
+
+#----------------------Summary----------------------
+
+msgid "time"
+msgstr "Zeit"
+
+msgid "times"
+msgstr "Anzahl"
+
+msgid "hours"
+msgstr "Stunden"
+
+msgid "seconds"
+msgstr "Sekunden"
+
+msgid "AC utility power lost, use battery power at xxxx."
+msgstr "Wechselstromversorgung liegt nicht an, Batteriestrom für xxxx verwenden"
+
+msgid "AC utility power is too low, use battery power at xxxx."
+msgstr "Wechselstromversorgung zu niedrig, Batteriestrom für xxxx verwenden."
+
+msgid "AC utility power is too high, use battery power at xxxx."
+msgstr "Wechselstromversorgung zu hoch, Batteriestrom für xxxx verwenden."
+
+msgid "AC utility frequency failure, use battery power at xxxx."
+msgstr "Wechselstromversorgung Frequenz-Ausfall, Batteriestrom für xxxx verwenden"
+
+msgid "Power Problem Summary"
+msgstr "Zusammenfassung der Störungen"
+
+msgid "Last Power Event"
+msgstr "Letzte Störung"
+
+msgid "Power Condition Summary"
+msgstr "Zusammenfassung anliegende Spannung"
+
+msgid "Display period"
+msgstr "Anzeigeperiode"
+
+msgid "Last"
+msgstr "Letzte"
+
+msgid "week"
+msgstr "Woche"
+
+msgid "weeks"
+msgstr "Wochen"
+
+msgid "Power problem"
+msgstr "Benachrichtigungen"
+
+msgid "Number of times"
+msgstr "Anzahl"
+
+msgid "Amount of time"
+msgstr "Dauer"
+
+msgid "Power outage"
+msgstr "Stromausfall"
+
+msgid "Invert total"
+msgstr "Wechselrichter gesamt"
+
+msgid "Voltage regulation"
+msgstr "Spannungsreglung"
+
+msgid "Boost"
+msgstr "Spannungserhöhung"
+
+msgid "Buck"
+msgstr "Spannungssenkung"
+
+#----------------------Voltage----------------------
+
+msgid "Regular total"
+msgstr "Regulär gesamt"
+
+msgid "The UPS will intervene when the AC utility voltage falls below xxxx volts or rises above xxxx volts."
+msgstr "Die USV schaltet auf, wenn die Versorgungsspannung unter xxxx Volt fällt oder über xxxx Volt steigt."
+
+msgid "The current voltage is xxxx volts."
+msgstr "Die gegenwärtige Versorgungsspannung ist xxxx Volt."
+
+msgid "You can change the point of transfer in the below section."
+msgstr "Sie können den Übergang im folgenden Bereich festlegen."
+
+msgid "UPS will intervene"
+msgstr "USV schaltet auf"
+
+msgid "When AC utility voltage goes above xxxx volts."
+msgstr "Wenn die Versorgungsspannung über xxxx Volt steigt."
+
+#----------------------WebAppController----------------------
+
+msgid "When AC utility voltage goes below xxxx volts."
+msgstr "Wenn die Versorgungsspannung unter xxxx Volt fällt."
+
+msgid "Login failed. Please wait for UPS connection and try again."
+msgstr "Anmeldung fehlgeschlagen. Bitte warten Sie auf die Verbindung mit der USV und versuchen Sie es erneut."
+
+msgid "Your account or password is incorrect. Please try again."
+msgstr "Ihr Konto oder Passwort ist falsch. Bitte versuchen Sie es erneut."
+
+msgid "An error occurred. Please try again."
+msgstr "Ein Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+
+msgid "Update Success."
+msgstr "Erfolgreich aktualisiert"
+
+msgid "Update Failed."
+msgstr "Aktualisierung fehlgeschlagen."
+
+msgid "Duplicate device name."
+msgstr "Doppelter Gerätename"
+
+#----------------------EventLogs----------------------
+
+msgid "Event Logs"
+msgstr "Ereignisprotokolle"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "Critical"
+msgstr "Kritisch"
+
+msgid "Offline"
+msgstr "Offline"
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Events"
+msgstr "Ereignisse"
+
+msgid "No result found"
+msgstr "Kein Ergebnis gefunden"
+
+msgid "eventId_0"
+msgstr "Netzversorgungsausfall, Versorgung über Akkuenergie."
+
+msgid "eventId_1"
+msgstr "Netzstromversorgung wiederhergestellt; Versorgung über Akkuenergie eingestellt."
+
+msgid "eventId_2"
+msgstr "Ausgangsspannung wurde erhöht."
+
+msgid "eventId_3"
+msgstr "Ausgangsspannung wurde reduziert."
+
+msgid "eventId_4"
+msgstr "Ausgangsspannung ist normal, Spannungserhöhung beendet."
+
+msgid "eventId_5"
+msgstr "Ausgangsspannung ist normal, Spannungsreduktion beendet."
+
+msgid "eventId_6"
+msgstr "Netzspannung ist höher als der Normspannungswert, Versorgung erfolgt über Akkuenergie."
+
+msgid "eventId_7"
+msgstr "Netzstromversorgung wiederhergestellt; Versorgung über Akkuenergie eingestellt."
+
+msgid "eventId_8"
+msgstr "Netzspannung ist niedriger als der Normspannungswert, Versorgung erfolgt über Akkuenergie."
+
+msgid "eventId_9"
+msgstr "Netzstromversorgung wiederhergestellt; Versorgung über Akkuenergie eingestellt."
+
+msgid "eventId_16"
+msgstr "Die USV wurde abgeschaltet"
+
+msgid "eventId_17"
+msgstr "Die USV wurde eingeschaltet"
+
+msgid "eventId_18"
+msgstr "Die USV ist in den Schlafmodus übergegangen. Die Ausgangsversorgung wird nicht bereitgestellt"
+
+msgid "eventId_19"
+msgstr "Die USV ist aus dem Schlafmodus zurück gekehrt. Die Ausgangsversorgung wird wieder bereitgestellt"
+
+msgid "eventId_20"
+msgstr "Bypassmodus wird eingeleitet, Akkuversorgungschutz ist nicht mehr gegeben."
+
+msgid "eventId_21"
+msgstr "Bypassmodus wird verlassen, auf Netzversorgungs- oder Akkumodus umgeschaltet; Akkuversorgung wird genutzt."
+
+msgid "eventId_22"
+msgstr "Ausgang im Bypassmodus überlastet."
+
+msgid "eventId_23"
+msgstr "Ausgang nicht mehr im Bypassmodus überlastet."
+
+msgid "eventId_24"
+msgstr "Ein USV-Ausgang wurde eingeschaltet."
+
+msgid "eventId_25"
+msgstr "Ein USV-Ausgang wurde abgeschaltet."
+
+msgid "eventId_26"
+msgstr "Die USV arbeitet im Energiesparmodus."
+
+msgid "eventId_27"
+msgstr "Die USV arbeitet nicht mehr im Energiesparmodus."
+
+msgid "eventId_28"
+msgstr "Ausgang nicht mehr überlastet, Belastung normal."
+
+msgid "eventId_29"
+msgstr "Leistungsabgabe wird durch Stromereignis oder Anwenderbefehl gestoppt."
+
+msgid "eventId_32"
+msgstr "Ausgang ist überlastet, die USV stellt die Energieabgabe in Kürze ein."
+
+msgid "eventId_33"
+msgstr "Ausgang nicht mehr überlastet, Belastung normal."
+
+msgid "eventId_34"
+msgstr "Die Innentemperatur der USV ist zu hoch"
+
+msgid "eventId_35"
+msgstr "Der Zustand Übertemperatur der USV wurde gelöscht"
+
+msgid "eventId_36"
+msgstr "Die USV hat eine Fehlfunktionen und arbeitet nicht mehr normal.%-1"
+
+msgid "eventId_37"
+msgstr "Die USV arbeitet im Energiesparmodus."
+
+msgid "eventId_38"
+msgstr "Die USV arbeitet nicht mehr im Energiesparmodus."
+
+msgid "eventId_39"
+msgstr "Die Verkabelungsfehler-Funktion ist aktiv, ein Verkabelungsfehler liegt vor."
+
+msgid "eventId_40"
+msgstr "Die USV hat keinen Verkabelungsfehler und ist korrekt verkabelt."
+
+msgid "eventId_41"
+msgstr "Das USV-Firmware Update hat begonnen"
+
+msgid "eventId_42"
+msgstr "Das USV-Firmware Update ist beendet"
+
+msgid "eventId_43"
+msgstr "Hohe Belastungsgrenze"
+
+msgid "eventId_44"
+msgstr "Hohe Belastungsgrenze verlassen"
+
+msgid "eventId_45"
+msgstr "Niedrige Belastungsgrenze"
+
+msgid "eventId_46"
+msgstr "Niedrige Belastungsgrenze verlassen"
+
+msgid "eventId_47"
+msgstr "Hardware-Status"
+
+msgid "eventId_48"
+msgstr "Akkukapazität kritisch, Ausfall kann unmittelbar bevor stehen."
+
+msgid "eventId_49"
+msgstr "Die Akkukapazität ist normal, nicht mehr kritisch."
+
+msgid "eventId_50"
+msgstr "Das Batterieladegerät hat eine Verhaltensstörung"
+
+msgid "eventId_51"
+msgstr "Keine Akkus vorhanden, die USV kann in diesem Zustand keine Akkuversorgung zur Verfügung stellen."
+
+msgid "eventId_52"
+msgstr "Die Batterie ist möglicherweise nicht mehr in Ordnung"
+
+msgid "eventId_53"
+msgstr "Der Akku muss ausgetauscht werden."
+
+msgid "eventId_54"
+msgstr "Der Akku wird geladen. Die Akkukapazität steigt."
+
+msgid "eventId_55"
+msgstr "Laden des Akkus wurde gestoppt. Die Akkukapazität steigt nicht weiter."
+
+msgid "eventId_56"
+msgstr "Der Akku wird entladen, die Akkukapazität sinkt."
+
+msgid "eventId_57"
+msgstr "Akkuentladung gestoppt, die Akkukapazität sinkt nicht weiter."
+
+msgid "eventId_58"
+msgstr "Nicht genügend Zeit zum vollständigen Herunterfahren, auch wenn der Akku komplett geladen ist."
+
+msgid "eventId_59"
+msgstr "Akku ist komplett geladen."
+
+msgid "eventId_60"
+msgstr "Verbleibende Laufzeit ist ausgeschöpft"
+
+msgid "eventId_61"
+msgstr "Neue Akkus wurden installiert, das Gerät kann normal genutzt werden."
+
+msgid "eventId_62"
+msgstr "Die Akkukapazität ist normal, nicht mehr kritisch."
+
+msgid "eventId_63"
+msgstr "Die mögliche Laufzeit ist nun ausreichend, vollständiges Herunterfahren ist wieder möglich."
+
+msgid "eventId_64"
+msgstr "Zur Sicherstellung ordnungsgemäßer Akkuversorgung wird ein Akkutest durchgeführt."
+
+msgid "eventId_65"
+msgstr "Der Akkutest war erfolgreich, der Akku ist in Ordnung."
+
+msgid "eventId_66"
+msgstr "Der Akkutest ist fehlgeschlagen, da der Akku keine Leistung liefert."
+
+msgid "eventId_67"
+msgstr "Kalibrierung wurde eingeleitet, die Akkulaufzeit wird ermittelt."
+
+msgid "eventId_68"
+msgstr "Kalibrierung wurde abgeschlossen; Akkuversorgung wird nicht mehr genutzt."
+
+msgid "eventId_69"
+msgstr "Kalibrierung wurde abgebrochen, die Ermittlung der Akkulaufzeit wurde unterbrochen."
+
+msgid "eventId_70"
+msgstr "Der Akkutest wurde wegen unzureichender Laufzeit nicht abgeschlossen."
+
+msgid "eventId_71"
+msgstr "Kalibrierung unvollständig, Akkulaufzeit unzureichend."
+
+msgid "eventId_80"
+msgstr "Kommunikationsaufbau mit Gerät beim Systemstart fehlgeschlagen."
+
+msgid "eventId_81"
+msgstr "Kommunikation beim Systemstart aufgebaut."
+
+msgid "eventId_82"
+msgstr "Gerät ist offline."
+
+msgid "eventId_83"
+msgstr "Gerät ist online."
+
+msgid "eventId_84"
+msgstr "Die Kommunikation kann nicht hergestellt werden"
+
+msgid "eventId_85"
+msgstr "Lokale Kommunikation mit dem Gerät getrennt."
+
+msgid "eventId_86"
+msgstr "Kommunikation mit dem Gerät bei Stromausfall verloren."
+
+msgid "eventId_87"
+msgstr "Kommunikation mit dem Versorgungsgerät wurde unterbrochen."
+
+msgid "eventId_88"
+msgstr "Die Kommunikation mit der USV wurde nach einem Stromsereignis unterbrochen."
+
+msgid "eventId_89"
+msgstr "Netzwerkkommunikation verloren"
+
+msgid "eventId_90"
+msgstr "Die Kommunikation wurde hergestellt"
+
+msgid "eventId_91"
+msgstr "Kommunikation mit dem Gerät wurde fortgesetzt."
+
+msgid "eventId_92"
+msgstr "Kommunikation mit USV erfolgreich hergestellt."
+
+msgid "eventId_93"
+msgstr "Die Netzwerkkommunikation wurde wiederhergestellt"
+
+msgid "eventId_94"
+msgstr "Kommunikation mit Versorgungsgerät erfolgreich hergestellt."
+
+msgid "eventId_96"
+msgstr "Hohe Belastungsgrenze am Ausgang"
+
+msgid "eventId_97"
+msgstr "Hohe Belastungsgrenze am Ausgang verlassen"
+
+msgid "eventId_98"
+msgstr "Niedrige Belastungsgrenze am Ausgang"
+
+msgid "eventId_99"
+msgstr "Niedrige Belastungsgrenze am Ausgang verlassen"
+
+msgid "eventId_112"
+msgstr "Restlaufzeit ausgeschöpft ist nun ausreichend, ein vollständiges Herunterfahren ist möglich."
+
+msgid "eventId_113"
+msgstr "Akkukapazität kritisch, Ausfall kann unmittelbar bevor stehen."
+
+msgid "eventId_114"
+msgstr "Der Akku ist seit %-1 im Einsatz, Kapazitätsverluste sind wahrscheinlich."
+
+msgid "eventId_128"
+msgstr "Systemtemperatur ist zu hoch."
+
+msgid "eventId_129"
+msgstr "Ausgang wurde kurzgeschlossen, Energieabgabe wurde gestoppt."
+
+msgid "eventId_130"
+msgstr "Ausgang nicht mehr kurzgeschlossen, Energieabgabe wird fortgesetzt."
+
+msgid "eventId_131"
+msgstr "Die Verkabelungsfehler-Funktion ist aktiv, ein Verkabelungsfehler liegt vor."
+
+msgid "eventId_132"
+msgstr "Die USV arbeitet wieder normal, keine weitere Fehlfunktion."
+
+msgid "eventId_133"
+msgstr "Systemtemperatur ist zu normal."
+
+msgid "eventId_134"
+msgstr "Wiederherstellung des Hardware-Status"
+
+msgid "eventId_144"
+msgstr "Ein Zeitplan wurde gestartet, das System wird heruntergefahren."
+
+msgid "eventId_145"
+msgstr "Herunterfahren eingeleitet."
+
+msgid "eventId_146"
+msgstr "Die USV-Überwachung wurde gestartet."
+
+msgid "eventId_147"
+msgstr "Die USV-Überwachung wurde gestoppt."
+
+msgid "eventId_148"
+msgstr "Nicht genügend Zeit zum vollständigen Herunterfahren, auch wenn der Akku komplett geladen ist."
+
+msgid "eventId_149"
+msgstr "System wurde per Fernsteuerung heruntergefahren."
+
+msgid "eventId_150"
+msgstr "System wurde per Fernsteuerung neu gestartet."
+
+msgid "eventId_151"
+msgstr "Fernsteuerung durch Benutzer"
+
+msgid "eventId_152"
+msgstr "Herunterfahren wurde vom Anwender abgebrochen."
+
+msgid "eventId_153"
+msgstr "Die mögliche Laufzeit ist nun ausreichend, vollständiges Herunterfahren ist wieder möglich."
+
+#----------------------P66EventCode----------------------
+
+msgid "eventCode_01"
+msgstr "Überladung der Batterie "
+
+msgid "eventCode_02"
+msgstr "Fehler: Ladegerät lädt Batterie nicht auf"
+
+msgid "eventCode_04"
+msgstr "Batterie schwach"
+
+msgid "eventCode_05"
+msgstr "Batterie (Test) Fehler"
+
+msgid "eventCode_06"
+msgstr "Batterie nicht verbunden"
+
+msgid "eventCode_07"
+msgstr "Batterie Service (=Batterie austauschen)"
+
+msgid "eventCode_08"
+msgstr "Kaltstart bei Batteriespannung über"
+
+msgid "eventCode_12"
+msgstr "Belastung über Einstellung %"
+
+msgid "eventCode_20"
+msgstr "Kaltstart Ausgang Kurzschluss"
+
+msgid "eventCode_21"
+msgstr "Ausgang Kurzschluss"
+
+msgid "eventCode_22"
+msgstr "Ausgang Überlast"
+
+msgid "eventCode_23"
+msgstr "Übertemperatur (AVR-Transformator)"
+
+msgid "eventCode_25"
+msgstr "EPO Aus"
+
+msgid "eventCode_26"
+msgstr "OCP (Schutz Ausgangsstrom)"
+
+msgid "eventCode_27"
+msgstr "ROO Aus"
+
+msgid "eventCode_29"
+msgstr "Fehler AVR"
+
+msgid "eventCode_2A"
+msgstr "Fehler Vout AD"
+
+msgid "eventCode_30"
+msgstr "Fehler Wechselrichter"
+
+msgid "eventCode_31"
+msgstr "Hohe Ausgangsspanung V"
+
+msgid "eventCode_32"
+msgstr "Niedrige Ausgangsspanung V"
+
+msgid "eventCode_33"
+msgstr "Übertemperatur (Kühlkörper)"
+
+msgid "eventCode_34"
+msgstr "Fehler Lüfter"
+
+msgid "eventCode_35"
+msgstr "Fehler Lüfter (Rückseite) "
+
+msgid "eventCode_36"
+msgstr "Fehler Lüfter (Mitte)"
+
+msgid "eventCode_37"
+msgstr "Fehler Lüfter (Vorderseite) "
+
+msgid "eventCode_40"
+msgstr "Bus-Fehler"
+
+msgid "eventCode_41"
+msgstr "Bus-Fehler +Hoch"
+
+msgid "eventCode_42"
+msgstr "Bus-Fehler +Niedrig"
+
+msgid "eventCode_43"
+msgstr "Bus-Fehler -Hoch"
+
+msgid "eventCode_44"
+msgstr "Bus-Fehler -niedrig"
+
+msgid "eventCode_50"
+msgstr "Ausfall der Eingangsversorgung"
+
+msgid "eventCode_51"
+msgstr "Eingang V+Hz außerhalb des Bereichs"
+
+msgid "eventCode_52"
+msgstr "Eingang V außerhalb des Bereichs"
+
+msgid "eventCode_53"
+msgstr "Eingang Hz außerhalb des Bereichs"
+
+msgid "eventCode_54"
+msgstr "Versorgung unreglemäßig (automatischer Neustart)"
+
+msgid "eventCode_55"
+msgstr "Verdrahtungsfehler"
+
+msgid "eventCode_56"
+msgstr "ICP (Schutz Eingangsstrom)"
+
+msgid "eventCode_57"
+msgstr "Manuelle Bypass Umgehung verboten (für OL6~10K)"
+
+msgid "Fault"
+msgstr "Fehler"
+
+msgid "Warning"
+msgstr "Warnung"
+
+msgid "Click button to clear all event logs."
+msgstr "Klicken Sie auf die Schaltfläche, um alle Ereignisprotokolle zu löschen."
+
+msgid "Clear"
+msgstr "Entfernen"
+
+msgid "Notice"
+msgstr "beachten"
+
+msgid "Input page number is out of range."
+msgstr "Die eingegebene Seitenzahl liegt außerhalb des Bereichs."
+
+msgid "Are you sure to delete all event logs?"
+msgstr "Sind Sie sicher, alle Ereignisprotokolle zu löschen?"
+
+
+
+
+

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PowerPanel Personal - Spannung</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../resources/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../resources/css/style.css">
+    <link rel="stylesheet" href="../resources/css/animate.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+</head>
+
+<body>
+    <header>
+        <div class="headerBox">
+            <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.htm">POWERPANEL</a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="interface.htm">Schnittstelle</a></li>
+                            <li><a href="features.htm">Funktionen</a></li>
+                            <li><a href="conditions.htm">Bedingungen</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="page-header">
+            <div class="container">
+                <h1>Spannung</h1>
+            </div>
+        </div>
+        <ul class="nav_linkBox">
+            <li><a href="schedule.htm">Zeitplan</a></li>
+            <li><a href="notification.htm">Benachrichtigung</a></li>
+            <li><a href="runtime.htm">Laufzeit</a></li>
+            <li><a href="voltage.htm" class="active">Spannung</a></li>
+            <li><a href="selftest.htm">Selbsttest</a></li>
+            <li><a href="advanced.htm">Experte</a></li>
+        </ul>
+        <div class="container containerBox">
+            <div class="col-md-12">
+                <ol class="breadcrumb">
+                    <li><a href="index.htm">Übersicht</a></li>
+                    <li><a href="features.htm">Funktionen</a></li>
+                    <li><a href="configuration.htm">Konfigurieren</a></li>
+                    <li class="active">Spannung</li>
+                </ol>
+                <p>Diese Funktion zeigt die gegebene Wechselspannung und den normalen Spannungsbereich Ihrer USV. Diese Funktion sorgt dafür, dass Ihre Endgeräte keinen gefährlichen Spannungen ausgesetzt werden. Sollte die <strong>Versorgungsspannung oder Ausgangsspannung*</strong>  über oder unter den von Ihnen voreingestellten Werten liegen, schaltet die USV automatisch in den Batterie-Modus. Der niedrige Ausgangsspannungsbereich kann zu hoher Batterieauslastung führen wohingegen; Der große Ausgangsspannungsbereich kann Schäden an Ihrem Gerät verursachen. </p>
+                <p>Es stehen die Optionen<b>Hohe/Niedrige Spannungsschaltschwelle</b> und <a href="glossary.htm" class="link"><b>Nominale Spannung</b></a> zur Einstellung der Betriebsparameter der USV zur Verfügung. Wählen Sie die folgenden Optionen :</p>
+                <ul>
+                    <li><span class="style5"><a name="voltage_transfer" class="strong">Hohe/Niedrige Spannungsschaltschwelle</a></span>
+                        <p>Stellen Sie den Schwellenwert der Spannungen ein. Die USV wird bei Erreichen der Werte die Versorgungsspannung entsprechend anpassen.</p>
+                    </li>
+                    <li><span class="style5"><a name="nominal_voltage" class="strong">Nominale Spannung</a></span>
+                        <p>Bestimmen Sie die Betriebsspannung der USV. Dieser beieinflusst den hohe/niedrige Spannungsschwellwert. </p>
+                    </li>
+                </ul>
+                Hinweis : Diese Funktion ist nicht für alle USV verfügbar.
+                <br>*Hinweis : Die Funktion der Anpassung der Ausgangsspannung ist nicht in allen USV-Modellen enthalten. 
+                <p></p>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>© 2018-2020 CyberPower Systems, Inc. Alle Rechte vorbehalten.</p>
+    </footer>
+    <!-- jQuery -->
+    <script src="../resources/js/jquery-1.11.1.min.js"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="../resources/js/bootstrap.min.js"></script>
+    <!-- sticky -->
+    <script src="../resources/js/jquery.sticky.js"></script>
+    <!-- common -->
+    <script src="../resources/js/common.js"></script>
+</body>
+
+</html>

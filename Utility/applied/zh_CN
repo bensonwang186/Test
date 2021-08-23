@@ -1,0 +1,1331 @@
+# Copyright (C) CyberPower Systems, Inc. ALL RIGHTS RESERVED.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-06-05 11:32+0800\n"
+"PO-Revision-Date: 2017-06-05 11:34+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#----------------------About----------------------
+
+msgid "Unknown"
+msgstr "未知事件"
+
+msgid "version"
+msgstr "版本"
+
+msgid "Hardware Information"
+msgstr "配置信息"
+
+msgid "Model Name"
+msgstr "机型"
+
+msgid "Serial Number"
+msgstr "序列号"
+
+msgid "Firmware Version"
+msgstr "软件版本"
+
+msgid "Power Ratting"
+msgstr "额定功率"
+
+msgid "Web Support Information"
+msgstr "在线帮助"
+
+msgid "website"
+msgstr "官网"
+
+msgid "Products"
+msgstr "产品"
+
+msgid "Contacts"
+msgstr "联系我们"
+
+msgid "Click here to get the technical support information on the Web"
+msgstr "点击此处获取技术支持信息"
+
+msgid "Click here to get other products on the Web"
+msgstr "点击此处获取其它产品信息"
+
+msgid "Click here to get contact information on the Web"
+msgstr "点击此处获取联系方式"
+
+msgid "Watts"
+msgstr "瓦特"
+
+msgid "Please check your internet connection and try again."
+msgstr "请检查你的网络连接，然后重试"
+
+msgid "Please wait for a few minutes while PowerPanel Personal is updating."
+msgstr " PowerPanel Personal 正在更新中，请稍等"
+
+msgid "Check for Updates"
+msgstr "检查更新"
+
+msgid "A new version of PowerPanel {0} is now available"
+msgstr "新的PowerPanel {0} 版本已经推出"
+
+msgid "Update Now"
+msgstr "立即更新"
+
+msgid "NEW SOFTWARE VERSION DETECTED"
+msgstr "侦测到新的软件版本"
+
+msgid "View more information about this update"
+msgstr "查看更多关于此次更新的信息"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Restore to the previous software version"
+msgstr "还原成先前使用的软件版本"
+
+msgid "Restoration"
+msgstr "还原"
+
+msgid "Updated Successfully"
+msgstr "更新成功"
+
+msgid "Software Version Update"
+msgstr "更新软件版本"
+
+msgid "YOUR SOFTWARE IS UP TO DATE"
+msgstr "您的软件已是最新版本"
+
+msgid "An error occurred while downloading the updates.xxx1 Please try again later."
+msgstr "下载更新时出错 xxx1请稍后重试"
+
+msgid "An error occurred while updating.xxx1 Please try again later."
+msgstr "更新时出错 xxx1请稍后再试"
+
+#----------------------Advanced----------------------
+
+msgid "UPS Name"
+msgstr "UPS名称"
+
+msgid "Enter the UPS name here."
+msgstr "在此处输入UPS名称"
+
+msgid "Please download PowerPanel APP and create an account from the APP."
+msgstr "请下载PowerPanel APP 并从APP创建一组帐号"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid "Input Voltage Sensitivity"
+msgstr "输入电压灵敏度"
+
+msgid "You can select an adequate sensitivity according to the equipment and the power."
+msgstr "您可根据设备和电网情况选择一个合适的敏感度模式"
+
+msgid "Controls the power quality according to xxxx sensitivity."
+msgstr "根据xxxx敏感度模式来控制电能质量"
+
+msgid "Shutdown Type"
+msgstr "关机模式"
+
+msgid "You can specify the manner in which the computer is shutdown."
+msgstr "您可以指定电脑关机的方式"
+
+msgid "Low"
+msgstr "低"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "High"
+msgstr "高"
+
+msgid "Shutdown"
+msgstr "关机"
+
+msgid "Hibernation"
+msgstr "休眠"
+
+msgid "Mobile Solution"
+msgstr "移动解决方案"
+
+msgid "Activate mobile solution to monitor UPS status and get event notification in your mobile phone."
+msgstr "激活移动解决方案以监视UPS状态并在手机中获取事件通知"
+
+msgid "Save"
+msgstr "存储"
+
+msgid "Login"
+msgstr "登陆"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Please input UPS name."
+msgstr "请输入UPS机种名称"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Account (E-mail)"
+msgstr "账号(E-mail)"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "I agree to the xxxx0 | xxxx1."
+msgstr "我同意 xxxx0 | xxxx1"
+
+msgid "Your input is empty. Please try again."
+msgstr "输入不能空白，请重新输入"
+
+msgid "Privacy Policy"
+msgstr "隐私条款"
+
+msgid "PowerPanel Cloud Solution"
+msgstr "PowerPanel Cloud应用"
+
+msgid "Activate to Get Free Trial"
+msgstr "激活以获得免费试用"
+
+msgid "PowerPanel Cloud"
+msgstr ""
+
+msgid "PowerPanel App"
+msgstr ""
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Verified Successfully"
+msgstr "验证成功"
+
+msgid "Applied Successfully"
+msgstr "申请成功"
+
+msgid "Incorrect Account or Password"
+msgstr "账户或密码不正确"
+
+msgid "An Error Occurred"
+msgstr "发生错误"
+
+#----------------------AppTray----------------------
+
+msgid "Terms & Conditions"
+msgstr "条款和协议"
+
+msgid "UPS no longer receiving AC utility power"
+msgstr "UPS无市电输入"
+
+msgid "Your UPS is now supplying battery power to your equipment."
+msgstr "您的UPS现在由电池供电"
+
+msgid "Unable to communicate with UPS"
+msgstr "无法与UPS通信"
+
+msgid "Please make sure the USB or serial cable is connected between the UPS and computer."
+msgstr "请检查 USB 或通讯线在电脑与UPS间的连接是否正常"
+
+msgid "Communication with UPS is restored"
+msgstr "电脑与UPS的连接正常"
+
+msgid "Your UPS is correctly connected to your computer."
+msgstr "UPS已正确连接到计算机"
+
+msgid "PowerPanel Personal Service is not running"
+msgstr "PowerPanel 软件终止运行"
+
+msgid "Your computer will be shutdown immediately!"
+msgstr "你的电脑马上就要关机了！"
+
+msgid "Your computer will enter hibernate immediately!"
+msgstr "您的计算机将立即进入休眠状态！"
+
+msgid "Your computer will be shutdown in xxxx seconds!"
+msgstr "您的计算机将在xxxx分钟内关闭！"
+
+msgid "Your computer will enter hibernate in xxxx seconds!"
+msgstr "您的计算机将在xxxx分钟内进入休眠状态！"
+
+msgid "Utility power restored to UPS"
+msgstr "UPS恢复市电输入"
+
+msgid "Your equipment is now running on AC utility power."
+msgstr "您的电脑现在由市电供电"
+
+msgid "the shutdown process has been aborted."
+msgstr "电脑关机程序已取消"
+
+msgid "Open"
+msgstr "启动"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Summary"
+msgstr "概要"
+
+msgid "Configure"
+msgstr "配置"
+
+msgid "Change Language"
+msgstr "变更语言"
+
+#----------------------ConfigrationMain----------------------
+
+msgid "Configure your UPS"
+msgstr "UPS配置"
+
+#----------------------CurrentStatus----------------------
+
+msgid "You can configure the settings of application_short_name to ensure optimum performance of the UPS."
+msgstr "为确保UPS的最佳性能，你可以在此设定UPS配置"
+
+msgid "AC Utility Power"
+msgstr "市电"
+
+msgid "Battery"
+msgstr "电池"
+
+msgid "Discharging"
+msgstr "正在放电"
+
+msgid "Fully Charged"
+msgstr "电池已充饱"
+
+msgid "Charging"
+msgstr "正在充电"
+
+msgid "Overload"
+msgstr "过载"
+
+msgid "Power Outage"
+msgstr "停电"
+
+msgid "Under Voltage"
+msgstr "电压过低"
+
+msgid "Over Voltage"
+msgstr "电压过高"
+
+msgid "Frequency Failure"
+msgstr "频率异常"
+
+msgid "Voltage Boost"
+msgstr "升压"
+
+msgid "Voltage Buck"
+msgstr "降压"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "volts"
+msgstr "伏特"
+
+msgid "minutes"
+msgstr "分钟"
+
+msgid "watts"
+msgstr "瓦特"
+
+msgid "Current Status"
+msgstr "当前状态"
+
+msgid "Electrical power supplied by"
+msgstr "电力供应来自"
+
+msgid "Voltage supplied"
+msgstr "输出电压"
+
+msgid "Power condition"
+msgstr "电力状况"
+
+msgid "Remaining battery capacity"
+msgstr "剩余电池电量"
+
+msgid "Battery status"
+msgstr "电池状态"
+
+msgid "Remaining battery runtime"
+msgstr "电池剩余供电时间"
+
+msgid "Hardware status"
+msgstr "硬件状态"
+
+msgid "No Output"
+msgstr "无输出"
+
+#----------------------EmailSender----------------------
+
+msgid "UPS load"
+msgstr "UPS负载"
+
+msgid "Event Notification"
+msgstr "事件通知"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "power_event_notify"
+msgstr "电力事件通知"
+
+#----------------------EnergyReporting----------------------
+
+msgid "Energy Reporting"
+msgstr "能源报表"
+
+msgid "Statistic"
+msgstr "统计分析"
+
+msgid "From"
+msgstr "从"
+
+msgid "To"
+msgstr "到"
+
+msgid "Average Energy Consumption"
+msgstr "平均能耗"
+
+msgid "Cumulative Energy Consumption"
+msgstr "累计能耗"
+
+msgid "Cumulative Cost"
+msgstr "累计成本"
+
+#----------------------EnergySettings----------------------
+
+msgid "CO2"
+msgstr "二氧化碳"
+
+msgid "Show energy cost history"
+msgstr "显示能耗成本历史记录"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "Change Country"
+msgstr "更换国家"
+
+msgid "Hide energy cost history"
+msgstr "隐藏能耗成本历史记录"
+
+msgid "Edit record"
+msgstr "编辑记录"
+
+msgid "Delete record"
+msgstr "删除记录"
+
+msgid "Cost value should be within range 0~100000."
+msgstr "成本值应在0~100000之间"
+
+msgid "Apply Success"
+msgstr "申请成功"
+
+msgid "Apply Error"
+msgstr "申请错误"
+
+msgid "Energy Settings"
+msgstr "能源设定"
+
+msgid "Country Selection"
+msgstr "国家选择"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Energy Cost"
+msgstr "能源成本"
+
+msgid "Cost per kWh"
+msgstr "每千瓦时成本"
+
+msgid "CO2 Emissions"
+msgstr "二氧化碳排放量"
+
+msgid "CO2 Emitted per kWh"
+msgstr "每千瓦时二氧化碳排放量"
+
+msgid "Unit of Measurement"
+msgstr "计量单位"
+
+msgid "Kilograms(kg)"
+msgstr "公斤(kg)"
+
+msgid "Pounds(lb)"
+msgstr "磅(lb)"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Apply"
+msgstr "申请"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "Start Date"
+msgstr "开始日期"
+
+msgid "End Date"
+msgstr "结束日期"
+
+msgid "Are you sure to remove this record?"
+msgstr "确定要删除此记录吗？"
+
+msgid "No"
+msgstr "否"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Changing the country will reset the energy settings."
+msgstr "更改国家将重置能源设置"
+
+msgid "Are you sure to continue?"
+msgstr "你确定要继续吗？"
+
+#----------------------MasterPage----------------------
+
+msgid "PowerPanel Personal Service is not ready."
+msgstr "PowerPanel Personal服务未就绪"
+
+msgid "Unable to establish communication with UPS."
+msgstr "无法与UPS建立通信"
+
+msgid "The UPS is working normally."
+msgstr "UPS工作正常"
+
+msgid "min."
+msgstr "分"
+
+msgid "AC Utility"
+msgstr "市电供电"
+
+msgid "Power Source"
+msgstr "电源"
+
+msgid "Battery Capacity"
+msgstr "电池容量"
+
+msgid "Estimated Runtime"
+msgstr "剩余电池预估时间"
+
+msgid "Schedule"
+msgstr "排程"
+
+msgid "Notification"
+msgstr "通知"
+
+msgid "Runtime"
+msgstr "运行时间"
+
+msgid "Voltage"
+msgstr "电压"
+
+msgid "Self-Test"
+msgstr "自检"
+
+msgid "About"
+msgstr "关于"
+
+#----------------------Notification----------------------
+
+msgid "Verifying..."
+msgstr "验证中…"
+
+msgid "Testing..."
+msgstr "测试中…"
+
+msgid "Exchange Success."
+msgstr "更改成功"
+
+msgid "Exchange Failure."
+msgstr "更改失败"
+
+msgid "Test Send Success."
+msgstr "测试发送成功"
+
+msgid "Test Send Failure."
+msgstr "测试发送失败"
+
+msgid "SMTP Address Invalid"
+msgstr "SMTP地址无效"
+
+msgid "Email Format error"
+msgstr "电子邮件格式错误"
+
+msgid "Account cannot be empty, when auth active."
+msgstr "认证激活时，帐户不能为空"
+
+msgid "Verify Success."
+msgstr "验证成功"
+
+msgid "Verify Failure."
+msgstr "验证失败"
+
+msgid "Enter the authorization code here."
+msgstr "在此处输入验证代码"
+
+msgid "Software Sounds"
+msgstr "软件声音"
+
+msgid "application_short_name generates audible sounds to notify you of power events."
+msgstr "application_short_name会使您的电脑发出声音，通知您电力方面的问题"
+
+msgid "Enable application_short_name notification sounds"
+msgstr "启用声音通知功能"
+
+msgid "UPS Alarms"
+msgstr "UPS警报"
+
+msgid "The UPS generates audible alarms during power events."
+msgstr "电力异常时UPS发出声音告警"
+
+msgid "Enable alarms at all times"
+msgstr "始终启用声音警报"
+
+msgid "Disable alarms at all times"
+msgstr "始终禁用声音警报"
+
+msgid "E-mail"
+msgstr "电子邮件"
+
+msgid "Activate"
+msgstr "激活"
+
+msgid "Service Provider"
+msgstr "服务提供商"
+
+msgid "other"
+msgstr "其它"
+
+msgid "Account"
+msgstr "帐号"
+
+msgid "Request"
+msgstr "请求"
+
+msgid "Change"
+msgstr "变更语言"
+
+msgid "SMTP server address"
+msgstr "SMTP服务器地址"
+
+msgid "Secure connection"
+msgstr "安全连接"
+
+msgid "Service port"
+msgstr "服务端口(port)"
+
+msgid "Sender name"
+msgstr "发件人名称"
+
+msgid "Sender E-mail address"
+msgstr "发件人Email"
+
+msgid "Authentication"
+msgstr "认证"
+
+msgid "Receiver E-mail address"
+msgstr "收件人Email"
+
+msgid "Test"
+msgstr "测试"
+
+#----------------------Runtime----------------------
+
+msgid "Verify"
+msgstr "验证"
+
+msgid "Runtime Configuration"
+msgstr "可运行时间设置"
+
+msgid "You can change the length of time that application_short_name allows your UPS to run on battery power."
+msgstr "您可以更改UPS在电池模式下供电的运行时间"
+
+msgid "Keep Computer Running"
+msgstr "保持电脑持续运行"
+
+msgid "Shutdown this computer when remaining battery runtime is only xxxx minutes."
+msgstr "当剩余电池运行时间仅为xxxx分钟时关闭此计算机"
+
+msgid "Use this Option to extend operating time while on battery power."
+msgstr "使用此选项可延长电池供电时的工作时间"
+
+msgid "Preserve Battery Power"
+msgstr "保持电池电量运行"
+
+msgid "Shutdown this computer after UPS runs on battery power for xxxx minutes."
+msgstr "UPS使用电池供电时运行xxxx分钟后关闭此计算机"
+
+#----------------------Schedule----------------------
+
+msgid "Use this option to save battery power for successive power outages."
+msgstr "使用此选项可以为您保留大部分电池电量以供后续发生断电时使用"
+
+msgid "Your computer will be shut down at xxxx0 on xxxx1 xxxx2."
+msgstr "您的计算机将在xxx1 xxx2 xxx0关闭"
+
+msgid "Your computer will be shut down at xxxx0 on xxxx1 xxxx2 and restart at xxxx3 on xxxx4 xxxx5."
+msgstr "您的计算机将在xxxx1和xxxx2 xxxx0关闭，并在xxxx4 xxxx5 xxxx3重新启动。"
+
+msgid "Monday"
+msgstr "星期一"
+
+msgid "Tuesday"
+msgstr "星期二"
+
+msgid "Wednesday"
+msgstr "星期三"
+
+msgid "Thursday"
+msgstr "星期四"
+
+msgid "Friday"
+msgstr "星期五"
+
+msgid "Saturday"
+msgstr "星期六"
+
+msgid "Sunday"
+msgstr "星期日"
+
+msgid "You can decide when time your computer and equipment will turn ON and OFF."
+msgstr "您可以设定电脑与设备开启与关闭的时间"
+
+msgid "Days"
+msgstr "星期"
+
+msgid "ON"
+msgstr "打开"
+
+msgid "Act."
+msgstr "启用"
+
+msgid "OFF"
+msgstr "关闭"
+
+msgid "N.R"
+msgstr "不再开启"
+
+#----------------------SelfTest----------------------
+
+msgid "Self-test helps ensure your UPS is working correctly."
+msgstr "自检测试有助于确保UPS正常工作"
+
+msgid "Date of last self-test"
+msgstr "上次自检日期"
+
+msgid "Never"
+msgstr "从未"
+
+msgid "Result of last self-test"
+msgstr "上次自检结果"
+
+msgid "Click button to initiate a self-test to ensure UPS working correctly."
+msgstr "单击下面的按钮启动自检以确保UPS正常工作"
+
+msgid "Self-test is in progress, please wait..."
+msgstr "正在进行自检，请稍候。。。"
+
+msgid "Passed"
+msgstr "通过"
+
+msgid "Not passed"
+msgstr "未通过"
+
+msgid "None"
+msgstr "无"
+
+msgid "Initiate self-test"
+msgstr "启动自检"
+
+#----------------------Summary----------------------
+
+msgid "time"
+msgstr "次"
+
+msgid "times"
+msgstr "次"
+
+msgid "hours"
+msgstr "小时"
+
+msgid "seconds"
+msgstr "秒"
+
+msgid "AC utility power lost, use battery power at xxxx."
+msgstr "市电中断，请在xxxx时使用电池供电"
+
+msgid "AC utility power is too low, use battery power at xxxx."
+msgstr "市电电压过低，在xxxx时使用电池供电"
+
+msgid "AC utility power is too high, use battery power at xxxx."
+msgstr "市电电压过高，在xxxx时使用电池供电"
+
+msgid "AC utility frequency failure, use battery power at xxxx."
+msgstr "市电频率异常，在xxxx时使用电池供电"
+
+msgid "Power Problem Summary"
+msgstr "电力问题总结"
+
+msgid "Last Power Event"
+msgstr "上次电力事件"
+
+msgid "Power Condition Summary"
+msgstr "电力概况"
+
+msgid "Display period"
+msgstr "显示周期"
+
+msgid "Last"
+msgstr "最近"
+
+msgid "week"
+msgstr "1周"
+
+msgid "weeks"
+msgstr "周"
+
+msgid "Power problem"
+msgstr "电力问题"
+
+msgid "Number of times"
+msgstr "次数"
+
+msgid "Amount of time"
+msgstr "持续时间"
+
+msgid "Power outage"
+msgstr "停电"
+
+msgid "Invert total"
+msgstr "电池供电总时数"
+
+msgid "Voltage regulation"
+msgstr "稳压"
+
+msgid "Boost"
+msgstr "升压"
+
+msgid "Buck"
+msgstr "降压"
+
+#----------------------Voltage----------------------
+
+msgid "Regular total"
+msgstr "稳压总时间"
+
+msgid "The UPS will intervene when the AC utility voltage falls below xxxx volts or rises above xxxx volts."
+msgstr "当市电电压低于xxxx伏或高于xxxx伏时，UPS将由电池供电"
+
+msgid "The current voltage is xxxx volts."
+msgstr "当前电压为xxxx伏。"
+
+msgid "You can change the point of transfer in the below section."
+msgstr "您可以在下面的设置中修改电压切换范围"
+
+msgid "UPS will intervene"
+msgstr "UPS将会介入"
+
+msgid "When AC utility voltage goes above xxxx volts."
+msgstr "当市电电压高于xxxx伏时"
+
+#----------------------WebAppController----------------------
+
+msgid "When AC utility voltage goes below xxxx volts."
+msgstr "当市电电压低于xxxx伏时"
+
+msgid "Login failed. Please wait for UPS connection and try again."
+msgstr "登录失败，请等待UPS连接，然后重试"
+
+msgid "Your account or password is incorrect. Please try again."
+msgstr "您的帐户或密码不正确，请再试一次"
+
+msgid "An error occurred. Please try again."
+msgstr "发生错误，请再试一次"
+
+msgid "Update Success."
+msgstr "更新成功"
+
+msgid "Update Failed."
+msgstr "更新失败"
+
+msgid "Duplicate device name."
+msgstr "设备名称重复"
+
+#----------------------EventLogs----------------------
+
+msgid "Event Logs"
+msgstr "事件日志"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Critical"
+msgstr "严重"
+
+msgid "Offline"
+msgstr "离线"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Events"
+msgstr "事件记录"
+
+msgid "No result found"
+msgstr "未找到结果"
+
+msgid "eventId_0"
+msgstr "市电异常，启动备用模式"
+
+msgid "eventId_1"
+msgstr "市电恢复，停止备用模式"
+
+msgid "eventId_2"
+msgstr "市电电压低，UPS启动升压"
+
+msgid "eventId_3"
+msgstr "市电电压高，UPS启动降压"
+
+msgid "eventId_4"
+msgstr "输出电压正常，升压将停止"
+
+msgid "eventId_5"
+msgstr "输出电压正常，降压将停止"
+
+msgid "eventId_6"
+msgstr "市电电压高，将由电池供电"
+
+msgid "eventId_7"
+msgstr "市电已恢复，电池供电将停止"
+
+msgid "eventId_8"
+msgstr "市电电压低，将由电池供电"
+
+msgid "eventId_9"
+msgstr "市电已恢复，电池供电将停止"
+
+msgid "eventId_16"
+msgstr "UPS已关机"
+
+msgid "eventId_17"
+msgstr "UPS已开机"
+
+msgid "eventId_18"
+msgstr "UPS进入睡眠模式，不提供输出"
+
+msgid "eventId_19"
+msgstr "UPS退出睡眠模式，正在提供输出"
+
+msgid "eventId_20"
+msgstr "UPS进入旁路模式"
+
+msgid "eventId_21"
+msgstr "UPS退出旁路模式"
+
+msgid "eventId_22"
+msgstr "UPS旁路过载"
+
+msgid "eventId_23"
+msgstr "UPS旁路过载已清除"
+
+msgid "eventId_24"
+msgstr "非主要电源插座已启动"
+
+msgid "eventId_25"
+msgstr "非主要电源插座已关闭"
+
+msgid "eventId_26"
+msgstr "开启ECO模式"
+
+msgid "eventId_27"
+msgstr "关闭ECO模式"
+
+msgid "eventId_28"
+msgstr "输出已无过载"
+
+msgid "eventId_29"
+msgstr "输出电力很快就会停止"
+
+msgid "eventId_32"
+msgstr "UPS检测到过载情况"
+
+msgid "eventId_33"
+msgstr "UPS已从过载状态返回"
+
+msgid "eventId_34"
+msgstr "UPS内部温度过高"
+
+msgid "eventId_35"
+msgstr "UPS过温状态已清除"
+
+msgid "eventId_36"
+msgstr "UPS硬件故障"
+
+msgid "eventId_37"
+msgstr "UPS进入ECO模式"
+
+msgid "eventId_38"
+msgstr "UPS退出ECO模式"
+
+msgid "eventId_39"
+msgstr "检测到UPS接线故障"
+
+msgid "eventId_40"
+msgstr "UPS接线故障已排除"
+
+msgid "eventId_41"
+msgstr "UPS固件开始更新"
+
+msgid "eventId_42"
+msgstr "UPS固件更新结束"
+
+msgid "eventId_43"
+msgstr "高功耗"
+
+msgid "eventId_44"
+msgstr "高功耗恢复"
+
+msgid "eventId_45"
+msgstr "低功耗"
+
+msgid "eventId_46"
+msgstr "低功耗恢复"
+
+msgid "eventId_47"
+msgstr "硬件状态"
+
+msgid "eventId_48"
+msgstr "UPS电池容量低于阈值，即将耗尽"
+
+msgid "eventId_49"
+msgstr "UPS电池电量恢复正常"
+
+msgid "eventId_50"
+msgstr "电池充电器异常"
+
+msgid "eventId_51"
+msgstr "检测不到电池"
+
+msgid "eventId_52"
+msgstr "电池可能无法正常工作"
+
+msgid "eventId_53"
+msgstr "电池已更换"
+
+msgid "eventId_54"
+msgstr "电池正在充电"
+
+msgid "eventId_55"
+msgstr "电池停止充电"
+
+msgid "eventId_56"
+msgstr "电池正在放电"
+
+msgid "eventId_57"
+msgstr "电池停止放电"
+
+msgid "eventId_58"
+msgstr "可运行时间不足"
+
+msgid "eventId_59"
+msgstr "电池充满电"
+
+msgid "eventId_60"
+msgstr "剩余运行时间将耗尽"
+
+msgid "eventId_61"
+msgstr "电池已安装"
+
+msgid "eventId_62"
+msgstr "电池容量正常"
+
+msgid "eventId_63"
+msgstr "可运行时间足够"
+
+msgid "eventId_64"
+msgstr "UPS已开始电池测试"
+
+msgid "eventId_65"
+msgstr "UPS电池测试通过"
+
+msgid "eventId_66"
+msgstr "UPS电池测试不通过"
+
+msgid "eventId_67"
+msgstr "UPS已启动运行时间校准过程"
+
+msgid "eventId_68"
+msgstr "UPS运行时间校准已完成"
+
+msgid "eventId_69"
+msgstr "UPS运行时间校准已中止"
+
+msgid "eventId_70"
+msgstr "电池测试未完成"
+
+msgid "eventId_71"
+msgstr "校准未完成"
+
+msgid "eventId_80"
+msgstr "与UPS的通讯中断"
+
+msgid "eventId_81"
+msgstr "已与UPS建立通讯"
+
+msgid "eventId_82"
+msgstr "设备离线"
+
+msgid "eventId_83"
+msgstr "设备上线"
+
+msgid "eventId_84"
+msgstr "无法建立通讯"
+
+msgid "eventId_85"
+msgstr "本地通讯丢失"
+
+msgid "eventId_86"
+msgstr "因电力事件失去本地通讯"
+
+msgid "eventId_87"
+msgstr "无法与电源设备建立网络通讯"
+
+msgid "eventId_88"
+msgstr "因电力事件失去与UPS的网络通讯"
+
+msgid "eventId_89"
+msgstr "网络通讯丢失"
+
+msgid "eventId_90"
+msgstr "连线建立"
+
+msgid "eventId_91"
+msgstr "本地通讯已恢复"
+
+msgid "eventId_92"
+msgstr "与UPS建立网络通讯"
+
+msgid "eventId_93"
+msgstr "网络通讯恢复"
+
+msgid "eventId_94"
+msgstr "与电源设备建立网络通讯"
+
+msgid "eventId_96"
+msgstr "插座高功耗"
+
+msgid "eventId_97"
+msgstr "插座高功耗恢复"
+
+msgid "eventId_98"
+msgstr "插座低功耗"
+
+msgid "eventId_99"
+msgstr "插座低功耗恢复"
+
+msgid "eventId_112"
+msgstr "剩余运行时间充足"
+
+msgid "eventId_113"
+msgstr "电池容量严重不足"
+
+msgid "eventId_114"
+msgstr "建议更换电池"
+
+msgid "eventId_128"
+msgstr "系统过热"
+
+msgid "eventId_129"
+msgstr "输出短路"
+
+msgid "eventId_130"
+msgstr "输出短路已排除"
+
+msgid "eventId_131"
+msgstr "现场接线故障"
+
+msgid "eventId_132"
+msgstr "UPS故障已排除"
+
+msgid "eventId_133"
+msgstr "系统过热恢复"
+
+msgid "eventId_134"
+msgstr "恢复硬件状态"
+
+msgid "eventId_144"
+msgstr "排程已启动，系统将关闭"
+
+msgid "eventId_145"
+msgstr "启动关机"
+
+msgid "eventId_146"
+msgstr "正在监控UPS"
+
+msgid "eventId_147"
+msgstr "停止UPS监控"
+
+msgid "eventId_148"
+msgstr "关机时间不足"
+
+msgid "eventId_149"
+msgstr "用户关闭系统"
+
+msgid "eventId_150"
+msgstr "用户启动系统"
+
+msgid "eventId_151"
+msgstr "用户远程操作"
+
+msgid "eventId_152"
+msgstr "取消关机"
+
+msgid "eventId_153"
+msgstr "关机时间充足"
+
+#----------------------P66EventCode----------------------
+
+msgid "eventCode_01"
+msgstr "电池过充"
+
+msgid "eventCode_02"
+msgstr "充电器异常"
+
+msgid "eventCode_04"
+msgstr "电池电压低"
+
+msgid "eventCode_05"
+msgstr "电池(测试）异常"
+
+msgid "eventCode_06"
+msgstr "电池未连接"
+
+msgid "eventCode_07"
+msgstr "电池更换"
+
+msgid "eventCode_08"
+msgstr "冷启动电池电压高"
+
+msgid "eventCode_12"
+msgstr "过载设定值"
+
+msgid "eventCode_20"
+msgstr "冷启动输出短路"
+
+msgid "eventCode_21"
+msgstr "输出短路"
+
+msgid "eventCode_22"
+msgstr "输出过载"
+
+msgid "eventCode_23"
+msgstr "温度过高（AVR变压器）"
+
+msgid "eventCode_25"
+msgstr "紧急断电"
+
+msgid "eventCode_26"
+msgstr "输出电流保护"
+
+msgid "eventCode_27"
+msgstr "远程关机"
+
+msgid "eventCode_29"
+msgstr "AVR变压器异常"
+
+msgid "eventCode_2A"
+msgstr "输出电压AD值异常"
+
+msgid "eventCode_30"
+msgstr "输出异常"
+
+msgid "eventCode_31"
+msgstr "输出电压高"
+
+msgid "eventCode_32"
+msgstr "输出电压低"
+
+msgid "eventCode_33"
+msgstr "温度过高（散热片）"
+
+msgid "eventCode_34"
+msgstr "风扇异常"
+
+msgid "eventCode_35"
+msgstr "风扇异常（后风扇）"
+
+msgid "eventCode_36"
+msgstr "风扇异常（中风扇）"
+
+msgid "eventCode_37"
+msgstr "风扇异常（前风扇）"
+
+msgid "eventCode_40"
+msgstr "BUS电压异常"
+
+msgid "eventCode_41"
+msgstr "正BUS电压高"
+
+msgid "eventCode_42"
+msgstr "正BUS电压低"
+
+msgid "eventCode_43"
+msgstr "负BUS电压高"
+
+msgid "eventCode_44"
+msgstr "负BUS电压低"
+
+msgid "eventCode_50"
+msgstr "输入异常"
+
+msgid "eventCode_51"
+msgstr "输入电压/频率超出范围"
+
+msgid "eventCode_52"
+msgstr "输入电压超出范围"
+
+msgid "eventCode_53"
+msgstr "输入频率超出范围"
+
+msgid "eventCode_54"
+msgstr "输入电压异常"
+
+msgid "eventCode_55"
+msgstr "电源接线异常"
+
+msgid "eventCode_56"
+msgstr "输入电流保护"
+
+msgid "eventCode_57"
+msgstr "禁止手动旁路"
+
+msgid "Fault"
+msgstr "异常"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Click button to clear all event logs."
+msgstr "单击按钮清除所有事件日志"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Notice"
+msgstr "注意"
+
+msgid "Input page number is out of range."
+msgstr "输入的页码超出范围"
+
+msgid "Are you sure to delete all event logs?"
+msgstr "您确定要删除所有事件日志吗？"
+
+
+
+
+

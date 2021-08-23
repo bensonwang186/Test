@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PowerPanel Personal - Schedule</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../resources/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../resources/css/style.css">
+    <link rel="stylesheet" href="../resources/css/animate.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+</head>
+
+<body>
+    <header>
+        <div class="headerBox">
+            <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.htm">POWERPANEL</a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="interface.htm">Interface</a></li>
+                            <li><a href="features.htm">Features</a></li>
+                            <li><a href="conditions.htm">Conditions</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="page-header">
+            <div class="container">
+                <h1>Schedule</h1>
+            </div>
+        </div>
+        <ul class="nav_linkBox">
+            <li><a href="schedule.htm" class="active">Schedule</a></li>
+            <li><a href="notification.htm">Notification</a></li>
+            <li><a href="runtime.htm">Runtime</a></li>
+            <li><a href="voltage.htm">Voltage</a></li>
+            <li><a href="selftest.htm">Self-Test</a></li>
+            <li><a href="advanced.htm">Advanced</a></li>
+        </ul>
+        <div class="container containerBox">
+            <div class="col-md-12">
+                <ol class="breadcrumb">
+                    <li><a href="index.htm">Help</a></li>
+                    <li><a href="features.htm">Features</a></li>
+                    <li><a href="configuration.htm">Configuration</a></li>
+                    <li class="active">Schedule</li>
+                </ol>
+                <p>PowerPanel<sup>&reg;</sup> Personal can be configured to automatically start up and shut down a connected computer and equipment. The setting is for a weekly schedule. A shut down must be scheduled prior to a restart.</p>
+                <p>
+                    <ul>
+                        <li>Column "<b>ON</b>" shows the UPS turn on time.</li>
+                        <li>Column "<b>OFF</b>" shows the UPS turn off time.</li>
+                        <li>You can choose the UPS turn on time in the "<b>ON</b>" column.</li>
+                        <li>You can choose the UPS turn off time in the "<b>OFF</b>" column.</li>
+                        <li>After selecting the time, you must check on the <b>(Act.)</b> option to activate the setting.</li>
+                        <li>Once you have selected the <b>(N.R)</b> option, the UPS will not auto restart even if you have set a restart time.</li>
+                    </ul>
+                    Note: <b>(N.R)</b> stands for Never Restart.
+                    <br> Note: You have to manually restart the UPS if the <b>(N.R)</b> button is selected.
+                    <br> Note: When you select a start up time you must also select a shut down time.
+                    <br>
+                </p>
+                <p>
+                    The space under the Schedule column is a description area that will show the schedule settings.
+                </p>
+                <p>Note : This is not available for all UPS models.</p>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>© 2018-2020 CyberPower Systems, Inc. All rights reserved.</p>
+    </footer>
+    <!-- jQuery -->
+    <script src="../resources/js/jquery-1.11.1.min.js"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="../resources/js/bootstrap.min.js"></script>
+    <!-- sticky -->
+    <script src="../resources/js/jquery.sticky.js"></script>
+    <!-- common -->
+    <script src="../resources/js/common.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,242 @@
+@import "breakpoint";
+
+
+
+/*@import "reset";*/
+
+body {
+    font-family: 'Roboto', "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", sans-serif;
+    font-size: 13px;
+    line-height: 1.6em;
+    background-color: #f0f0f0;
+    padding-top: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #333333;
+    outline: medium none;
+    &:visited {
+        color: #333;
+    }
+    &:hover {
+        text-decoration: none;
+        color: #db232b;
+    }
+    &.title {
+        color: #666!important;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+    &.link {
+        text-decoration: underline!important;
+        &:hover {
+            text-decoration: underline!important;
+            color: #db232b;
+        }
+    }
+}
+
+.h4 {
+    color: #000!important;
+    font-size: 15px;
+    margin-top: 10px;
+    font-style: normal;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
+    max-width: 650px;
+}
+
+ol,
+ul {
+    padding-left: 20px;
+    li {
+        a {}
+    }
+}
+
+table {
+    width: 100%!important;
+    border: 1px solid #ddd;
+    margin-top: 5px;
+    td {
+        border: 1px solid #ddd;
+        padding: 10px!important;
+    }
+}
+
+span {
+    display: block;
+}
+
+p {
+    /*padding: 0px;
+    margin: 0px;*/
+}
+
+.strong{
+    color: #666!important;
+    font-weight: bolder;
+}
+header {
+    background-color: #2b2b2b;
+    overflow: hidden;
+    .headerBox {
+        background-color: #2b2b2b;
+        .barBox {
+            background-color: #2b2b2b;
+            padding: 0 15px;
+        }
+    }
+    .navbar-brand {
+        color: #ffffff!important;
+        background-image: url('images/logo.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        padding: 15px 0px;
+        margin: 0px!important;
+        width: 220px;
+        line-height: 9999;
+        overflow: hidden;
+    }
+    .nav {
+        a {
+            color: #ffffff!important;
+            background-color: #2b2b2b!important;
+            font-size: 15px;
+            &:hover {
+                text-decoration: none;
+                background-color: #db232b!important;
+                color: #ffffff;
+            }
+        }
+    }
+    .navbar-right {
+        margin-right: 0px!important;
+    }
+}
+
+main {
+    margin-bottom: 70px;
+    color: #666;
+    .breadcrumb {
+        padding: 0px 0px 8px 0px;
+        margin-bottom: 20px;
+        list-style: none;
+        background-color: #ffffff;
+        border-radius: 4px;
+        a {
+            color: #333333!important;
+            &:hover {
+                text-decoration: none;
+                color: #db232b!important;
+            }
+        }
+    }
+    .page-header {
+        background-color: #3b3b3b;
+        color: #ffffff;
+        margin: 0;
+        height: 110px;
+        h1 {
+            text-align: center;
+            margin-top: 40px;
+            font-weight: 400;
+        }
+    }
+    .nav_linkBox {
+        text-align: center;
+        background-color: #ffffff;
+        line-height: 40px;
+        /*margin: 0 0 30px 0;*/
+        padding: 0px;
+        font-size: 15px;
+        white-space: nowrap;
+        overflow-x: auto;
+        overflow-y: visible;
+        z-index: 999!important;
+        border-bottom: 1px solid #eeeeee;
+        li {
+            display: inline-block;
+            padding: 0px 10px;
+            a {
+                &.active {
+                    color: #db232b;
+                }
+            }
+        }
+    }
+    .containerBox {
+        background-color: #ffffff;
+        display: block;
+        padding: 20px;
+        margin-top: 30px;
+        /* height: 100vh;*/
+        min-height: 600px;
+        .col-md-12 {
+            a {
+                color: #db232b;
+            }
+            table {
+                td {
+                    padding: 5px;
+                }
+            }
+        }
+    }
+}
+
+footer {
+    background-color: #2b2b2b;
+    color: #ffffff;
+    text-align: center;
+    line-height: 40px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    p {
+        padding: 0px;
+        margin: 0px;
+    }
+}
+
+@include breakpoint(min-width 1200px) {}
+
+@include breakpoint(min-width 768px) {}
+
+@include breakpoint(max-width 992px) {}
+
+@include breakpoint(max-width 768px) {
+    header {
+        background-color: #2b2b2b;
+        overflow: hidden;
+        .headerBox {
+            background-color: #2b2b2b;
+            .barBox {
+                background-color: #2b2b2b;
+                padding: 0 15px;
+            }
+        }
+        .navbar-brand {
+            color: #ffffff;
+            text-align: center;
+            margin-left: 10px!important;
+        }
+        .nav {
+            a {
+                color: #ffffff;
+                background-color: #2b2b2b!important;
+                &:hover {
+                    text-decoration: none;
+                    background-color: #db232b!important;
+                    color: #ffffff;
+                }
+            }
+        }
+    }
+}
+
+@include breakpoint(max-width 320px) {}

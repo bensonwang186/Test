@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PowerPanel Personal - Runtime</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../resources/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../resources/css/style.css">
+    <link rel="stylesheet" href="../resources/css/animate.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+</head>
+
+<body>
+    <header>
+        <div class="headerBox">
+            <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.htm">POWERPANEL</a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="interface.htm">Interface</a></li>
+                            <li><a href="features.htm">Features</a></li>
+                            <li><a href="conditions.htm">Conditions</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="page-header">
+            <div class="container">
+                <h1>Runtime</h1>
+            </div>
+        </div>
+        <ul class="nav_linkBox">
+            <li><a href="schedule.htm">Schedule</a></li>
+            <li><a href="notification.htm">Notification</a></li>
+            <li><a href="runtime.htm" class="active">Runtime</a></li>
+            <li><a href="voltage.htm">Voltage</a></li>
+            <li><a href="selftest.htm">Self-Test</a></li>
+            <li><a href="advanced.htm">Advanced</a></li>
+        </ul>
+        <div class="container containerBox">
+            <div class="col-md-12">
+                <ol class="breadcrumb">
+                    <li><a href="index.htm">Help</a></li>
+                    <li><a href="features.htm">Features</a></li>
+                    <li><a href="configuration.htm">Configuration</a></li>
+                    <li class="active">Runtime</li>
+                </ol>
+                <p>You can choose one of the following battery runtime settings to fit your needs:</p>
+                <ul>
+                    <li><span class="style5"><a name="keep" class="title">Keep Computer Running*</a></span>
+                        <p>This option is designed to keep your system running as long as possible on battery power.</p>
+                    </li>
+                    <li><span class="style5"><a name="consume" class="title">Consume Battery Capacity*</a></span>
+                        <p> This option is designed to identify low battery capacity while on battery power.</p>
+                    </li>
+                    <li><span class="style5"><a name="preserve" class="title">Preserve Battery Power</a></span>
+                        <p> This option is designed to keep your system running on battery for the length of time you specify.</p>
+                    </li>
+                </ul>
+                <p>During a power failure, the system will shutdown or go into hibernation mode after a warning message signals your specified runtime is up. </p>
+                <p>Shutdown or hibernation will be invoked under this option if the UPS runtime falls below 2 minutes. </p>
+                <p class="h4"><strong>Hibernation Enabling</strong></p>
+                <p>If the hibernation is supported and is not enabled on your computer, the <strong>Enable Hibernation on your computer</strong> shortcut will be displayed for users to determine whether to enable hibernation. Click the shortcut and then the <strong>Confirm  Hibernation Enabling</strong> message will ask whether to enable the hibernation or not. Click <strong>Yes</strong> button to enable the hibernation, or click <strong>No</strong> button not to enable the hibernation. It is recommended that the hibernation should be enabled to avoid the data loss.</p>
+                <p>Note: If hibernation is disabled or not supported, the computer will be initiated a shutdown.</p>
+                <p>See also <a href="low_runtime.htm" class="link">Low Runtime Remaining</a> and <a href="overload.htm" class="link">UPS Overloaded</a> for more information.</p>
+                <p>*Note : This is not available for all UPS models.</p>
+                <p></p>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>© 2018-2020 CyberPower Systems, Inc. All rights reserved.</p>
+    </footer>
+    <!-- jQuery -->
+    <script src="../resources/js/jquery-1.11.1.min.js"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="../resources/js/bootstrap.min.js"></script>
+    <!-- sticky -->
+    <script src="../resources/js/jquery.sticky.js"></script>
+    <!-- common -->
+    <script src="../resources/js/common.js"></script>
+</body>
+
+</html>

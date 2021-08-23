@@ -1,0 +1,7 @@
+# {0} is an application name
+PrepareInstaller={0} está preparando el Asistente de instalación que le guiará a través del resto del proceso de configuración.
+WizardCaption=Asistente para la instalación de PowerPanel Personal
+FinishScreenCloudStep1=PowerPanel Cloud Pasos de Conexión
+FinishScreenCloudStep2=1. Ir a Avanzado
+FinishScreenCloudStep3=2. Conectar SAI a PowerPanel Cloud
+InstallingScreenCloudDescription=Puede monitorear la energía en cualquier momento y en cualquier lugar

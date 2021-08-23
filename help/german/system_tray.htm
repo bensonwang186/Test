@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PowerPanel Personal - Systemzeilen-Symbole</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../resources/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../resources/css/style.css">
+    <link rel="stylesheet" href="../resources/css/animate.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+</head>
+
+<body>
+    <header>
+        <div class="headerBox">
+            <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.htm">POWERPANEL</a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-ex1-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="interface.htm">Schnittstelle</a></li>
+                            <li><a href="features.htm">Funktionen</a></li>
+                            <li><a href="conditions.htm">Bedingungen</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.navbar-collapse -->
+                </div>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <div class="page-header">
+            <div class="container">
+                <h1>Systemzeilen-Symbole</h1>
+            </div>
+        </div>
+        <ul class="nav_linkBox">
+            <li><a href="main.htm">Hauptbildschirm</a></li>
+            <li><a href="system_tray.htm" class="active">Systemzeilen-Symbole</a></li>
+        </ul>
+        <div class="container containerBox">
+            <div class="col-md-12">
+                <ol class="breadcrumb">
+                    <li><a href="index.htm">Übersicht</a></li>
+                    <li><a href="interface.htm">Schnittstelle</a></li>
+                    <li class="active">Systemzeilen-Symbole</li>
+                </ol>
+                <p>Das Symbol in der Systemzeile zeigt den Status der USV und verfügt über eine Schnellstartfunktion der Benutzeroberfläche.
+                <br>Fahren Sie mit den Mauszeiger über das Symbol, wird der aktuelle Batteriestatus angezeigt.</p>
+                <ul>
+                    <li>
+                        <p>Das Systemzeilen-Symbol zeigt Ihnen den Status der USV:
+                            <br>
+                        </p>
+                        <table width="90%" height="85" border="1" align="center" cellpadding="1" cellspacing="0" bordercolordark="#FFFFFF" bordercolorlight="#CCCCCC">
+                            <tr bgcolor="#FFFFFF">
+                                <td width="70px">
+                                    <div align="center"><img src="img/tray_normal.gif"></div>
+                                </td>
+                                <td class="style4">Die USV arbeitet normal.</td>
+                            </tr>
+                            <tr bgcolor="#FFFFFF">
+                                <td>
+                                    <div align="center"><img src="img/tray_battery.gif"></div>
+                                </td>
+                                <td class="style4">Die USV arbeitet im Batterie-Modus.</td>
+                            </tr>
+                            <tr bgcolor="#FFFFFF">
+                                <td>
+                                    <div align="center"><img src="img/tray_warning.gif"></div>
+                                </td>
+                                <td class="style4">Ihr Rechner kann keine Kommunikation zur USV aufbauen.</td>
+                            </tr>
+                        </table>
+                        <br> 
+                        <p>Wenn Sie den Mauszeiger über das Symbol fahren, erscheint eine Quick-Info. Diese Informationen zeigen, ob Ihre USV aufgeladen wird, im Batterie-Modus arbeitet, korrekt kommuniziert oder voll geladen ist.</p>
+                        
+                        Folgende Informationen stehen zur Verfügung :
+                        <ul>
+                            <li><a class="strong">PowerPanel Personal</a>
+                                <p>Die USV arbeitet normal.</p>
+                            </li>
+                            <li><a class="strong">PowerPanel Personal Service arbeitet nicht</a>
+                                <p>Der Hintergrunddienst von PowerPanel arbeitet nicht. </p>
+                            </li>
+                            <li><a class="strong">Rechner kann nicht mit USV kommunizieren</a>
+                                <p>PowerPanel kann keine Kommunikation zur USV aufbauen, bitte prüfen Sie das Serielle- oder USB-Kabel. </p>
+                            </li>
+                            <li><a class="strong">USV lädt - PowerPanel Personal</a>
+                                <p>USV wird geladen, dabei befindet sich die Batterie nicht voll im Online-Modus. </p>
+                            </li>
+                            <li><a class="strong">USV arbeitet im Batterie-Modus - Laufzeit weniger als x Minuten</a>
+                                <p>Die USV reagiert auf ein Störung und versorgt das System über die Batteriespannung. Die Restlaufzeit wird angezeigt. </p>
+                            </li>
+                        </ul>
+                        <p>
+                    </li>
+                    <li>
+                        Wollen Sie die Benutzeroberfläche aufrufen, klicken Sie zweimal auf das Symbol oder klicken Sie rechts und wählen Sie Anwendung öffnen. 
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <p>© 2018-2020 CyberPower Systems, Inc. Alle Rechte vorbehalten.</p>
+    </footer>
+    <!-- jQuery -->
+    <script src="../resources/js/jquery-1.11.1.min.js"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="../resources/js/bootstrap.min.js"></script>
+    <!-- sticky -->
+    <script src="../resources/js/jquery.sticky.js"></script>
+    <!-- common -->
+    <script src="../resources/js/common.js"></script>
+</body>
+
+</html>

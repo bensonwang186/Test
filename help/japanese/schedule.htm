@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   PowerPanel Personal - Schedule
+  </title>
+  <!-- Bootstrap CSS -->
+  <link href="../resources/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="../resources/css/style.css" rel="stylesheet"/>
+  <link href="../resources/css/animate.css" rel="stylesheet"/>
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+ </head>
+ <body class="">
+  <header>
+   <div class="headerBox">
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button class="navbar-toggle" data-target=".navbar-ex1-collapse" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="index.htm">
+        POWERPANEL
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+       <ul class="nav navbar-nav navbar-right">
+        <li>
+         <a href="interface.htm" name="navi_1">
+          インターフェース
+         </a>
+        </li>
+        <li>
+         <a href="features.htm" name="navi_2">
+          機能
+         </a>
+        </li>
+        <li>
+         <a href="conditions.htm" name="navi_3">
+          状態
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+    </nav>
+   </div>
+  </header>
+  <main>
+   <div class="page-header">
+    <div class="container">
+     <h1 name="navi_11">
+      スケジュール
+     </h1>
+    </div>
+   </div>
+   <ul class="nav_linkBox">
+    <li>
+     <a class="active" href="schedule.htm" name="navi_1">
+      インターフェース
+     </a>
+    </li>
+    <li>
+     <a href="notification.htm" name="navi_14">
+      注意点
+     </a>
+    </li>
+    <li>
+     <a href="runtime.htm" name="navi_15">
+      ランタイム
+     </a>
+    </li>
+    <li>
+     <a href="voltage.htm" name="navi_16">
+      電圧
+     </a>
+    </li>
+    <li>
+     <a href="selftest.htm" name="navi_17">
+      セルフテスト
+     </a>
+    </li>
+    <li>
+     <a href="advanced.htm" name="navi_18">
+      アドバンスド
+     </a>
+    </li>
+   </ul>
+   <div class="container containerBox">
+    <div class="col-md-12">
+     <ol class="breadcrumb">
+      <li>
+       <a href="index.htm" name="navi_4">
+        ヘルプ
+       </a>
+      </li>
+      <li>
+       <a href="features.htm" name="navi_2">
+        機能
+       </a>
+      </li>
+      <li>
+       <a href="configuration.htm" name="navi_10">
+        構成
+       </a>
+      </li>
+      <li class="active" name="navi_11">
+       スケジュール
+      </li>
+     </ol>
+     <p name="schedule_0">
+PowerPanel
+<sup>&reg;</sup>
+Personalは、接続されたコンピュータや機器の起動とシャットダウンのスケジュール設定が可能です。スケジュール は曜日単位で設定可能です。 スケジュールシャットダウンは、再起動する前に設定する必要があります。
+     </p>
+     <p>
+      <ul>
+       <li name="schedule_1">
+列「
+<b>
+ ON
+</b>
+」にUPSの起動時間が表示されます。
+       </li>
+       <li name="schedule_2">
+列「
+<b>
+ OFF
+</b>
+」にはUPSの停止時間が表示されます。
+       </li>
+       <li name="schedule_3">
+[
+<b>
+ ON
+</b>
+]列でUPSの起動時間を選択できます。
+       </li>
+       <li name="schedule_4">
+[
+<b>
+ OFF
+</b>
+]列でUPSの停止時間を選択できます。
+       </li>
+       <li name="schedule_5">
+時間を選択したら、
+<b>
+ （Act.）
+</b>
+オプションをオンにして設定を有効にする必要があります。
+       </li>
+       <li name="schedule_6">
+<b>
+ （N.R）
+</b>
+オプションを選択すると、再起動時間を設定してもUPSは自動的に再起動しません。
+       </li>
+      </ul>
+      <text name="schedule_7">
+注：
+<b>
+ （N.R）
+</b>
+は、Never Restartの略です。
+      </text>
+      <br/>
+      <text name="schedule_8">
+注：
+<b>
+ （N.R）
+</b>
+ボタンが選択されている場合は、UPSを手動で再起動する必要があります。
+      </text>
+      <br/>
+      <text name="schedule_9">
+       注：起動時間を選択するときは、シャットダウン時間も選択する必要があります。
+      </text>
+      <br/>
+      <br/>
+      <p name="schedule_10">
+       「スケジュール」列の下のスペースは、スケジュール設定を表示する説明領域です。
+      </p>
+      <p name="schedule_11">
+       注：これは一部のUPSモデルでは利用出来ません。
+      </p>
+     </p>
+    </div>
+   </div>
+  </main>
+  <footer>
+   <p name="navi_26">
+    © 2018-2020 CyberPower Systems, Inc. All rights reserved.
+   </p>
+  </footer>
+  <!-- jQuery -->
+  <script src="../resources/js/jquery-1.11.1.min.js">
+  </script>
+  <!-- Bootstrap JavaScript -->
+  <script src="../resources/js/bootstrap.min.js">
+  </script>
+  <!-- sticky -->
+  <script src="../resources/js/jquery.sticky.js">
+  </script>
+  <!-- common -->
+  <script src="../resources/js/common.js">
+  </script>
+ </body>
+</html>

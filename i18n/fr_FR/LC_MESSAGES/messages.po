@@ -1,0 +1,1304 @@
+# Copyright (C) CyberPower Systems, Inc. ALL RIGHTS RESERVED.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-06-05 11:32+0800\n"
+"PO-Revision-Date: 2017-06-05 11:34+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#----------------------About----------------------
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "version"
+msgstr "version"
+
+msgid "Hardware Information"
+msgstr "Information sur le matériel"
+
+msgid "Model Name"
+msgstr "Nom du modèle"
+
+msgid "Serial Number"
+msgstr "Numéro de série"
+
+msgid "Firmware Version"
+msgstr "Version de progiciels"
+
+msgid "Power Ratting"
+msgstr "Puissance nominale"
+
+msgid "Web Support Information"
+msgstr "Information sur l'assistance Web"
+
+msgid "website"
+msgstr "Site Web"
+
+msgid "Products"
+msgstr "Produits"
+
+msgid "Contacts"
+msgstr "Contacts"
+
+msgid "Click here to get the technical support information on the Web"
+msgstr "Cliquez ici pour obtenir l'assistance technique sur le Web"
+
+msgid "Click here to get other products on the Web"
+msgstr "Cliquez ici pour vous procurer une autre application de sur le Web"
+
+msgid "Click here to get contact information on the Web"
+msgstr "Cliquez ici pour obtenir l'information sur les contacts utiles sur le Web"
+
+msgid "Watts"
+msgstr "Watts"
+
+msgid "Please check your internet connection and try again."
+msgstr "Veuillez vérifier votre connexion Internet et réessayez."
+
+msgid "Please wait for a few minutes while PowerPanel Personal is updating."
+msgstr "Veuillez patienter quelques minutes pendant la mise à jour de PowerPanel Personal."
+
+msgid "Check for Updates"
+msgstr "Vérification des mises à jour"
+
+msgid "A new version of PowerPanel {0} is now available"
+msgstr "Une nouvelle version de PowerPanel {0} est maintenant disponible"
+
+msgid "Update Now"
+msgstr "Mettre à jour maintenant"
+
+msgid "NEW SOFTWARE VERSION DETECTED"
+msgstr "NOUVELLE VERSION DE LOGICIEL DETECTEE"
+
+msgid "View more information about this update"
+msgstr "Voir plus d'informations sur cette mise à jour"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Restore to the previous software version"
+msgstr "Restaurer la version précédente du logiciel"
+
+msgid "Restoration"
+msgstr "Restauration"
+
+msgid "Updated Successfully"
+msgstr "Mise à jour réussie"
+
+msgid "Software Version Update"
+msgstr "Mise à jour de la version du logiciel "
+
+msgid "YOUR SOFTWARE IS UP TO DATE"
+msgstr "VOTRE LOGICIEL EST A JOUR"
+
+msgid "An error occurred while downloading the updates.xxx1 Please try again later."
+msgstr "Une erreur s'est produite lors du téléchargement des mises à jour.xxx1 Veuillez réessayer plus tard. "
+
+msgid "An error occurred while updating.xxx1 Please try again later."
+msgstr "Une erreur s'est produite lors de la mise à jour.xxx1 Veuillez réessayer plus tard. "
+
+#----------------------Advanced----------------------
+
+msgid "UPS Name"
+msgstr "Nom de l'onduleur"
+
+msgid "Please download PowerPanel APP and create an account from the APP."
+msgstr "Veuillez télécharger l'application PowerPanel et créer un compte à partir de l'application."
+
+msgid "Advanced"
+msgstr "Avancées"
+
+msgid "Input Voltage Sensitivity"
+msgstr "Sensibilité de la tension d'entrée"
+
+msgid "You can select an adequate sensitivity according to the equipment and the power."
+msgstr "Vous pouvez choisir une sensibilité appropriée en fonction des appareils et de la puissance."
+
+msgid "Controls the power quality according to xxxx sensitivity."
+msgstr "Contrôle la qualité de l'alimentation selon la sensibilité xxxx ."
+
+msgid "Shutdown Type"
+msgstr "Type d'arrêt"
+
+msgid "You can specify the manner in which the computer is shutdown."
+msgstr "Vous pouvez spécifier la manière dont l'ordinateur doit arrêté."
+
+msgid "Low"
+msgstr "Faible"
+
+msgid "Medium"
+msgstr "Moyenne"
+
+msgid "High"
+msgstr "élevée"
+
+msgid "Shutdown"
+msgstr "Arrêt"
+
+msgid "Hibernation"
+msgstr "Hibernation"
+
+msgid "Please input UPS name."
+msgstr "Veuillez saisir le nom de l'onduleur."
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "I agree to the xxxx0 | xxxx1."
+msgstr "J'accepte le xxxx0 | xxxx1."
+
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+msgid "PowerPanel Cloud Solution"
+msgstr "Solution PowerPanel Cloud"
+
+msgid "Activate to Get Free Trial"
+msgstr "Activez pour obtenir un essai gratuit "
+
+msgid "PowerPanel Cloud"
+msgstr "PowerPanel Cloud"
+
+msgid "PowerPanel App"
+msgstr "PowerPanel App"
+
+msgid "Connect"
+msgstr "Relier"
+
+msgid "Verified Successfully"
+msgstr "Vérifié avec succès"
+
+msgid "Applied Successfully"
+msgstr "Appliqué avec succès"
+
+msgid "Incorrect Account or Password"
+msgstr "Compte ou Mot de passe incorrect"
+
+msgid "An Error Occurred"
+msgstr "Une erreur s'est produite"
+
+#----------------------AppTray----------------------
+
+msgid "Terms & Conditions"
+msgstr "Termes & conditions"
+
+msgid "UPS no longer receiving AC utility power"
+msgstr "L'onduleur n'est plus alimentée par l'alimentation secteur CA"
+
+msgid "Your UPS is now supplying battery power to your equipment."
+msgstr "L'onduleur alimente désormais votre équipement."
+
+msgid "Unable to communicate with UPS"
+msgstr "Impossible de communiquer avec l'onduleur"
+
+msgid "Please make sure the USB or serial cable is connected between the UPS and computer."
+msgstr "Assurez-vous que le câble série ou USB est connecté entre l'onduleur et l'ordinateur."
+
+msgid "Communication with UPS is restored"
+msgstr "La communication avec l'onduleur est rétablie"
+
+msgid "Your UPS is correctly connected to your computer."
+msgstr "L'onduleur est correctement connectée à votre ordinateur."
+
+msgid "PowerPanel Personal Service is not running"
+msgstr "PowerPanel Personal n'est pas démarré"
+
+msgid "Your computer will be shutdown immediately!"
+msgstr "Votre ordinateur va être arrêté immédiatement!"
+
+msgid "Your computer will enter hibernate immediately!"
+msgstr "Votre ordinateur va être mis en mode de veille prolongée immédiatement!"
+
+msgid "Your computer will be shutdown in xxxx seconds!"
+msgstr "Votre ordinateur sera arrêté dans xxxx minutes!"
+
+msgid "Your computer will enter hibernate in xxxx seconds!"
+msgstr "Votre ordinateur sera mis en mode de veille prolongée dans xxxx minutes!"
+
+msgid "Utility power restored to UPS"
+msgstr "L'alimentation secteur est rétablie et alimente l'onduleur"
+
+msgid "Your equipment is now running on AC utility power."
+msgstr "Votre équipement fonctionne désormais sur alimentation secteur CA."
+
+msgid "the shutdown process has been aborted."
+msgstr "Le processus d'arrêt a été abandonné."
+
+msgid "Open"
+msgstr "Ouvert"
+
+msgid "Status"
+msgstr "Etat"
+
+msgid "Summary"
+msgstr "Résumé"
+
+msgid "Configure"
+msgstr "Configurer"
+
+msgid "Change Language"
+msgstr "Changer Langue"
+
+#----------------------ConfigrationMain----------------------
+
+msgid "Configure your UPS"
+msgstr "Configurez votre l'onduleur"
+
+#----------------------CurrentStatus----------------------
+
+msgid "You can configure the settings of application_short_name to ensure optimum performance of the UPS."
+msgstr "Il est possible de configurer application_short_name afin d'obtenir des performances optimales de l'onduleur."
+
+msgid "AC Utility Power"
+msgstr "Alimentation secteur CA"
+
+msgid "Battery"
+msgstr "Batterie"
+
+msgid "Discharging"
+msgstr "Décharge"
+
+msgid "Fully Charged"
+msgstr "Chargée à bloc"
+
+msgid "Charging"
+msgstr "Recharge"
+
+msgid "Overload"
+msgstr "Surcharge"
+
+msgid "Power Outage"
+msgstr "Panne d'électricité"
+
+msgid "Under Voltage"
+msgstr "Sous-tension"
+
+msgid "Over Voltage"
+msgstr "Surtension"
+
+msgid "Frequency Failure"
+msgstr "Défaut de fréquence"
+
+msgid "Voltage Boost"
+msgstr "Survoltage"
+
+msgid "Voltage Buck"
+msgstr "Dévoltage"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "volts"
+msgstr "V"
+
+msgid "minutes"
+msgstr "minutes"
+
+msgid "watts"
+msgstr "Watts"
+
+msgid "Current Status"
+msgstr "État actuel"
+
+msgid "Electrical power supplied by"
+msgstr "Alimentation électrique fournie par"
+
+msgid "Voltage supplied"
+msgstr "Tension fournie"
+
+msgid "Power condition"
+msgstr "Condition de tension"
+
+msgid "Remaining battery capacity"
+msgstr "Capacité disponible de la batterie"
+
+msgid "Battery status"
+msgstr "État de charge de la batterie"
+
+msgid "Remaining battery runtime"
+msgstr "Durée d'utilisation disponible de la batterie"
+
+msgid "Hardware status"
+msgstr "Etat du matériel"
+
+msgid "No Output"
+msgstr "Aucune sortie"
+
+#----------------------EmailSender----------------------
+
+msgid "UPS load"
+msgstr "État de charge de l'onduleur"
+
+msgid "Event Notification"
+msgstr "Notification d'évènement"
+
+msgid "Time"
+msgstr "Heure"
+
+msgid "power_event_notify"
+msgstr "Notification d'évènement d'alimentation"
+
+#----------------------EnergyReporting----------------------
+
+msgid "Energy Reporting"
+msgstr "Rapport énergétique"
+
+msgid "Statistic"
+msgstr "Statistiques"
+
+msgid "From"
+msgstr "De"
+
+msgid "To"
+msgstr "Vers"
+
+msgid "Average Energy Consumption"
+msgstr "Consommation d'énergie moyenne "
+
+msgid "Cumulative Energy Consumption"
+msgstr "Consommation d'énergie cumulée"
+
+msgid "Cumulative Cost"
+msgstr "Coût cumulé"
+
+#----------------------EnergySettings----------------------
+
+msgid "CO2"
+msgstr "CO2"
+
+msgid "Show energy cost history"
+msgstr "Afficher l'historique des coûts énergétiques"
+
+msgid "Today"
+msgstr "Aujourd'hu"
+
+msgid "Change Country"
+msgstr "Changer de pays"
+
+msgid "Hide energy cost history"
+msgstr "Masquer l'historique des coûts énergétiques"
+
+msgid "Edit record"
+msgstr "Modifier l'enregistrement"
+
+msgid "Delete record"
+msgstr "Effacer l'enregistrement"
+
+msgid "Cost value should be within range 0~100000."
+msgstr "La valeur de coût doit être comprise entre 0 et 100 000."
+
+msgid "Apply Success"
+msgstr "Appliquer avec succès"
+
+msgid "Apply Error"
+msgstr "Echec durant l'application"
+
+msgid "Energy Settings"
+msgstr "Paramètres Energie"
+
+msgid "Country Selection"
+msgstr "Sélection du pays"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Energy Cost"
+msgstr "Coût de l'énergie"
+
+msgid "Cost per kWh"
+msgstr "Coût par kWh"
+
+msgid "CO2 Emissions"
+msgstr "Emissions de CO2"
+
+msgid "CO2 Emitted per kWh"
+msgstr "CO2 émis par kWh"
+
+msgid "Unit of Measurement"
+msgstr "Unité de mesure"
+
+msgid "Kilograms(kg)"
+msgstr "Kilogrammes (kg)"
+
+msgid "Pounds(lb)"
+msgstr "Livres (lb)"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "OK"
+msgstr "CORRECT"
+
+msgid "Start Date"
+msgstr "Date de démarrage"
+
+msgid "End Date"
+msgstr "Date de fin"
+
+msgid "Are you sure to remove this record?"
+msgstr "Etes-vous certain de vouloir supprimer cet enregistrement?"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Changing the country will reset the energy settings."
+msgstr "Le fait de changer le pays réinitialisera les paramètres énergétiques."
+
+msgid "Are you sure to continue?"
+msgstr "Voulez-vous réellement continuer?"
+
+#----------------------MasterPage----------------------
+
+msgid "PowerPanel Personal Service is not ready."
+msgstr "Le service PowerPanel Personal n'est pas prêt."
+
+msgid "Unable to establish communication with UPS."
+msgstr "Impossible de communiquer avec l'onduleur."
+
+msgid "The UPS is working normally."
+msgstr "L'onduleur fonctionne normalement."
+
+msgid "min."
+msgstr "mn."
+
+msgid "AC Utility"
+msgstr "Secteur CA"
+
+msgid "Power Source"
+msgstr "Source d'alimentation"
+
+msgid "Battery Capacity"
+msgstr "Capacité de la batterie"
+
+msgid "Estimated Runtime"
+msgstr "Autonomie estimée"
+
+msgid "Schedule"
+msgstr "Programmation"
+
+msgid "Notification"
+msgstr "Avis"
+
+msgid "Runtime"
+msgstr "Durée de fonctionnement"
+
+msgid "Voltage"
+msgstr "Tension"
+
+msgid "Self-Test"
+msgstr "Auto-test"
+
+msgid "About"
+msgstr "À propos de"
+
+#----------------------Notification----------------------
+
+msgid "Verifying..."
+msgstr "En cours de vérification…"
+
+msgid "Testing..."
+msgstr "Test en cours…"
+
+msgid "Exchange Success."
+msgstr "Echange réussi."
+
+msgid "Exchange Failure."
+msgstr "Echec durant l'échange."
+
+msgid "Test Send Success."
+msgstr "Envoi du Test réussi."
+
+msgid "Test Send Failure."
+msgstr "Echec durant l'envoi du Test."
+
+msgid "SMTP Address Invalid"
+msgstr "Adresse SMTP invalide"
+
+msgid "Email Format error"
+msgstr "Format d'E-mail incorrect"
+
+msgid "Account cannot be empty, when auth active."
+msgstr "Le compte ne peut pas être vide en cas d'authentification."
+
+msgid "Verify Success."
+msgstr "Vérification réussie."
+
+msgid "Verify Failure."
+msgstr "Echec durant la vérification."
+
+msgid "Enter the authorization code here."
+msgstr "Entrez le code d'autorisation ici."
+
+msgid "Software Sounds"
+msgstr "Source d'alimentation"
+
+msgid "application_short_name generates audible sounds to notify you of power events."
+msgstr "application_short_name génère des sons audibles pour vous informer des événements d'alimentation."
+
+msgid "Enable application_short_name notification sounds"
+msgstr "Activez les sons de notification de application_short_name"
+
+msgid "UPS Alarms"
+msgstr "Alarmes de l'onduleur"
+
+msgid "The UPS generates audible alarms during power events."
+msgstr "L'onduleur génère des alarmes audibles pendant les événements d'alimentation."
+
+msgid "Enable alarms at all times"
+msgstr "Activez les alarmes en permanence"
+
+msgid "Disable alarms at all times"
+msgstr "Désactivez les alarmes en permanence"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Activate"
+msgstr "Activer"
+
+msgid "Service Provider"
+msgstr "Fournisseur de services"
+
+msgid "other"
+msgstr "autres"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Request"
+msgstr "Requête"
+
+msgid "Change"
+msgstr "Remplacer"
+
+msgid "SMTP server address"
+msgstr "Adresse du serveur SMTP"
+
+msgid "Secure connection"
+msgstr "Connexion sécurisée"
+
+msgid "Service port"
+msgstr "Port de service"
+
+msgid "Sender name"
+msgstr "Nom de l'expéditeur"
+
+msgid "Sender E-mail address"
+msgstr "Adresse E-mail de l'expéditeur"
+
+msgid "Authentication"
+msgstr "Authentification"
+
+msgid "Receiver E-mail address"
+msgstr "Adresse E-mail du destinataire"
+
+msgid "Test"
+msgstr "Test"
+
+#----------------------Runtime----------------------
+
+msgid "Verify"
+msgstr "Vérifier"
+
+msgid "Runtime Configuration"
+msgstr "Configuration de la durée de fonctionnement"
+
+msgid "You can change the length of time that application_short_name allows your UPS to run on battery power."
+msgstr "Il est possible de modifier la durée pendant laquelle application_short_name permet le fonctionnement de l'onduleur sur batterie."
+
+msgid "Keep Computer Running"
+msgstr "Conservez l'ordinateur en marche"
+
+msgid "Shutdown this computer when remaining battery runtime is only xxxx minutes."
+msgstr "Arrêtez cet ordinateur quand la durée de fonctionnement de la batterie n'est plus que de xxxx minutes."
+
+msgid "Use this Option to extend operating time while on battery power."
+msgstr "Utilisez cette option pour augmenter la durée de fonctionnement sur batterie."
+
+msgid "Preserve Battery Power"
+msgstr "Économisez la charge de la batterie"
+
+msgid "Shutdown this computer after UPS runs on battery power for xxxx minutes."
+msgstr "Arrêtez cet ordinateur quand l'onduleur fonctionne sur batterie pendant xxxx minutes."
+
+#----------------------Schedule----------------------
+
+msgid "Use this option to save battery power for successive power outages."
+msgstr "Utilisez cette option pour économiser la charge de la batterie lors de pannes de courant successives."
+
+msgid "Your computer will be shut down at xxxx0 on xxxx1 xxxx2."
+msgstr "Votre ordinateur s'éteindra à xxxx0 le xxxx1 xxxx2."
+
+msgid "Your computer will be shut down at xxxx0 on xxxx1 xxxx2 and restart at xxxx3 on xxxx4 xxxx5."
+msgstr "Votre ordinateur s'éteindra à xxxx0 le xxxx1 xxxx2 et redémarrera à xxxx3 le xxxx4 xxxx5."
+
+msgid "Monday"
+msgstr "Lundi"
+
+msgid "Tuesday"
+msgstr "Mardi"
+
+msgid "Wednesday"
+msgstr "Mercredi"
+
+msgid "Thursday"
+msgstr "Jeudi"
+
+msgid "Friday"
+msgstr "Vendredi"
+
+msgid "Saturday"
+msgstr "Samedi"
+
+msgid "Sunday"
+msgstr "Dimanche"
+
+msgid "You can decide when time your computer and equipment will turn ON and OFF."
+msgstr "Vous pouvez ainsi décider à quelle heure votre équipement informatique s'allume et s'éteint."
+
+msgid "Days"
+msgstr "Journées"
+
+msgid "ON"
+msgstr "Marche"
+
+msgid "Act."
+msgstr "Act."
+
+msgid "OFF"
+msgstr "Arrêt"
+
+msgid "N.R"
+msgstr "N.R"
+
+#----------------------SelfTest----------------------
+
+msgid "Self-test helps ensure your UPS is working correctly."
+msgstr "L'auto-test permet de s'assurer que le fonctionnement de l'onduleur se déroule correctement."
+
+msgid "Date of last self-test"
+msgstr "Date du dernier auto-test"
+
+msgid "Never"
+msgstr "Jamais"
+
+msgid "Result of last self-test"
+msgstr "Résultat du dernier auto-test"
+
+msgid "Click button to initiate a self-test to ensure UPS working correctly."
+msgstr "Cliquez sur ce bouton pour commencer un auto-test afin de vérifier que l'onduleur fonctionne correctement."
+
+msgid "Self-test is in progress, please wait..."
+msgstr "Auto-test en cours, veuillez patienter..."
+
+msgid "Passed"
+msgstr "Réussi"
+
+msgid "Not passed"
+msgstr "Echoué"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Initiate self-test"
+msgstr "Auto-Test"
+
+#----------------------Summary----------------------
+
+msgid "time"
+msgstr "heure"
+
+msgid "times"
+msgstr "fois"
+
+msgid "hours"
+msgstr "heures"
+
+msgid "seconds"
+msgstr "secondes"
+
+msgid "AC utility power lost, use battery power at xxxx."
+msgstr "Perte d'alimentation secteur CA, utilisation de l'alimentation de la batterie à xxxx."
+
+msgid "AC utility power is too low, use battery power at xxxx."
+msgstr "Tension du secteur CA faible, utilisez l'alimentation batterie à xxxx."
+
+msgid "AC utility power is too high, use battery power at xxxx."
+msgstr "Tension du secteur CA trop élevée, utiliser l'alimentation batterie à xxxx."
+
+msgid "AC utility frequency failure, use battery power at xxxx."
+msgstr "Défaut fréquence de d'utilité CA, utilisez l'alimentation batterie à xxxx."
+
+msgid "Power Problem Summary"
+msgstr "Récapitulatif du problème d'alimentation"
+
+msgid "Last Power Event"
+msgstr "Dernier événement de problème d'alimentation"
+
+msgid "Power Condition Summary"
+msgstr "Récapitulatif de l'état de l'alimentation"
+
+msgid "Display period"
+msgstr "Période d'affichage"
+
+msgid "Last"
+msgstr "Dernier"
+
+msgid "week"
+msgstr "semaine"
+
+msgid "weeks"
+msgstr "semaines"
+
+msgid "Power problem"
+msgstr "Problème d'alimentation"
+
+msgid "Number of times"
+msgstr "Nombre de fois"
+
+msgid "Amount of time"
+msgstr "Durée"
+
+msgid "Power outage"
+msgstr "Panne d'électricité"
+
+msgid "Invert total"
+msgstr "Retour sur tension"
+
+msgid "Voltage regulation"
+msgstr "Régulation de tension"
+
+msgid "Boost"
+msgstr "Survoltage"
+
+msgid "Buck"
+msgstr "Dévoltage"
+
+#----------------------Voltage----------------------
+
+msgid "Regular total"
+msgstr "Tension normale"
+
+msgid "The UPS will intervene when the AC utility voltage falls below xxxx volts or rises above xxxx volts."
+msgstr "L'onduleur s'activera quand la tension secteur CA baissera en dessous de xxxx V ou s'établira au-dessus de xxxx V."
+
+msgid "The current voltage is xxxx volts."
+msgstr "La tension actuelle est de xxxx V."
+
+msgid "You can change the point of transfer in the below section."
+msgstr "Il est possible de modifier le point de transfert dans la section ci-après."
+
+msgid "UPS will intervene"
+msgstr "L'onduleur s'activera"
+
+msgid "When AC utility voltage goes above xxxx volts."
+msgstr "Quand la tension secteur CA s'établit au-dessus de xxxx V."
+
+#----------------------WebAppController----------------------
+
+msgid "When AC utility voltage goes below xxxx volts."
+msgstr "Quand la tension secteur CA s'établit en dessous de xxxx V."
+
+msgid "Login failed. Please wait for UPS connection and try again."
+msgstr "Échec de la connexion. Veuillez attendre la connexion avec l'onduleur et réessayer."
+
+msgid "An error occurred. Please try again."
+msgstr "Une erreur est apparue. Veuillez réessayer."
+
+msgid "Update Success."
+msgstr "Mise à jour réussie."
+
+msgid "Update Failed."
+msgstr "Echec durant la mise à jour."
+
+msgid "Duplicate device name."
+msgstr "Doublon du nom du matériel"
+
+#----------------------EventLogs----------------------
+
+msgid "Event Logs"
+msgstr "Journaux d'évènements"
+
+msgid "All"
+msgstr "Tous"
+
+msgid "Critical"
+msgstr "Critiques"
+
+msgid "Offline"
+msgstr "Off-Line"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Events"
+msgstr "Evènements"
+
+msgid "No result found"
+msgstr "Aucun résultat"
+
+msgid "eventId_0"
+msgstr "Panne secteur, passage en mode batterie"
+
+msgid "eventId_1"
+msgstr "Réseau réapparu, retour en mode normal"
+
+msgid "eventId_2"
+msgstr "L'onduleur est en mode Boost du fait d'un réseau trop faible"
+
+msgid "eventId_3"
+msgstr "L'onduleur est en mode Buck du fait d'un réseau trop haut"
+
+msgid "eventId_4"
+msgstr "La tension de sortie est normale, arrêt du mode Boost."
+
+msgid "eventId_5"
+msgstr "La tension de sortie est normale, arrêt du mode Buck."
+
+msgid "eventId_6"
+msgstr "La tension du réseau été trop importante durant la commutation, l'onduleur est passé en mode batterie."
+
+msgid "eventId_7"
+msgstr "La tension du réseau est à nouveau correcte, l'onduleur est repassé en mode normal."
+
+msgid "eventId_8"
+msgstr "La tension du réseau été trop faible durant la commutation, l'onduleur est passé en mode batterie."
+
+msgid "eventId_9"
+msgstr "La tension du réseau est à nouveau correcte, l'onduleur est repassé en mode normal."
+
+msgid "eventId_16"
+msgstr "L'onduleur a été arrêté"
+
+msgid "eventId_17"
+msgstr "L'onduleur a été démarré"
+
+msgid "eventId_18"
+msgstr "L'onduleur est entré en mode Sleep (en veille) ses sorties ne sont plus alimentées"
+
+msgid "eventId_19"
+msgstr "L'onduleur est sorti de son mode Sleep (veille), ses sorties sont à nouveau alimentées"
+
+msgid "eventId_20"
+msgstr "L'onduleur est entré en mode Bypass"
+
+msgid "eventId_21"
+msgstr "L'onduleur est sorti du mode Bypass"
+
+msgid "eventId_22"
+msgstr "Surcharge sur le circuit Bypass"
+
+msgid "eventId_23"
+msgstr "Le circuit Bypass n'est plus en surcharge"
+
+msgid "eventId_24"
+msgstr "Le bloc de prises non critiques (NCL) a été démarré"
+
+msgid "eventId_25"
+msgstr "Le bloc de prises non critiques (NCL) a été éteint"
+
+msgid "eventId_26"
+msgstr "Entré en mode ECO"
+
+msgid "eventId_27"
+msgstr "Sorti du mode ECO"
+
+msgid "eventId_28"
+msgstr "La sortie n'est plus en surcharge"
+
+msgid "eventId_29"
+msgstr "La sortie est en train de s'arrêter"
+
+msgid "eventId_32"
+msgstr "L'onduleur a détecté une surcharge"
+
+msgid "eventId_33"
+msgstr "La surcharge a disparu sur l'onduleur"
+
+msgid "eventId_34"
+msgstr "La température dans l'onduleur est trop importante"
+
+msgid "eventId_35"
+msgstr "La température dans l'onduleur est à maintenant normale"
+
+msgid "eventId_36"
+msgstr "Problème matériel dans l'onduleur"
+
+msgid "eventId_37"
+msgstr "L'onduleur est entré en mode ECO"
+
+msgid "eventId_38"
+msgstr "L'onduleur est sorti du mode ECO"
+
+msgid "eventId_39"
+msgstr "Erreur de câblage de l'onduleur détectée"
+
+msgid "eventId_40"
+msgstr "Câblage de l'onduleur correct"
+
+msgid "eventId_41"
+msgstr "Mise à jour du firmware en cours"
+
+msgid "eventId_42"
+msgstr "Mise à jour du firmware terminée"
+
+msgid "eventId_43"
+msgstr "Consommation trop importante"
+
+msgid "eventId_44"
+msgstr "Consommation normale"
+
+msgid "eventId_45"
+msgstr "Consommation trop faible"
+
+msgid "eventId_46"
+msgstr "Consommation normale"
+
+msgid "eventId_47"
+msgstr "Etat du matériel"
+
+msgid "eventId_48"
+msgstr "La capacité batterie de l'onduleur est inférieure au seuil, elle sera bientôt épuisée"
+
+msgid "eventId_49"
+msgstr "La capacité batterie n'est plus faible dans l'onduleur"
+
+msgid "eventId_50"
+msgstr "Le chargeur batterie ne fonctionne pas correctement"
+
+msgid "eventId_51"
+msgstr "Batterie absente"
+
+msgid "eventId_52"
+msgstr "La batterie peut ne plus fonctionner correctement"
+
+msgid "eventId_53"
+msgstr "Les batteries ont été remplacées"
+
+msgid "eventId_54"
+msgstr "Les batteries sont en charge"
+
+msgid "eventId_55"
+msgstr "La recharge des batteries est terminée"
+
+msgid "eventId_56"
+msgstr "Les batteries se déchargent"
+
+msgid "eventId_57"
+msgstr "La décharge des batteries est terminée"
+
+msgid "eventId_58"
+msgstr "L'autonomie disponible est insuffisante"
+
+msgid "eventId_59"
+msgstr "Les batteries sont pleinement chargées"
+
+msgid "eventId_60"
+msgstr "L'autonomie restante sera bien épuisée"
+
+msgid "eventId_61"
+msgstr "Les batteries ont été installées"
+
+msgid "eventId_62"
+msgstr "La capacité des batteries est normale"
+
+msgid "eventId_63"
+msgstr "L'autonomie restante redevient suffisante"
+
+msgid "eventId_64"
+msgstr "L'onduleur procède à un test batterie"
+
+msgid "eventId_65"
+msgstr "Test des batteries réussi"
+
+msgid "eventId_66"
+msgstr "Echec durant le test batterie"
+
+msgid "eventId_67"
+msgstr "L'onduleur procède à une calibration de l'autonomie batterie"
+
+msgid "eventId_68"
+msgstr "Calibration d'autonomie batterie terminée"
+
+msgid "eventId_69"
+msgstr "Abandon de la calibration d'autonomie batterie"
+
+msgid "eventId_70"
+msgstr "Test batterie incomplet"
+
+msgid "eventId_71"
+msgstr "Calibration incomplète"
+
+msgid "eventId_80"
+msgstr "La communication avec l'onduleur a été perdue"
+
+msgid "eventId_81"
+msgstr "La communication avec l'onduleur a été rétablie"
+
+msgid "eventId_82"
+msgstr "Le matériel est Off-Line"
+
+msgid "eventId_83"
+msgstr "Le matériel est On-Line"
+
+msgid "eventId_84"
+msgstr "La communication ne peut être établie"
+
+msgid "eventId_85"
+msgstr "Perte de communication locale"
+
+msgid "eventId_86"
+msgstr "Perte de communication locale lors d'un évènement secteur"
+
+msgid "eventId_87"
+msgstr "Impossible d'établir une communication réseau avec le périphérique d'alimentation"
+
+msgid "eventId_88"
+msgstr "Communication réseau perdue avec l'onduleur lors d'un événement secteur"
+
+msgid "eventId_89"
+msgstr "Perte de la communication réseau"
+
+msgid "eventId_90"
+msgstr "Communication réseau rétablie"
+
+msgid "eventId_91"
+msgstr "La communication locale est rétablie"
+
+msgid "eventId_92"
+msgstr "Communication réseau établie avec l'onduleur"
+
+msgid "eventId_93"
+msgstr "Communication réseau rétablie"
+
+msgid "eventId_94"
+msgstr "Communication réseau rétablie avec le périphérique d'alimentation"
+
+msgid "eventId_96"
+msgstr "Surcharge sur les prises de sortie"
+
+msgid "eventId_97"
+msgstr "Les prises de sortie ne sont plus surchargées"
+
+msgid "eventId_98"
+msgstr "Faible charge sur les prises de sortie"
+
+msgid "eventId_99"
+msgstr "Les prises de sortie ne sont plus chargées faiblement"
+
+msgid "eventId_112"
+msgstr "L'autonomie restante n'est plus épuisée"
+
+msgid "eventId_113"
+msgstr "Capacité batterie extrêmement faible"
+
+msgid "eventId_114"
+msgstr "Remplacement des batteries recommandé"
+
+msgid "eventId_128"
+msgstr "Le système est en surchauffe"
+
+msgid "eventId_129"
+msgstr "Court-circuit en sortie"
+
+msgid "eventId_130"
+msgstr "La sortie n'et plus en court-circuit"
+
+msgid "eventId_131"
+msgstr "Erreur de câblage Phase-Neutre en entrée"
+
+msgid "eventId_132"
+msgstr "L'onduleur n'est plus en défaut"
+
+msgid "eventId_133"
+msgstr "Le système n'est plus en surchauffe"
+
+msgid "eventId_134"
+msgstr "Restauration de l'état du matériel"
+
+msgid "eventId_144"
+msgstr "Le système va s'éteindre car une programmation a été effectuée"
+
+msgid "eventId_145"
+msgstr "Arrêt initié"
+
+msgid "eventId_146"
+msgstr "L'onduleur est surveillé"
+
+msgid "eventId_147"
+msgstr "La surveillance de l'onduleur est terminée"
+
+msgid "eventId_148"
+msgstr "Le temps d'arrêt est insuffisant"
+
+msgid "eventId_149"
+msgstr "Arrêt du système par l'utilisateur"
+
+msgid "eventId_150"
+msgstr "Redémarrage du système par l'utilisateur"
+
+msgid "eventId_151"
+msgstr "Prise en main à distance par l'utilisateur"
+
+msgid "eventId_152"
+msgstr "Arrêt annulé"
+
+msgid "eventId_153"
+msgstr "Le temps d'arrêt est suffisant"
+
+#----------------------P66EventCode----------------------
+
+msgid "eventCode_01"
+msgstr "Batterie surchargée en tension"
+
+msgid "eventCode_02"
+msgstr "Panne du chargeur batterie"
+
+msgid "eventCode_04"
+msgstr "Batterie faible"
+
+msgid "eventCode_05"
+msgstr "Echec durant le test batterie"
+
+msgid "eventCode_06"
+msgstr "Batteries déconnectées"
+
+msgid "eventCode_07"
+msgstr "Maintenance batterie (remplacer toutes les batteries)"
+
+msgid "eventCode_08"
+msgstr "Démarrage à froid tension batterie dépassée"
+
+msgid "eventCode_12"
+msgstr "% de charge dépassé"
+
+msgid "eventCode_20"
+msgstr "Court-circuit au démarrage à froid"
+
+msgid "eventCode_21"
+msgstr "Court-circuit en sortie"
+
+msgid "eventCode_22"
+msgstr "Surcharge en sortie"
+
+msgid "eventCode_23"
+msgstr "Surchauffe du transformateur AVR"
+
+msgid "eventCode_25"
+msgstr "EPO Off"
+
+msgid "eventCode_26"
+msgstr "OCP (Output Current Protect) Protection Surintensité en sortie"
+
+msgid "eventCode_27"
+msgstr "ROO Off"
+
+msgid "eventCode_29"
+msgstr "Défaut AVR (régulateur de tension)"
+
+msgid "eventCode_2A"
+msgstr "Tension  de sortie AD en défaut"
+
+msgid "eventCode_30"
+msgstr "Onduleur en défaut"
+
+msgid "eventCode_31"
+msgstr "Tension de sortie trop haute"
+
+msgid "eventCode_32"
+msgstr "Tension de sortie trop faible"
+
+msgid "eventCode_33"
+msgstr "Surchauffe du dissipateur"
+
+msgid "eventCode_34"
+msgstr "Panne du ventilateur"
+
+msgid "eventCode_35"
+msgstr "Panne ventilateur arrière"
+
+msgid "eventCode_36"
+msgstr "Panne ventilateur central"
+
+msgid "eventCode_37"
+msgstr "Panne ventilateur avant"
+
+msgid "eventCode_40"
+msgstr "Défaut du BUS DC"
+
+msgid "eventCode_41"
+msgstr "Défaut du BUS +DC trop haut"
+
+msgid "eventCode_42"
+msgstr "Défaut du BUS +DC trop bas"
+
+msgid "eventCode_43"
+msgstr "Défaut du BUS -DC trop haut"
+
+msgid "eventCode_44"
+msgstr "Défaut du BUS -DC trop bas"
+
+msgid "eventCode_50"
+msgstr "Panne secteur"
+
+msgid "eventCode_51"
+msgstr "V+HZ en entrée hors tolérances"
+
+msgid "eventCode_52"
+msgstr "V en entrée hors tolérances"
+
+msgid "eventCode_53"
+msgstr "Hz en entrée hors tolérances"
+
+msgid "eventCode_54"
+msgstr "Phase anormale (redémarrage automatique)"
+
+msgid "eventCode_55"
+msgstr "Erreur de câblage"
+
+msgid "eventCode_56"
+msgstr "ICP (Input Current Protect) Protection en courant en entrée"
+
+msgid "eventCode_57"
+msgstr "Basculement sur Bypass interdit (OL6~10K)"
+
+msgid "Fault"
+msgstr "Défaut"
+
+msgid "Warning"
+msgstr "Alarme"
+
+msgid "Click button to clear all event logs."
+msgstr "Cliquez sur le bouton pour effacer tous les journaux d'événements."
+
+msgid "Clear"
+msgstr "Retirer"
+
+msgid "Notice"
+msgstr "Remarques"
+
+msgid "Input page number is out of range."
+msgstr "Le numéro de page d'entrée est hors limites."
+
+msgid "Are you sure to delete all event logs?"
+msgstr "Êtes-vous sûr de supprimer tous les journaux d'événements?"
+
+
+
+
+

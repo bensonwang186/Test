@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   PowerPanel Personal - Current Status
+  </title>
+  <!-- Bootstrap CSS -->
+  <link href="../resources/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="../resources/css/style.css" rel="stylesheet"/>
+  <link href="../resources/css/animate.css" rel="stylesheet"/>
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+ </head>
+ <body class="">
+  <header>
+   <div class="headerBox">
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+     <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+       <button class="navbar-toggle" data-target=".navbar-ex1-collapse" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <a class="navbar-brand" href="index.htm">
+        POWERPANEL
+       </a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse navbar-ex1-collapse">
+       <ul class="nav navbar-nav navbar-right">
+        <li>
+         <a href="interface.htm" name="navi_1">
+          インターフェース
+         </a>
+        </li>
+        <li>
+         <a href="features.htm" name="navi_2">
+          機能
+         </a>
+        </li>
+        <li>
+         <a href="conditions.htm" name="navi_3">
+          状態
+         </a>
+        </li>
+       </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+     </div>
+    </nav>
+   </div>
+  </header>
+  <main>
+   <div class="page-header">
+    <div class="container">
+     <h1 name="navi_8">
+      現在のステータス
+     </h1>
+    </div>
+   </div>
+   <ul class="nav_linkBox">
+    <li>
+     <a class="active" href="current_status.htm" name="navi_8">
+      現在のステータス
+     </a>
+    </li>
+    <li>
+     <a href="summary.htm" name="navi_9">
+      イベントログ
+     </a>
+    </li>
+    <li>
+     <a href="eventLogs.htm" name="navi_27">
+      ログの詳細
+     </a>
+    </li>
+   </ul>
+   <div class="container containerBox">
+    <div class="col-md-12">
+     <ol class="breadcrumb">
+      <li>
+       <a href="index.htm" name="navi_4">
+        ヘルプ
+       </a>
+      </li>
+      <li>
+       <a href="features.htm" name="navi_2">
+        機能
+       </a>
+      </li>
+      <li>
+       <a href="monitor.htm" name="navi_7">
+        モニター
+       </a>
+      </li>
+      <li class="active" name="navi_8">
+       現在のステータス
+      </li>
+     </ol>
+     <table align="center" border="1" bordercolordark="#FFFFFF" bordercolorlight="#CCCCCC" cellpadding="1" cellspacing="0" style="margin-bottom:20px;" width="100%">
+      <tr bgcolor="#9EBAFA">
+       <td bgcolor="#3b3b3b" class="style5" style="color:#fff;" width="24%">
+        <div align="center" name="current_status_0">
+         フィールド
+        </div>
+       </td>
+       <td bgcolor="#3b3b3b" class="style5" style="color:#fff;" width="44%">
+        <div align="center" name="current_status_1">
+         詳細
+        </div>
+       </td>
+       <td bgcolor="#3b3b3b" class="style5" style="color:#fff;" width="21%">
+        <div align="center" name="current_status_2">
+         ステータス
+        </div>
+       </td>
+      </tr>
+      <tr bgcolor="#FFFFCC">
+       <td bgcolor="#FFFFF4" class="style5" name="current_status_3" rowspan="3">
+        供給される電力
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_4">
+        UPSは接続された機器に商用電源を供給しています。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_5">
+        AC 商用電源
+       </td>
+      </tr>
+      <tr>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_6">
+        UPSが接続された機器にバッテリ電源を供給しています。 これは、停電、不足電圧、又は過電圧によって引き起こされる可能性があります。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_7">
+        バッテリー
+       </td>
+      </tr>
+      <tr>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_8">
+        ここでは電源出力はありません。又、UPSが機器に電力を供給していません。 これは、バッテリの検出に失敗したか、セルフテストの失敗が原因で発生している可能性があります。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_9">
+        なし*
+       </td>
+      </tr>
+      <tr bgcolor="#EFEFEF">
+       <td class="style5" name="current_status_10">
+        供給電圧*
+       </td>
+       <td class="style4" name="current_status_11">
+        UPSの出力電圧は、AC商用電源又はバッテリの何れかによって供給されます。
+       </td>
+       <td class="style4" name="current_status_12">
+        UPSの出力電圧
+       </td>
+      </tr>
+      <tr bgcolor="#FFFFE8">
+       <td bgcolor="#FFFFF4" class="style5" name="current_status_13" rowspan="7">
+        電源状態*
+       </td>
+       <td bgcolor="#FFFFF4" class="style4">
+        <div align="left" name="current_status_14">
+         停電が発生し、商用電源が失われます。 UPSはバッテリを使用して電力を供給しています。
+        </div>
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_15">
+        停電
+       </td>
+      </tr>
+      <tr>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_16">
+        入力電圧が低電圧閾値よりも低く、UPSがバッテリを使用して電力を供給しています。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_17">
+        低電圧
+       </td>
+      </tr>
+      <tr>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_18">
+        入力電圧が高電圧閾値より高く、UPSがバッテリを使用して電力を供給しています。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_19">
+        過電圧
+       </td>
+      </tr>
+      <tr>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_20">
+        商用周波数が範囲外で、UPSが一定の周波数でバッテリを使用して電力を供給しています。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_21">
+        周波数障害*
+       </td>
+      </tr>
+      <tr>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_22">
+        入力電圧が低電圧閾値に近づいている間、電圧が引き上げられています。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_23">
+        電圧昇圧*
+       </td>
+      </tr>
+      <tr>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_24">
+        入力電圧が高電圧閾値に近づいている間、電圧が引き下げられています。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_25">
+        電圧降圧*
+       </td>
+      </tr>
+      <tr>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_26">
+        UPSは正常に稼働しています。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_27">
+        正常
+       </td>
+      </tr>
+      <tr bgcolor="#EFEFEF">
+       <td class="style5" name="current_status_28" rowspan="2">
+        残りのバッテリー容量*
+       </td>
+       <td class="style4" name="current_status_29" rowspan="2">
+        残りのバッテリー容量
+       </td>
+       <td class="style4" name="current_status_30">
+        満充電時を100％とした場合の、現在のバッテリ残量％
+       </td>
+      </tr>
+      <tr bgcolor="#EFEFEF">
+       <td class="style4" name="current_status_31">
+        UPSはバッテリを使用して電力を供給しており、放電しています。
+       </td>
+      </tr>
+      <tr bgcolor="#FFFFF4">
+       <td class="style5" name="current_status_32" rowspan="3">
+        バッテリーステータス*
+       </td>
+       <td class="style4">
+        <div align="justify" name="current_status_33">
+         バッテリーは100％まで充電されます。
+        </div>
+       </td>
+       <td class="style4" name="current_status_34">
+        満充電
+       </td>
+      </tr>
+      <tr>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_35">
+        バッテリーが充電されています。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_36">
+        充電
+       </td>
+      </tr>
+      <tr>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_37">
+        バッテリーが放電しています。 UPSが接続された機器にバッテリ電源を供給しています。
+       </td>
+       <td bgcolor="#FFFFF4" class="style4" name="current_status_38">
+        放電
+       </td>
+      </tr>
+      <tr bgcolor="#EFEFEF">
+       <td class="style5" name="current_status_39">
+        バッテリーの残りランタイム*
+       </td>
+       <td class="style4" name="current_status_40">
+        電源障害によりバッテリモードに切り替わった時に、UPSから接続された機器への給電可能な時間
+       </td>
+       <td class="style4" name="current_status_41">
+        バッテリ稼働可能推定時間
+       </td>
+      </tr>
+      <tr bgcolor="#FFFFF4">
+       <td class="style5" name="current_status_42" rowspan="2">
+        UPS 負荷*
+       </td>
+       <td class="style4" name="current_status_43" rowspan="2">
+        UPSの出力電力（対最大負荷比較パーセンテージ）
+       </td>
+       <td class="style4" name="current_status_44">
+        ラインモードでのUPS出力ワット数
+       </td>
+      </tr>
+      <tr bgcolor="#FFFFF4">
+       <td class="style4" name="current_status_45">
+        バッテリーモードでのUPS出力ワット数
+       </td>
+      </tr>
+     </table>
+     <span name="current_status_46">
+      *注：これは全てのUPSモデルで利用出来る訳ではありません。
+     </span>
+    </div>
+   </div>
+  </main>
+  <footer>
+   <p name="navi_26">
+    © 2018-2020 CyberPower Systems, Inc. All rights reserved.
+   </p>
+  </footer>
+  <!-- jQuery -->
+  <script src="../resources/js/jquery-1.11.1.min.js">
+  </script>
+  <!-- Bootstrap JavaScript -->
+  <script src="../resources/js/bootstrap.min.js">
+  </script>
+  <!-- sticky -->
+  <script src="../resources/js/jquery.sticky.js">
+  </script>
+  <!-- common -->
+  <script src="../resources/js/common.js">
+  </script>
+ </body>
+</html>

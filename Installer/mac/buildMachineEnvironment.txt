@@ -1,0 +1,27 @@
+#
+# Build Machine(Jenkins Node) for building PowerPanel Personal for Mac
+#
+
+# System
+MacOS 10.14 Mojave
+
+
+# setup just once
+- git
+- python 3.6.1
+  * install python specific version 3.6.1. Higher version may caused some library corrupt.
+  * $ sudo easy_install pip
+  * $ python3 -m pip install virtualenv
+- install4j7
+  * open GUI, and key in license just once
+  * copy openJDK JRE bundle(ftp://ftp.cyberpower.com.tw/jre_bundles/macosx-amd64-1.8.0.201.tar.gz) to /Applications/install4j.app/Contents/Resources/app/jres
+- system sound library
+  * $ brew install libsndfile
+- i18n tool
+  * $ brew install gettext
+  * $ brew link --force gettext
+- ftp tool
+  * $ brew install inetutils
+  * $ PATH="/usr/local/opt/inetutils/libexec/gnubin:$PATH"
+- Jenkins agent
+  * install java 8. maybe higher? Jenkins didnot show constraint

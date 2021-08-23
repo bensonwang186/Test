@@ -1,0 +1,7 @@
+# {0} is an application name
+PrepareInstaller={0} připravuje Průvodce instalací, který vás provede zbývajícím procesem nastavení.
+WizardCaption=Průvodce instalací PowerPanel Personal
+FinishScreenCloudStep1=Kroky pro připojení PowerPanel Cloud
+FinishScreenCloudStep2=1. Přejít na Rozšířené
+FinishScreenCloudStep3=2. Připojit UPS k PowerPanel Cloud
+InstallingScreenCloudDescription=Výkon můžete sledovat kdykoli a kdekoli
